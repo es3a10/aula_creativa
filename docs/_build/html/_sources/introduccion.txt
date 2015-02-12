@@ -27,13 +27,6 @@ El sistema educativo tiene dos funciones principales: formar personas y dotar al
 Sociedad Industrial, Sociedad del Conocimiento, Sociedad Creativa
 
 En la última reforma del sistema educativo español, se establecen las siguientes competencias clave:
-a) 
-b) 
-c) 
-d) 
-e) 
-f) 
-g) 
 Comunicación lingüística.
 Competencia matemática y competencias básicas en ciencia y tecnología.
 Competencia digital.

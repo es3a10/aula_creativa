@@ -6,7 +6,7 @@
 Aula Creativa: Desarrollando una competencia de nuestro tiempo
 ==============================================================
 
-Contents:
+Contenidos:
 
 .. toctree::
    :maxdepth: 2
@@ -17,7 +17,7 @@ Contents:
 
 
 
-Indices and tables
+Índices y tablas
 ==================
 
 * :ref:`genindex`
