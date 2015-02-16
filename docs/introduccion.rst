@@ -53,8 +53,6 @@ En la última reforma del sistema educativo español, se establecen las siguient
 	- Sentido de iniciativa y espíritu emprendedor.
 	- Conciencia y expresiones culturales.
 
-
-
-http://www.eduteka.org/modulos.php?catx=9&idSubX=277&ida=914&art=1_
+http://www.eduteka.org/modulos.php?catx=9&idSubX=277&ida=914&art=1
 
 Y ..
