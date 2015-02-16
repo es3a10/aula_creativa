@@ -18,6 +18,11 @@ Algunas ventajas de ser "creativo", bajo mi humilde opinión serían:
 	- Ayuda a desarrollar el pensamiento crítico
 	- Desarrollar una competencia demandada por el sistema productivo
 	
+El fomento de la creatividad en el alumnado constituye una potente herramienta de aprendizaje.
+Crear un libro, un dibujo, un canción, una coreografía o un corto pueden ser excelentes maneras de no sólo adquirir conocimiento, sino también de desarrollar el espíritu crítico. Hasta ahora la tecnología e internet nos habían permitido “democratizar” (hacer accesible) la fabricación y el consumo de creaciones escritas, o audiovisuales. Sin embargo, esta democratización del mundo digital se está trasladando también al mundo físico: con una impresora 3D, las ideas las podemos materializar en objetos de forma rápida y barata.
+
+
+
 Evolución del sistema educativo
 ===============================
 
