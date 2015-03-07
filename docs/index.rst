@@ -5,7 +5,7 @@
 
 Aula Creativa: Desarrollando una competencia de nuestro tiempo
 ==============================================================
-Contens:
+Contenidos:
 
 .. toctree::
    :maxdepth: 2
