@@ -37,7 +37,8 @@ Lo siguiente es generar el fichero `stl` que nos permitirá imprimir los vértic
 En thingiverse podemos encontrar los vértices parametrizables para el poliedro que queramos y para el grosor de la arista que queramos (fuente:http://www.thingiverse.com/thing:9359/#files ):
 
 .. image:: ./images/poliedros_thingiverse.png
-    :width: 6 cm
+    :scale: 10 %
+    
     
    
 
