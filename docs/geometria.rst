@@ -40,11 +40,25 @@ En thingiverse podemos encontrar los vértices parametrizables para el poliedro 
     :width: 20000 px
     
     
-   
+De los ficheros que aparecen para descargar nos interesa el de extensión scad.
 
+El fichero de extensión scad, es el que nos va a permitir parametrizar los vértices a nuestro gusto.
+Para ello, abrimos el fichero con OpenScad y se modifica el grosor:
+
+.. image:: ./images/poliedros_openscad.png
+    :width: 20000 px   
     
+.. image:: ./images/poliedros_openscad_2.png
+    :width: 20000 px   
     
+.. image:: ./images/poliedros_openscad_3.png
+    :width: 20000 px   
+
+.. image:: ./images/poliedros_tetraedros_impresos.jpg
+    :width: 20000 px  
     
+.. image:: ./images/poliedros_tetraedro.jpg
+    :width: 20000 px    
    
     
     
