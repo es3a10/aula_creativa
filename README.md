@@ -1,5 +1,6 @@
 # aula_creativa
-Documentación de los diferentes proyectos realizados para ser llevados al aula de secundaria.
+Documentación correspondiente a diferentes actividades `creativas` cuyo objetivo es la de ser llevadas al aula. 
+Esta documentación no es más que un intento de organizar el trabajo realizado durante varios años, de poder tenerlo todo en un mismo repositorio y de hacerlo público.  
 
 La organización es la siguiente:
   - La carpeta ``docs`` contiene la documentación para leerse como si fuera un libro. En concreto, el libro se puede leer y descargar desde: http://aula-creativa.readthedocs.org/es/latest/index.html
