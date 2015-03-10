@@ -11,6 +11,7 @@ Poliedros Regulares
 En esta actividad vamos a crear los poliedros regulares con la ayuda de piezas impresas y palillos de brochetas.
 
 Para saber la cantidad de vértices y de aristas (piezas impresas y palillos), podemos ayudarnos de la fórmula de Euler:
+
     =====================================================================================
     :math:`C-A=V+2`
     =====================================================================================
