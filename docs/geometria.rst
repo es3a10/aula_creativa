@@ -12,9 +12,9 @@ En esta actividad vamos a crear los *poliedros regulares* con la ayuda de piezas
 
 Para saber la cantidad de vértices y de aristas (piezas impresas y palillos), podemos ayudarnos de la fórmula de Euler:
 
-     ** :math:`C-A=V+2` **
+     :math:`C-A=V+2`
     
-    más información: http://gaussianos.com/la-formula-de-euler-una-maravilla-matematica/)
+    (más información: http://gaussianos.com/la-formula-de-euler-una-maravilla-matematica/)
     
 Un ejercicio que puede estar bien es, calcular los vértices, caras y aristas imaginándonos los poliedros mentalmente. El tetraedro, por su prefijo, tiene cuatro caras. Si nos imaginamos una cara apoyada sobre el suelo, al ser triangular, tendrá 3 vértices. La punta que queda en alto, nos daría el cuarto vértice.
 
@@ -77,7 +77,11 @@ Detalle de dos vértices impresos:
 El tetraedro montado:
 a    
 .. image:: ./images/poliedros_tetraedro.jpg
-    :width: 20000 px    
+    :width: 20000 px  
+    
+No obstante si no tienes *impresora 3d*, siempre puedes usar como vértices gominolas. Aunque si decides hacerlo de esta manera, recuerda llevar vértices de sobra porque seguro que alguno se pierde por el camino ...
+
+ 
    
     
     
