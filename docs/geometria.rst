@@ -21,6 +21,8 @@ La suma de caras y vértices sería 4+4=8.
 
 The area of a circle is :math:`A_\text{c} = (\pi/4) d^2`. 
 
+ejercicio: 
+
 Por lo tanto, de la fórmula de Euler, obtenemos que las aristas han de ser 6.
 
 Entonces, necesitamos 6 palillos si queremos hacer un tetraedro
