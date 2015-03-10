@@ -39,7 +39,7 @@ En mi caso, mide 2.5 mm.
 
 Lo siguiente es generar el fichero `stl` que nos permitirá imprimir los vértices:
 
-En thingiverse podemos encontrar los vértices parametrizables para el poliedro que queramos y para el grosor de la arista que queramos (fuente: http://www.thingiverse.com/thing:9359/):
+En *thingiverse* podemos encontrar los vértices parametrizables para el poliedro que queramos y para el grosor de la arista que queramos (fuente: http://www.thingiverse.com/thing:9359/):
 
 .. image:: ./images/poliedros_thingiverse.png
     :width: 20000 px
@@ -53,15 +53,15 @@ Para ello, abrimos el fichero con OpenScad y se modifica el grosor:
 .. image:: ./images/poliedros_openscad.png
     :width: 20000 px   
     
-Tenemos que añadir una línea en la que ponga diameter = 3.4; . Nota: En la foto aparece 2.5, pero con ese valor sale una pieza muy pequeña.
+Tenemos que añadir una línea en la que ponga *diameter = 3.4;*. Nota: En la foto aparece 2.5, pero con ese valor sale una pieza muy pequeña.
 
 
-Un poco más abajo podemos parametrizar qué poliedro vamos a imprimir, para ello descomentamos (quitamos los //) en la línea que pone: placevertex(getPlatonicParams(tetra)); 
+Un poco más abajo podemos parametrizar qué poliedro vamos a imprimir, para ello descomentamos (quitamos los //) en la línea que pone: *placevertex(getPlatonicParams(tetra));* 
    
 .. image:: ./images/poliedros_openscad_2.png
     :width: 20000 px   
 
-Sólo nos queda compilara y renderizar (F6). Con esto obtendremos nuestro objeto en la parte de la derecha de la pantalla:
+Sólo nos queda *compilar y renderizar (F6)*. Con esto obtendremos nuestro objeto en la parte de la derecha de la pantalla:
    
 .. image:: ./images/poliedros_openscad_3.png
     :width: 20000 px   
@@ -75,7 +75,7 @@ Detalle de dos vértices impresos:
     :width: 20000 px
       
 El tetraedro montado:
-a    
+   
 .. image:: ./images/poliedros_tetraedro.jpg
     :width: 20000 px  
     
