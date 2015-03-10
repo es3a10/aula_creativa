@@ -17,7 +17,9 @@ C-A=V+2
 
 Un ejercicio que puede estar bien es, calcular los vértices, caras y aristas imaginándonos los poliedros mentalmente. El tetraedro, por su prefijo, tiene cuatro caras. Si nos imaginamos una cara apoyada sobre el suelo, al ser triangular, tendrá 3 vértices. La punta que queda en alto, nos daría el cuarto vértice.
 
-La suma de caras y vértices sería 4+4=8. 
+La suma de caras y vértices sería 4+4=8.
+
+The area of a circle is :math:`A_\text{c} = (\pi/4) d^2`. 
 
 Por lo tanto, de la fórmula de Euler, obtenemos que las aristas han de ser 6.
 
@@ -70,7 +72,7 @@ Detalle de dos vértices impresos:
     :width: 20000 px
       
 El tetraedro montado:
-    
+a    
 .. image:: ./images/poliedros_tetraedro.jpg
     :width: 20000 px    
    
