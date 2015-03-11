@@ -12,6 +12,11 @@ En esta actividad vamos a dibujar el Fractal de Koch:
 
 Para programar el *fractal de Koch*, tenemos que realizar un proceso recursivo, de manera que cuántas más veces iteremos la recursividad mayor nivel de detalle obtendremos.
 
-    .. image:: ./images/fractal1.png
+.. figure:: ./images/fractal1.png
     
+    (detalle de la función *linea_koch*)
+    
+.. code-block:: python
+
+        import image  
  
