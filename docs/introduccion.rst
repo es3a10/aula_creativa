@@ -19,7 +19,7 @@ Algunas ventajas de ser "creativo", bajo mi humilde opinión serían:
 	- Nos permite seguir siendo "niños"
 	- Ayuda a construir personas proactivas y con iniciativa
 	- Ayuda a desarrollar el pensamiento crítico
-	- Desarrollar una competencia demandada por el sistema productivo
+	- Desarrollar una competencia demandada por el sistema productivo actual
 	
 El fomento de la creatividad en el alumnado constituye una potente herramienta de aprendizaje.
 Crear un libro, un dibujo, un canción, una coreografía o un corto pueden ser excelentes maneras de no sólo adquirir conocimiento, sino también de desarrollar el espíritu crítico. 
@@ -30,31 +30,39 @@ Sin embargo, esta democratización del mundo digital se está trasladando tambi�
 	- con una placa arduino, podemos mediante sensores y actuadores, interactuar con el mundo físico 
 	- con un entorno de programación sencillo, podemos aprender la lógica de la programación, tanto de entornos virtuales como físicos
 
-El poder del conocimiento libre
+El poder del Conocimiento Libre
 ===============================
 
+Para poder explotar esa creatividad, es necesario dotar al alumnado de entornos y herramientas donde dar rienda suelta a la imaginación. El paradigma de Conocimiento Libre constituye un excelente caldo de cultivo para su desarrollo. La idea clave consiste en compartir el conocimiento. Esto tiene diferentes ventajas:
 
+    - Tener de dónde aprender
+    - Aportar
+    - Aprender explicando
+    - Aportar nuevas ideas 
 
 Evolución del sistema educativo
 ===============================
 
 Para entender el momento actual del sistema educativo, es importante saber de dónde venimos.
+
 El sistema educativo tiene dos funciones principales: formar personas y dotar al sistema productivo de personas formadas. Para analizar cada una de las funciones, deberemos por tanto analizar los modelos sociales y los modelos productivos que que se han venido dando.
 
 Sociedad Industrial, Sociedad del Conocimiento, Sociedad Creativa
 
 .. figure:: ./images/sociedades.png	
-	:alt: evolución
+	:alt: evolución de las sociedades
+
 
 En la última reforma del sistema educativo español, se establecen las siguientes competencias clave:
 
-	- Comunicación lingüística.
-	- Competencia matemática y competencias básicas en ciencia y tecnología.
-	- Competencia digital.
-	- Aprender a aprender.
-	- Competencias sociales y cívicas.
-	- Sentido de iniciativa y espíritu emprendedor.
-	- Conciencia y expresiones culturales.
+
+    - Comunicación lingüística.
+    - Competencia matemática y competencias básicas en ciencia y tecnología.
+    - Competencia digital.
+    - Aprender a aprender.
+    - Competencias sociales y cívicas.
+    - Sentido de iniciativa y espíritu emprendedor.
+    - Conciencia y expresiones culturales.
 
 http://www.eduteka.org/modulos.php?catx=9&idSubX=277&ida=914&art=1
 

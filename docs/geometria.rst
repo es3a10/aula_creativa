@@ -32,8 +32,12 @@ Lo siguiente será determinar la anchura de los palillos que hayamos comprado
 
 Con el calibre podemos medir la anchura:
 
-.. figure:: ./images/poliedros_calibre.jpg
-    :scale: 10 %
++---------------------------------------------+
+| .. figure:: ./images/poliedros_calibre.jpg  |
+|    :scale: 10 %                             |
++---------------------------------------------+
+|Detalle del calibre                          |
++---------------------------------------------+
     
 En mi caso, mide 2.5 mm.  
 

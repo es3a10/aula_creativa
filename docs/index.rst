@@ -12,6 +12,8 @@ Contenidos:
    
    introduccion
    geometria
+   funciones
+   
 
 Índices y tablas
 ==================
