@@ -15,7 +15,7 @@ En esta actividad vamos a dibujar el Fractal de Koch:
 
 Para programar el *fractal de Koch*, tenemos que realizar un proceso recursivo, de manera que cuántas más veces iteremos la recursividad mayor nivel de detalle obtendremos.
 
-La idea del fractal es la siguiente: Se parte de un segmento, pero en lugar de trazarse recto, se divide en tres partes. La primera y la tercera se trazan rectas, pero la segunda se divide en dos trazos en forma de pico en forma de lados de triángulo equilatero. Una vez hecho esto, el proceso se repite recursivamente.
+La idea del fractal es la siguiente: Se parte de un segmento, pero en lugar de trazarse recto, se divide en tres partes. La primera y la tercera se trazan rectas, pero la segunda se divide en dos trazos en forma de pico en forma de lados de triángulo equilátero. Una vez hecho esto, el proceso se repite recursivamente.
 
 
 .. figure:: ./images/fractal1.png
@@ -24,7 +24,31 @@ La idea del fractal es la siguiente: Se parte de un segmento, pero en lugar de t
     :alt: alternate text
     :figclass: align-center
     
+    (detalle de la función principal)
+    
+.. figure:: ./images/fractal2.png
+    :width: 2000px
+    :align: center
+    :alt: alternate text
+    :figclass: align-center
+    
     (detalle de la función *linea_koch*)
+    
+.. figure:: ./images/fractal3.png
+    :width: 2000px
+    :align: center
+    :alt: alternate text
+    :figclass: align-center
+    
+    (detalle de la función que dibuja la línea)
+    
+.. figure:: ./images/fractal4.png
+    :width: 2000px
+    :align: center
+    :alt: alternate text
+    :figclass: align-center
+    
+    (detalle del resultado de la ejecución de la línea)
 
 Con un plotter
 ---------------
