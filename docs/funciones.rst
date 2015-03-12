@@ -17,6 +17,13 @@ Para programar el *fractal de Koch*, tenemos que realizar un proceso recursivo, 
 
 La idea del fractal es la siguiente: Se parte de un segmento, pero en lugar de trazarse recto, se divide en tres partes. La primera y la tercera se trazan rectas, pero la segunda se divide en dos trazos en forma de pico en forma de lados de triángulo equilátero. Una vez hecho esto, el proceso se repite recursivamente.
 
+.. figure:: ./images/fractal7.jpg
+    :width: 2000px
+    :align: center
+    :alt: alternate text
+    :figclass: align-center
+    
+    (recursividad del fractal de Koch)
 
 .. figure:: ./images/fractal1.png
     :width: 2000px
