@@ -19,7 +19,7 @@ La idea del fractal es la siguiente: Se parte de un segmento, pero en lugar de t
 
 
 .. figure:: ./images/fractal1.png
-    :width: 200px
+    :width: 2000px
     :align: center
     :alt: alternate text
     :figclass: align-center
