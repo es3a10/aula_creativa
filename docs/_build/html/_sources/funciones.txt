@@ -13,7 +13,7 @@ En esta actividad vamos a dibujar el Fractal de Koch:
 
 Para programar el *fractal de Koch*, tenemos que realizar un proceso recursivo, de manera que cuántas más veces iteremos la recursividad mayor nivel de detalle obtendremos.
 
-La idea principal es la siguiente: Se parte de un segmento, pero en lugar de trazarse recto, se divide en tres partes. La primera y la tercera se trazan rectas, pero la segunda se divide en dos trazos en forma de pico en forma de lados de triángulo equilátero. Una vez hecho esto, el proceso se repite recursivamente:
+La idea del fractal es la siguiente: Se parte de un segmento, pero en lugar de trazarse recto, se divide en tres partes. La primera y la tercera se trazan rectas, pero la segunda se divide en dos trazos en forma de pico en forma de lados de triángulo equilátero. Una vez hecho esto, el proceso se repite recursivamente:
 
 .. figure:: ./images/fractal7.jpg
     :width: 400px
@@ -23,14 +23,10 @@ La idea principal es la siguiente: Se parte de un segmento, pero en lugar de tra
     
     (recursividad del fractal de Koch)
 
-Con lo anterior obtendríamos una línea del fractal, pero podemos combinar varias líneas para obtener una curva cerrada. Si hacemos tres líneas Koch con un ángulo de 60 grados entre ellas a modo de triángulo equilatero, obtenemos la típica estrella o *copo de nieve Koch*.
-
 Veamos entonces cómo podemos programarlo.
 
 Con Scratch
 ------------ 
-
-
 
 .. figure:: ./images/fractal1.png
     :width: 2000px
@@ -64,12 +60,12 @@ Con Scratch
     
     (detalle del resultado de la ejecución de la línea)
 
-Con un Plotter o Impresora 3D
-------------------------------
+Con un plotter
+---------------
 
 Las únicas órdenes que conoce el Plotter son las que vienen en el lenguaje *Gcodes* del *MIT*, y que constituye el estándar
-para programar cualquier máquina de control numérico en general. Puesto que el conjunto de ordenes puede ser todo lo grande que queramos
-(desde el punto de vista abstracto un fractal es una figura infinita), no nos queda más remedio que hacer un programa que 
+para programar cualquier máquina de control numérico en general. Puesto que el conjunto de ordenes puede ser muy grande,
+desde el punto de vista abstracto un fractal es una figura infinita, no nos queda más remedio que hacer un programa que 
 genere los gcodes por nosotros. El código del programa podemos hacerlo en *Python*, y una posible implementación sería:
     
 .. code-block:: python

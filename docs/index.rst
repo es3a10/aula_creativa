@@ -13,6 +13,7 @@ Contenidos:
    introduccion
    geometria
    funciones
+   miscelanea
    
 
 Índices y tablas

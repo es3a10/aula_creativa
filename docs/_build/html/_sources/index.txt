@@ -11,6 +11,9 @@ Contenidos:
    :maxdepth: 2
    
    introduccion
+   geometria
+   funciones
+   
 
 Índices y tablas
 ==================
