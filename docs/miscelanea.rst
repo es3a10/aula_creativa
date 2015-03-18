@@ -61,6 +61,12 @@ Construyendo la medalla
 _______________________
     
 Llegados a este punto, vamos a diseñar la medalla.
+Lo vamos a hacer con FreeCAD, pero podrías usar cualquier otro programa de diseño:
+
+#.  Con FreeCAD abierto, menú **Archivo-Nuevo**. De nuevo menú **Archivo-Importar**. Seleccionamos el archivo creado en el epígrafe del directorio de carpetas. Por ejemplo */home/usuario/images/scratch_face.svg*. Nos aparecerá un cuadro de diálogo  indicando si queremos importarlo como dibujo o como geometría SVG. Seleccionamos como geometría SVG
+
+
+
  
 
 
