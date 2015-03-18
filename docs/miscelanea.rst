@@ -24,8 +24,7 @@ resulta más interesante diseñarlas nosotros mismos.
 
 Veamos cómo.
 
-Creando un dibujo vectorial
-===========================
+**Creando un dibujo vectorial**
 
 Vamos a utilizar **inkscape** para dibujar la cara de la mascota de Scratch. Una técnica sencilla
 para hacer el dibujo consiste en calcar dibujos:
@@ -38,9 +37,14 @@ para hacer el dibujo consiste en calcar dibujos:
         
         (Imagen del gato Scratch importada a Inkscape)
 
-#. Creamos una segunda capa, que es la que utilizaremos para calcar. Sobre la segunda capa, calcamos el dibujo. Para ello utilizamos las *curvas de Beziers*. Podemos acceder a esa función con la combinación de teclas **MAYUSC+F6**. Vamos trazando puntos,
+#. Creamos una segunda capa, que es la que utilizaremos para calcar. Sobre la segunda capa, calcamos el dibujo. Para ello utilizamos las *curvas de Beziers*. Podemos acceder a esa función con la combinación de teclas **MAYUSC+F6**. Vamos trazando puntos
 
 
+    .. figure:: ./images/trofeo_scratch2.png
+        :width: 400 px
+        :align: center 
+
+        (Trazo del calco)
 
  
 
