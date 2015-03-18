@@ -12,7 +12,8 @@ Contenidos:
    
    introduccion
    geometria
-   funciones   
+   funciones 
+   miscelanea  
 
 Índices y tablas
 ==================
