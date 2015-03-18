@@ -39,7 +39,6 @@ para hacer el dibujo consiste en calcar dibujos:
 
 #. Creamos una segunda capa, que es la que utilizaremos para calcar. Sobre la segunda capa, calcamos el dibujo. Para ello utilizamos las *curvas de Beziers*. Podemos acceder a esa función con la combinación de teclas **MAYUSC+F6**. Vamos trazando puntos
 
-
     .. figure:: ./images/trofeo_scratch2.png
         :width: 400 px
         :align: center 
