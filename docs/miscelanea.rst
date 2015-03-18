@@ -34,10 +34,13 @@ Creando un dibujo vectorial
 Vamos a utilizar *inkscape* para dibujar la cara de la mascota de Scratch. Una técnica sencilla
 para hacer el dibujo consiste en calcar dibujos:
 
-#. Importamos nuestro dibujo vectorial descargado de Internet: Menu *Archivo-Importar*. Navegamos por la estructura de carpetas hasta seleccionar el archivo descargado. 
+#. Importamos nuestro dibujo vectorial descargado de Internet: Menú *Archivo-Importar*. Navegamos por la estructura de carpetas hasta seleccionar el archivo descargado. 
 
     .. figure:: ./images/trofeo_scratch.png
-        :width: 20000 px 
+        :width: 20000 px
+        :align: center 
+        
+        (Imagen del gato Scratch importada a Inkscape)
 
 #. Creamos una segunda capa, que es la que utilizaremos para calcar
 
