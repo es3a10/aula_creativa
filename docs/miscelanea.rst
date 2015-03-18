@@ -7,7 +7,7 @@ En este apartado se incluyen todas esas actividades que no han podido ser inclui
 Trofeos Scratch
 ----------------
 
-**Materiales:** Impresora 3D, Programa de diseño 3D, Programa de dibujo vectorial.
+Materiales: Impresora 3D, Programa de diseño 3D, Programa de dibujo vectorial.
 El objetivo de la actividad es diseñar una medalla con un logotipo, por ejemplo el de Scratch con motivo del Scratch Day: A partir de esta sencilla idea podemos construir trofeos, placas o medallas con el dibujo o dibujos que queramos. De esta manerase pueden utilizar para premiar al alumnado en diferentes concursos que se vayan haciendo. También puede ser interesante que sea el propio alumnado quien diseñe y construya sus propios trofeos. Recursos: Podemos partir de una imagen vectorial que fácilmente se puede 
 encontrar en Internet. Por ejemplo, en este enlace:
     http://upload.wikimedia.org/wikipedia/commons/d/d4/Scratchcat.svg
