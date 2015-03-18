@@ -13,20 +13,20 @@ El objetivo de la actividad es diseñar una medalla con el logotipo de Scratch. 
 podemos construir trofeos o medallas con el dibujo que queramos, y de esta manera premiar al alumnado en
 diferentes concursos que se vayan haciendo.   
 
-**Recursos:**
-
-Podemos partir de una imagen vectorial que fácilmente se puede 
-encontrar en Internet. Por ejemplo, en este enlace
-
-http://upload.wikimedia.org/wikipedia/commons/d/d4/Scratchcat.svg
-
-También podemos encontrar ficheros en 3D para imprimir directamente,
-por ejemplo:
-
-http://www.thingiverse.com/thing:336188/#files
-
-Pero los archivos *stl* son difíciles de importar con los programas de diseño, y por tanto
-resulta más interesante diseñarlas nosotros mismos.
+    **Recursos:**
+    
+    Podemos partir de una imagen vectorial que fácilmente se puede 
+    encontrar en Internet. Por ejemplo, en este enlace
+    
+    http://upload.wikimedia.org/wikipedia/commons/d/d4/Scratchcat.svg
+    
+    También podemos encontrar ficheros en 3D para imprimir directamente,
+    por ejemplo:
+    
+    http://www.thingiverse.com/thing:336188/#files
+    
+    Pero los archivos *stl* son difíciles de importar con los programas de diseño, y por tanto
+    resulta más interesante diseñarlas nosotros mismos.
 
 Creando un dibujo vectorial
 ===========================
