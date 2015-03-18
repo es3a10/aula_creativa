@@ -22,13 +22,15 @@ por ejemplo:
 Pero los archivos *stl* son difíciles de importar con los programas de diseño, y por tanto
 resulta más interesante diseñarlas nosotros mismos.
 
+Veamos cómo.
+
 Creando un dibujo vectorial
 ===========================
 
-Vamos a utilizar *inkscape* para dibujar la cara de la mascota de Scratch. Una técnica sencilla
+Vamos a utilizar **inkscape** para dibujar la cara de la mascota de Scratch. Una técnica sencilla
 para hacer el dibujo consiste en calcar dibujos:
 
-#. Importamos nuestro dibujo vectorial descargado de Internet: Menú *Archivo-Importar*. Navegamos por la estructura de carpetas hasta seleccionar el archivo descargado. 
+#. Importamos nuestro dibujo vectorial descargado de Internet: Menú **Archivo-Importar**. Navegamos por la estructura de carpetas hasta seleccionar el archivo descargado. 
 
     .. figure:: ./images/trofeo_scratch.png
         :width: 20000 px
@@ -36,10 +38,7 @@ para hacer el dibujo consiste en calcar dibujos:
         
         (Imagen del gato Scratch importada a Inkscape)
 
-#. Creamos una segunda capa, que es la que utilizaremos para calcar
-
-Sobre la segunda capa, calcamos el dibujo. Para ello utilizamos las curvas de Beziers.
-Podemos acceder a esa función con la combinación de teclas MAYUSC+F6. Vamos trazando puntos,
+#. Creamos una segunda capa, que es la que utilizaremos para calcar. Sobre la segunda capa, calcamos el dibujo. Para ello utilizamos las *curvas de Beziers*. Podemos acceder a esa función con la combinación de teclas **MAYUSC+F6**. Vamos trazando puntos,
 
 
 
