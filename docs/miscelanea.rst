@@ -11,14 +11,7 @@ Trofeos Scratch
 
 El objetivo de la actividad es diseñar una medalla con un logotipo, por ejemplo el de Scratch con motivo del Scratch Day:
 
-    .. figure:: ./images/trofeo_scratch7.jpg
-        :width: 20000 px
-        :align: center 
-        
-        (Imagen de una medalla con el gato de Scratch impreso en 3D)
-
-A partir de esta sencilla idea
-podemos construir trofeos, placas o medallas con el dibujo o dibujos que queramos. De esta manerase pueden utilizar para premiar al alumnado en diferentes concursos que se vayan haciendo. También puede ser interesante que sea el propio alumnado quien diseñe y construya sus propios trofeos.
+A partir de esta sencilla idea podemos construir trofeos, placas o medallas con el dibujo o dibujos que queramos. De esta manerase pueden utilizar para premiar al alumnado en diferentes concursos que se vayan haciendo. También puede ser interesante que sea el propio alumnado quien diseñe y construya sus propios trofeos.
 
 **Recursos:**   Podemos partir de una imagen vectorial que fácilmente se puede 
 encontrar en Internet. Por ejemplo, en este enlace:
@@ -37,7 +30,7 @@ ___________________________
 Vamos a utilizar **inkscape** para dibujar la cara de la mascota de Scratch. Una técnica sencilla
 para hacer el dibujo consiste en calcar dibujos:
 
-#. Importamos nuestro dibujo vectorial descargado de Internet: Seleccionamos **Menú-Archivo-Importar**. Navegamos por la estructura de carpetas hasta seleccionar el archivo descargado. 
+#. Importamos nuestro dibujo vectorial descargado de Internet: Seleccionamos **Menú-Archivo-Importar**. Navegamos por la estructura de carpetas hasta seleccionar el archivo descargado en el epígrafe anterior. 
 
     .. figure:: ./images/trofeo_scratch.png
         :width: 20000 px
@@ -95,6 +88,12 @@ Lo vamos a hacer con FreeCAD, pero podrías usar cualquier otro programa de dise
         (La medalla-trofeo Scratch terminada)
         
 #.  Guardamos el archivo en formato *stl* y lo imprimimos desde nuestra **impresora 3D**
+
+    .. figure:: ./images/trofeo_scratch7.jpg
+        :width: 20000 px
+        :align: center 
+        
+        (Imagen de una medalla con el gato de Scratch impreso en 3D)
 
 
 
