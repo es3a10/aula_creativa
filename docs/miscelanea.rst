@@ -15,10 +15,10 @@ El objetivo de la actividad es diseñar una medalla con un logotipo, por ejemplo
         :width: 20000 px
         :align: center 
         
-        (Imagen de una medalla con el gato e3 Scratch impreso en 3D)
+        (Imagen de una medalla con el gato de Scratch impreso en 3D)
 
 A partir de esta sencilla idea
-podemos construir trofeos, placas o medallas con el dibujo o dibujos que queramos. De esta manera podemos premiar al alumnado en diferentes concursos que se vayan haciendo. También puede ser interesante que sea el propio alumnado quien diseñe y construya sus propios trofeos.
+podemos construir trofeos, placas o medallas con el dibujo o dibujos que queramos. De esta manerase pueden utilizar para premiar al alumnado en diferentes concursos que se vayan haciendo. También puede ser interesante que sea el propio alumnado quien diseñe y construya sus propios trofeos.
 
 **Recursos:**   Podemos partir de una imagen vectorial que fácilmente se puede 
 encontrar en Internet. Por ejemplo, en este enlace:
