@@ -15,9 +15,36 @@ diferentes concursos que se vayan haciendo.
 
 **Recursos:**
 
+Podemos partir de una imagen vectorial que fácilmente se puede 
+encontrar en Internet. Por ejemplo, en este enlace
+
 http://upload.wikimedia.org/wikipedia/commons/d/d4/Scratchcat.svg
+
+También podemos encontrar ficheros en 3D para imprimir directamente,
+por ejemplo:
 
 http://www.thingiverse.com/thing:336188/#files
 
+Pero los archivos *stl* son difíciles de importar con los programas de diseño, y por tanto
+resulta más interesante diseñarlas nosotros mismos.
+
+Creando un dibujo vectorial
+===========================
+
+Vamos a utilizar *inkscape* para dibujar la cara de la mascota de Scratch. Una técnica sencilla
+para hacer el dibujo consiste en calcar dibujos:
+
+#. Importamos nuestro dibujo vectorial descargado de Internet: Menu *Archivo-Importar*. Navegamos por la estructura de carpetas hasta seleccionar el archivo descargado. 
+    .. figure:: ./images/trofeo_scratch
+        :width: 20000 px 
+
+#. Creamos una segunda capa, que es la que utilizaremos para calcar
+
+Sobre la segunda capa, calcamos el dibujo. Para ello utilizamos las curvas de Beziers.
+Podemos acceder a esa función con la combinación de teclas MAYUSC+F6. Vamos trazando puntos,
+
+
+
+ 
 
 
