@@ -25,7 +25,7 @@ resulta más interesante diseñarlas nosotros mismos.
 Veamos cómo.
 
 Creando un dibujo vectorial
----------------------------
+___________________________
 
 Vamos a utilizar **inkscape** para dibujar la cara de la mascota de Scratch. Una técnica sencilla
 para hacer el dibujo consiste en calcar dibujos:
@@ -58,7 +58,7 @@ para hacer el dibujo consiste en calcar dibujos:
 #.  Guardamos nuestro dibujo con formato vectorial. Por ejemplo: **scratch_face.svg**
 
 Construyendo la medalla
------------------------
+_______________________
     
 Llegados a este punto, vamos a diseñar la medalla.
  
