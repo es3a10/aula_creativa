@@ -69,7 +69,25 @@ Lo vamos a hacer con FreeCAD, pero podrías usar cualquier otro programa de dise
         :width: 400 px
         :align: center
         
-        (Trazos importado a **FreeCAD**)
+        (Trazos importados a **FreeCAD**)
+
+#.  Tenemos que extruir los trazos para obtener una figura en 3 dimensiones. Esto se hace desde el banco de trabajo **Part**. La altura de los trazos hay que ir adaptándolos para obtener el relieve necesario
+
+    .. figure:: ./images/trofeo_scratch5.png
+        :width: 400 px
+        :align: center
+        
+        (La cara de Scratch extruida)
+        
+#. Ya solo queda poner una base a la medalla y el texto que queramos. Desde el banco de trabajo **Part** podemos añadir un cilindro, y desde el bano **Part Design** podremos añadir texto para después extruirlo.
+
+    .. figure:: ./images/trofeo_scratch6.png
+        :width: 400 px
+        :align: center
+        
+        (La medalla-trofeo Scratch terminada)
+
+
 
 
 
