@@ -10,7 +10,7 @@ Como profesor de matemáticas que soy, muchas de estas actividades se han enfoca
 	Esta documentación puede ser leida en el orden que se quiera, usted es libre de elegir qué actividades le interesan
 
 Desarrollando la creatividad del alumno
-=======================================
+_______________________________________
 
 Pedagógicamente considero que fomentar la creatividad del alumnado es un esfuerzo que merece la pena.
 
@@ -31,7 +31,7 @@ Sin embargo, esta democratización del mundo digital se está trasladando tambi�
 	- con un entorno de programación sencillo, podemos aprender la lógica de la programación, tanto de entornos virtuales como físicos
 
 El poder del Conocimiento Libre
-===============================
+_______________________________
 
 Para poder explotar esa creatividad, es necesario dotar al alumnado de entornos y herramientas donde dar rienda suelta a la imaginación. El paradigma de Conocimiento Libre constituye un excelente caldo de cultivo para su desarrollo. La idea clave consiste en compartir el conocimiento. Esto tiene diferentes ventajas:
 
@@ -41,7 +41,7 @@ Para poder explotar esa creatividad, es necesario dotar al alumnado de entornos 
     - Aportar nuevas ideas 
 
 Evolución del sistema educativo
-===============================
+_______________________________
 
 Para entender el momento actual del sistema educativo, es importante saber de dónde venimos.
 
@@ -59,7 +59,6 @@ Sociedad Industrial, Sociedad del Conocimiento, Sociedad Creativa
 	
 En la última reforma del sistema educativo español, se establecen las siguientes competencias clave:
 
-
     - Comunicación lingüística.
     - Competencia matemática y competencias básicas en ciencia y tecnología.
     - Competencia digital.
@@ -70,6 +69,6 @@ En la última reforma del sistema educativo español, se establecen las siguient
 
 http://www.eduteka.org/modulos.php?catx=9&idSubX=277&ida=914&art=1
 
-Y ..
+
 
 
