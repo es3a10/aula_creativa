@@ -220,7 +220,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'Aulacreativa.tex', u'Aula creativa Documentation',
+  ('index', 'Aulacreativa.tex', u'Aula creativa. Documentación',
    u'Carlos Rodríguez', 'manual'),
 ]
 
