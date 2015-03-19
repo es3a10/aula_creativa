@@ -51,7 +51,12 @@ El sistema educativo tiene dos funciones principales: formar personas y dotar al
 de personas formadas. Para analizar cada una de las funciones, deberemos por tanto analizar los modelos sociales 
 y los modelos productivos que que se han venido dando.
 
-
+.. figure:: ./images/sociedades.png
+	:width: 2000px
+	:align: center
+	:alt: esquema de sociedades
+	
+	(evolución de las sociedades)
 
 En la última reforma del sistema educativo español, se establecen las siguientes competencias clave:
 
