@@ -31,3 +31,14 @@ Sin embargo, esta democratización del mundo digital se está trasladando tambi�
 	- con una impresora 3D, las ideas las podemos materializar en objetos de forma rápida y barata.
 	- con una placa arduino, podemos mediante sensores y actuadores, interactuar con el mundo físico 
 	- con un entorno de programación sencillo, podemos aprender la lógica de la programación, tanto de entornos virtuales como físicos
+
+El poder del Conocimiento Libre
+===============================
+Para poder explotar esa creatividad, es necesario dotar al alumnado de entornos y herramientas donde dar rienda 
+suelta a la imaginación. El paradigma de Conocimiento Libre constituye un excelente caldo de cultivo para su desarrollo. 
+La idea clave consiste en compartir el conocimiento. Esto tiene diferentes ventajas:
+
+    - Tener de dónde aprender
+    - Aportar
+    - Aprender explicando
+    - Aportar nuevas ideas 
