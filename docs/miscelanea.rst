@@ -15,7 +15,9 @@ Objetivo
 ________
 El objetivo de la actividad es diseñar una medalla con un logotipo, por ejemplo el de **Scratch**.
 La excusa para es diseñar una con motivo del 
-Scratch Day. A partir de esta sencilla idea podemos construir trofeos, placas o medallas con el dibujo o 
+Scratch Day. 
+
+A partir de esta sencilla idea podemos construir trofeos, placas o medallas con el dibujo o 
 dibujos que queramos. De esta manera se pueden utilizar para premiar al alumnado en diferentes concursos 
 que se vayan haciendo. También puede ser interesante que sea el propio alumnado quien diseñe y construya 
 sus propios trofeos. 
