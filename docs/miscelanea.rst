@@ -7,8 +7,28 @@ En este apartado se incluyen todas esas actividades que no han podido ser inclui
 Trofeos Scratch
 ----------------
 
-Materiales: Impresora 3D, Programa de diseño 3D, Programa de dibujo vectorial.
-El objetivo de la actividad es diseñar una medalla con un logotipo, por ejemplo el de Scratch con motivo del Scratch Day: A partir de esta sencilla idea podemos construir trofeos, placas o medallas con el dibujo o dibujos que queramos. De esta manerase pueden utilizar para premiar al alumnado en diferentes concursos que se vayan haciendo. También puede ser interesante que sea el propio alumnado quien diseñe y construya sus propios trofeos. Recursos: Podemos partir de una imagen vectorial que fácilmente se puede 
+Materiales 
+__________
+Impresora 3D, Programa de diseño 3D, Programa de dibujo vectorial.
+
+Objetivo
+________
+El objetivo de la actividad es diseñar una medalla con un logotipo, por ejemplo el de Scratch con motivo del 
+Scratch Day: A partir de esta sencilla idea podemos construir trofeos, placas o medallas con el dibujo o 
+dibujos que queramos. De esta manerase pueden utilizar para premiar al alumnado en diferentes concursos 
+que se vayan haciendo. También puede ser interesante que sea el propio alumnado quien diseñe y construya 
+sus propios trofeos. 
+
+    .. figure:: ./images/trofeo_scratch7.jpg
+        :width: 20000 px
+        :align: center 
+        
+        (Imagen de una medalla con el gato de Scratch impreso en 3D)
+
+
+Recursos
+________
+Podemos partir de una imagen vectorial que fácilmente se puede 
 encontrar en Internet. Por ejemplo, en este enlace:
 
     http://upload.wikimedia.org/wikipedia/commons/d/d4/Scratchcat.svg
@@ -88,11 +108,6 @@ Lo vamos a hacer con FreeCAD, pero podrías usar cualquier otro programa de dise
         
 #.  Guardamos el archivo en formato *stl* y lo imprimimos desde nuestra **impresora 3D**
 
-    .. figure:: ./images/trofeo_scratch7.jpg
-        :width: 20000 px
-        :align: center 
-        
-        (Imagen de una medalla con el gato de Scratch impreso en 3D)
 
 
 
