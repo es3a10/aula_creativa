@@ -264,7 +264,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'Aulacreativa', u'Documentación del proyecto: Aula creativa',
+  ('index', 'Aulacreativa', u'Documentación del proyecto: Aula Creativa',
    u'Carlos Rodríguez', 'Aulacreativa', 'One line description of project.',
    'Miscellaneous'),
 ]
