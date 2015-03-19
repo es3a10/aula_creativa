@@ -6,6 +6,15 @@
 Aula Creativa: Desarrollando una competencia de nuestro tiempo
 ______________________________________________________________
 
+La Creatividad es una de las características más relevantes de la infancia y olvidadas durante mucho tiempo
+por los sistemas educativos. Sin embargo, en los últimos tiempos, bien por coyuntura o bien por
+su importancia pedagógica, parece que cobra relevancia en los objetivos de los diferentes currículos educativos.
+
+Difícilmente, como docentes, podremos transmitir los valores creativo si nosotros mismos no
+desarrollamos nuestra propia creatividad. Esta compilación de actividades
+y documentos constituye un ejercicio creativo en si mismo.
+
+
 **Agradecimientos**
 
 Esta documentación no sería posible sin el ejemplo de todas aquellas personas que de manera
@@ -13,7 +22,7 @@ altruista comparten sus conocimientos en la Red y que me permiten que día a dí
 
 .. Gracias
 
-Contenidos:
+**Contenidos:**
 
 .. toctree::
    :maxdepth: 2
