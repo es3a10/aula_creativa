@@ -43,7 +43,7 @@ La idea clave consiste en compartir el conocimiento. Esto tiene diferentes venta
     - Aprender explicando
     - Aportar nuevas ideas 
 
-Evolución del sistema educativo
+Evolución del sistema educativo (De la Sociedad Industrial a la Sociedad Creativa)
 ===============================
 Para entender el momento actual del sistema educativo, es importante saber de dónde venimos.
 
@@ -52,7 +52,7 @@ de personas formadas. Para analizar cada una de las funciones, deberemos por tan
 y los modelos productivos que que se han venido dando.
 
 .. figure:: ./images/sociedades.png
-	:width: 2000px
+	:width: 400px
 	:align: center
 	:alt: esquema de sociedades
 	
@@ -67,3 +67,6 @@ En la última reforma del sistema educativo español, se establecen las siguient
     - Competencias sociales y cívicas.
     - Sentido de iniciativa y espíritu emprendedor.
     - Conciencia y expresiones culturales.
+    
+Un enfoque creativo a la hora de realizar las actividades permite desarrollar integralmente esas compentencias
+
