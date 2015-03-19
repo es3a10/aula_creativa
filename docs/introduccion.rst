@@ -50,9 +50,13 @@ El sistema educativo tiene dos funciones principales: formar personas y dotar al
 Sociedad Industrial, Sociedad del Conocimiento, Sociedad Creativa
 
 .. figure:: ./images/sociedades.png	
-	:alt: evolución de las sociedades
-
-
+	:width: 400px
+	:align: center
+	:alt: alternate text
+	:figclass: align-center
+	
+	(Evolución de las sociedades)
+	
 En la última reforma del sistema educativo español, se establecen las siguientes competencias clave:
 
 
