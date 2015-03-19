@@ -9,11 +9,8 @@ Contenidos:
 
 .. toctree::
    :maxdepth: 2
-   
+
    introduccion
-   geometria
-   funciones 
-   miscelanea  
 
 Índices y tablas
 ==================
