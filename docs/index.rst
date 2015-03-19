@@ -27,7 +27,6 @@ altruista comparten sus conocimientos en la Red y que me permiten que día a dí
 .. toctree::
    :maxdepth: 2
 
-   introduccion
    geometria
    funciones
    miscelanea
