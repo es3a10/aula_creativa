@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Aula Creativa: Desarrollando una competencia de nuestro tiempo
-______________________________________________________________
+==============================================================
 
 La Creatividad es una de las características más relevantes de la infancia y olvidadas durante mucho tiempo
 por los sistemas educativos. Sin embargo, en los últimos tiempos, bien por coyuntura o bien por
@@ -26,6 +26,8 @@ altruista comparten sus conocimientos en la Red y que me permiten que día a dí
 
 .. toctree::
    :maxdepth: 2
+   
+   introduccion
 
 Índices y tablas
 ==================
