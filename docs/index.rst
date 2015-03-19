@@ -27,11 +27,6 @@ altruista comparten sus conocimientos en la Red y que me permiten que día a dí
 .. toctree::
    :maxdepth: 2
 
-   geometria
-   funciones
-   miscelanea
-
-
 Índices y tablas
 ==================
 
