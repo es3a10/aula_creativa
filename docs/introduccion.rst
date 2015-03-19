@@ -50,7 +50,6 @@ Para entender el momento actual del sistema educativo, es importante saber de d√
 El sistema educativo tiene dos funciones principales: formar personas y dotar al sistema productivo
 de personas formadas. Para analizar cada una de las funciones, deberemos por tanto analizar los modelos sociales 
 y los modelos productivos que que se han venido dando.
-
 	.. figure:: ./images/sociedades.png
 		:width: 400px
 		:align: center
