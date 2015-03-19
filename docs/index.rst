@@ -4,13 +4,7 @@
    contain the root `toctree` directive.
 
 Aula Creativa: Desarrollando una competencia de nuestro tiempo
-==============================================================
-Contenidos:
-
-.. toctree::
-   :maxdepth: 2
-
-   introduccion
+______________________________________________________________
 
 **Agradecimientos**
 
@@ -18,6 +12,15 @@ Esta documentación no sería posible sin el ejemplo de todas aquellas personas 
 altruista comparten sus conocimientos en la Red y que me permiten que día a día aprenda algo.
 
 .. Gracias
+
+Contenidos:
+
+.. toctree::
+   :maxdepth: 2
+
+   introduccion
+
+
 
 Índices y tablas
 ==================
