@@ -12,7 +12,9 @@ su importancia pedagógica, parece que cobra relevancia en los objetivos de los 
 
 Difícilmente, como docentes, podremos transmitir los valores creativo si nosotros mismos no
 desarrollamos nuestra propia creatividad. Esta compilación de actividades
-y documentos constituye un ejercicio creativo en si mismo.
+y documentos constituye un ejercicio creativo en si mismo. El proceso de documentar y presentar lo que uno va a haciendo
+me ha demostrado ser una maravilosa herramienta de aprendizaje. Si además consiguiera que otros docentes colaboraran
+en la elaboración de estos materiales 
 
 
 **Agradecimientos**
