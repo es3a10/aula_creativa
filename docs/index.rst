@@ -5,12 +5,15 @@
 
 Aula Creativa: Desarrollando una competencia de nuestro tiempo
 ==============================================================
+
 Contenidos:
 
 .. toctree::
    :maxdepth: 2
 
    introduccion
+.. geometria
+
 
 Índices y tablas
 ==================
