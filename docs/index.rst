@@ -12,6 +12,14 @@ Contenidos:
 
    introduccion
 
+Agradecimientos
+_______________
+
+Esta documentación no sería posible sin el ejemplo de todas aquellas personas que de manera
+altruista comparten sus conocimientos en la Red y que me permiten que día a día aprenda algo.
+
+.. Gracias
+
 Índices y tablas
 ==================
 
