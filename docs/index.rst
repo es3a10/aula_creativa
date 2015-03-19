@@ -14,7 +14,8 @@ Difícilmente, como docentes, podremos transmitir los valores creativo si nosotr
 desarrollamos nuestra propia creatividad. Esta compilación de actividades
 y documentos constituye un ejercicio creativo en si mismo. El proceso de documentar y presentar lo que uno va a haciendo
 me ha demostrado ser una maravilosa herramienta de aprendizaje. Si además consiguiera que otros docentes colaboraran
-en la elaboración de estos materiales 
+en la elaboración de estos materiales, aprovecharíamos otro de los potenciales del trabajo colaborativo: El Conocimiento
+Libre.
 
 
 **Agradecimientos**
