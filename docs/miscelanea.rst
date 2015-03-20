@@ -4,7 +4,7 @@ Miscelánea
 
 En este apartado se incluyen todas esas actividades que no han podido ser incluidas en otro grupo
 
-Trofeos Scratch
+Medalla con el logotipo de Scratch
 ----------------
 
 Materiales 
