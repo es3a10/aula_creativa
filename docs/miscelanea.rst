@@ -14,7 +14,7 @@ Impresora 3D, Programa de diseño 3D, Programa de dibujo vectorial.
 Objetivo
 ________
 El objetivo de la actividad es diseñar una medalla.  En concreto una medalla con el logotipo de **Scratch**.
-La excusa para haceral es diseñar una con motivo del Scratch Day. 
+La excusa para hacerla es diseñar una con motivo del Scratch Day. 
 
 Siguiende esta idea podemos construir trofeos, placas o medallas con el dibujo o 
 dibujos que queramos. Podemos utilizar este tipo de objetos para premiar al alumnado en diferentes concursos 
@@ -67,7 +67,7 @@ para hacer el dibujo consiste en calcar dibujos:
 
         (Trazo del calco)
         
-#.  Al acabar el calco, borramos la capa del dibujo original, para quedarnos solo con el trazo calcado. Por otro lado, la esquina superior izquierda del documento será interpretada como origen de coordenadas al exportarlo a **FreeCAD**, por lo que conviene trasladar el dibujo a esa posición.
+#. Al acabar el calco, borramos la capa del dibujo original, para quedarnos solo con el trazo calcado. Por otro lado, la esquina superior izquierda del documento será interpretada como origen de coordenadas al exportarlo a **FreeCAD**, por lo que conviene trasladar el dibujo a esa posición.
 
     
     .. figure:: ./images/trofeo_scratch3.png
@@ -92,7 +92,7 @@ Lo vamos a hacer con FreeCAD, pero podrías usar cualquier otro programa de dise
         
         (Trazos importados a **FreeCAD**)
 
-#.  Tenemos que extruir los trazos para obtener una figura en 3 dimensiones. Esto se hace desde el banco de trabajo **Part**. La altura de extrusóin hay que ir adaptándola según los trazos, para obtener finalmente el relieve necesario
+#.  Tenemos que extruir los trazos para obtener una figura en 3 dimensiones. Esto se hace desde el banco de trabajo **Part**. La altura de extrusión hay que ir adaptándola según los trazos, para obtener finalmente el relieve necesario
 
     .. figure:: ./images/trofeo_scratch5.png
         :width: 400 px
