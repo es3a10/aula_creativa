@@ -13,13 +13,12 @@ Impresora 3D, Programa de diseño 3D, Programa de dibujo vectorial.
 
 Objetivo
 ________
-El objetivo de la actividad es diseñar una medalla con un logotipo, por ejemplo el de **Scratch**.
-La excusa para es diseñar una con motivo del 
-Scratch Day. 
+El objetivo de la actividad es diseñar una medalla.  En concreto una medalla con el logotipo de **Scratch**.
+La excusa para haceral es diseñar una con motivo del Scratch Day. 
 
-A partir de esta sencilla idea podemos construir trofeos, placas o medallas con el dibujo o 
-dibujos que queramos. De esta manera se pueden utilizar para premiar al alumnado en diferentes concursos 
-que se vayan haciendo. También puede ser interesante que sea el propio alumnado quien diseñe y construya 
+Siguiende esta idea podemos construir trofeos, placas o medallas con el dibujo o 
+dibujos que queramos. Podemos utilizar este tipo de objetos para premiar al alumnado en diferentes concursos 
+que se vayan haciendo. También puede ser interesante, como actividad, que sea el propio alumnado quien diseñe y construya 
 sus propios trofeos. 
 
     .. figure:: ./images/trofeo_scratch7.jpg
@@ -41,7 +40,7 @@ por ejemplo:
 
     http://www.thingiverse.com/thing:336188/#files
 
-Pero los archivos *stl* son difíciles de importar y manipular con los programas de diseño, y por tanto
+Pero los archivos *stl* son difíciles de manipular con los programas de diseño, y por tanto
 resulta más interesante diseñarlos nosotros mismos.
 
 Veamos cómo.
