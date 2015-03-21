@@ -30,13 +30,16 @@ Algunas ventajas de ser "creativo" son:
 	
 El fomento de la creatividad en el alumnado constituye una potente herramienta de aprendizaje.
 Crear un libro, un dibujo, un canción, una coreografía o un corto pueden ser excelentes maneras de no sólo adquirir conocimiento, sino también de desarrollar el espíritu crítico. 
+Todo proceso creativo comienza con la ideas, pero esas ideas hay que materializarlas, y para eso es necesario documentarse, 
+aprender a hacer y en muchos casos utilizar conocimientos previos.  
+
 Hasta ahora la tecnología e Internet nos habían permitido “democratizar” (hacer accesible) la fabricación y el consumo de creaciones escritas, o audiovisuales. 
 Sin embargo, esta democratización del mundo digital se está trasladando también al mundo físico:
  
 	- con una impresora 3D, las ideas las podemos materializar en objetos de forma rápida y barata.
 	- con una placa arduino, podemos mediante sensores y actuadores, interactuar con el mundo físico 
-	- con un entorno de programación sencillo, podemos aprender la lógica de la programación, tanto de entornos virtuales como físicos
-
+	- con un entorno de programación sencillo, podemos aprender la lógica de la programación, tanto de entornos virtuales como físicos.
+	
 
 El poder del Conocimiento Libre
 ===============================
