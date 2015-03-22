@@ -20,6 +20,8 @@ condicionan y dan sentido a las actividades que en esta compilación aparecen.
 Desarrollando la creatividad del alumno
 =======================================
 Pedagógicamente considero que fomentar la creatividad del alumnado es un esfuerzo que merece la pena.
+La observación y la experimentación es la forma natural de aprender de los niños, por lo que conviene facilitar este tipo
+de aprendizajes. 
 
 Algunas ventajas de ser "creativo" son:
  
@@ -45,33 +47,55 @@ Sin embargo, esta democratización del mundo digital se está trasladando tambi�
 	- con un entorno de programación sencillo, podemos aprender la lógica de la programación, tanto de entornos virtuales como físicos.
 
 Aunque muchas de las actividades propuestas se basan en el uso de la tecnología, es evidente que no es la única forma de 
-desarrollar la creatividad. Por eso, también aparecerán adaptaciones de actividades "menos tecnológicas".
+desarrollar la creatividad. Por eso, también aparecerán adaptaciones de actividades "menos tecnológicas" como pueda ser la papiroflexia.
 
 El poder del Conocimiento Libre
 ===============================
 Para poder desarrollar esa creatividad, es necesario dotar al alumnado de entornos y herramientas adecuadas. 
-En el paradigma de Conocimiento Libre encontramos un excelente modelo de aprendizaje. 
+En el paradigma de Conocimiento Libre encontramos un excelente modelo de enseñanza-aprendizaje. 
 La idea clave consiste en compartir el conocimiento, pero no es la única. Intentaré explicarlo mejor:
 
-El ejemplo más claro de Conocimiento Libre lo encontramos en las universidades. Si nos paramos a pensar, la Universidades se han dedicado a distribuir y divulgar el conocimiento durante siglos.
+El modelo universitario
+_______________________
+
+El ejemplo más claro de Conocimiento Libre lo encontramos en las universidades. Si nos paramos a pensar, 
+la Universidades se han dedicado a distribuir y divulgar el conocimiento durante siglos.
 Ese conocimiento está a disposición de quién quiera recibirlo. Veamos como se ha venido desarrollando la creatividad, 
-innovación le llaman algunos, en la investigació universitaria: L
+innovación le llaman algunos, en la investigació universitaria: Los investigadores publican sus trabajos para
+que el resto de la comunidad se beneficie de esos resultados. Además se reunen en congresos donde exponen resultados
+y aportan nuevas ideas para futuras investigaciones.
+En definitiva, se buscan sinergias entre todos los miembros de la comunidad educativa consiguiendo que la suma
+colectiva se superior a la suma de las individualidades.
+
+El Software Libre
+_________________
+Del entorno universitario, y a través de Internet, surge 
+
+El Hardware Libre
+_________________
+
+La amenanza de las patentes
 
 
-Esto tiene diferentes ventajas:
+Aula creativa
+_____________
+Este modelo podemos reproducirlo en el aula, con estas ventajas:
 
     - Tener de dónde aprender
     - Aportar
-    - Aprender explicando
+    - Aprender explicando y documentando
     - Aportar nuevas ideas 
+    - Vuelta al primer punto en forma de espiral
 
 Evolución del sistema educativo (De la Sociedad Industrial a la Sociedad Creativa)
 ===============================
-Para entender el momento actual del sistema educativo, es importante saber de dónde venimos.
+Para entender el momento actual del sistema educativo, es importante saber de dónde venimos, qué evolución social ha habido.
 
 El sistema educativo tiene dos funciones principales: formar personas y dotar al sistema productivo
 de personas formadas. Para analizar cada una de las funciones, deberemos por tanto analizar los modelos sociales 
-y los modelos productivos que que se han venido dando.
+y los modelos productivos que se han venido dando.
+
+
 	.. figure:: ./images/sociedades.png
 		:width: 400px
 		:align: center
