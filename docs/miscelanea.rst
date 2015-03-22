@@ -1,5 +1,5 @@
 ===================
-Miscelánea
+Miscelánea  (Borrador --> TO DO)
 ===================
 
 En este apartado se incluyen todas esas actividades que no han podido ser incluidas en otro grupo
