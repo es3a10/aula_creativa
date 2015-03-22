@@ -44,3 +44,42 @@ En *thingiverse* podemos encontrar los vértices parametrizables para el poliedr
 
 .. image:: ./images/poliedros_thingiverse.png
     :width: 400 px
+    
+    
+    
+    
+De los ficheros que aparecen para descargar nos interesa el de extensión scad.
+
+El fichero de extensión scad, es el que nos va a permitir parametrizar los vértices a nuestro gusto.
+Para ello, abrimos el fichero con OpenScad y se modifica el grosor:
+
+.. image:: ./images/poliedros_openscad.png
+    :width: 20000 px   
+    
+Tenemos que añadir una línea en la que ponga *diameter = 3.4;*. Nota: En la foto aparece 2.5, pero con ese valor sale una pieza muy pequeña.
+
+
+Un poco más abajo podemos parametrizar qué poliedro vamos a imprimir, para ello descomentamos (quitamos los //) en la línea que pone: *placevertex(getPlatonicParams(tetra));* 
+   
+.. image:: ./images/poliedros_openscad_2.png
+    :width: 20000 px   
+
+Sólo nos queda *compilar y renderizar (F6)*. Con esto obtendremos nuestro objeto en la parte de la derecha de la pantalla:
+   
+.. image:: ./images/poliedros_openscad_3.png
+    :width: 20000 px   
+
+Paso 4: Imprimir los vértices y montar:
+
+
+Detalle de dos vértices impresos:
+
+.. image:: ./images/poliedros_tetraedros_impresos.jpg
+    :width: 20000 px
+      
+El tetraedro montado:
+   
+.. image:: ./images/poliedros_tetraedro.jpg
+    :width: 20000 px  
+    
+No obstante si no tienes *impresora 3d*, siempre puedes usar como vértices gominolas. Aunque si decides hacerlo de esta manera, recuerda llevar vértices de sobra porque seguro que alguno se pierde por el camino ...
