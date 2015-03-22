@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Aula Creativa: Desarrollando una competencia de nuestro tiempo
+Aula Creativa: Desarrollando una competencia de nuestro tiempo  (Borrador --> TO DO)
 ==============================================================
 
 La Creatividad es una de las características más relevantes de la infancia y olvidadas durante mucho tiempo
