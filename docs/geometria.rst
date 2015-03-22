@@ -25,3 +25,22 @@ La suma de caras y vértices sería 4+4=8.
 .. ejercicio :math:`\frac{5^2}{x^3}`  .
 
 Por lo tanto, de la fórmula de Euler, obtenemos que las aristas han de ser 6.
+
+Entonces, necesitamos 6 palillos si queremos hacer un tetraedro
+
+Lo siguiente será determinar la anchura de los palillos que hayamos comprado
+
+Con el calibre podemos medir la anchura:
+    
+    .. figure:: ./images/poliedros_calibre.jpg 
+        :width: 400px
+        
+        detalle del calibre
+En mi caso, mide 2.5 mm.  
+
+Lo siguiente es generar el fichero `stl` que nos permitirá imprimir los vértices:
+
+En *thingiverse* podemos encontrar los vértices parametrizables para el poliedro que queramos y para el grosor de la arista que queramos (fuente: http://www.thingiverse.com/thing:9359/):
+
+.. image:: ./images/poliedros_thingiverse.png
+    :width: 400 px
