@@ -33,9 +33,9 @@ Algunas ventajas de ser "creativo" son:
 El fomento de la creatividad en el alumnado constituye una potente herramienta de aprendizaje.
 Crear un libro, un dibujo, un canción, una coreografía o un corto pueden ser excelentes maneras de no sólo adquirir conocimiento, sino también de desarrollar el espíritu crítico. 
 Todo proceso creativo comienza con la ideas, pero esas ideas hay que materializarlas, y para eso es necesario documentarse, 
-aprender a hacer y en muchos casos utilizar conocimientos previos. Si nos fijamos en la sociedad, posíblemente los sectores
-con el razonamiento crítico más desarrollado sean los artistas: cineasta, escritores, ... 
-Su actividad creativa les hace "pensar", documentarse, cuestionar y extraer sus propias conclusiones. En este senttido,
+aprender a hacer y en muchos casos utilizar conocimientos previos. Nos encontramos frente a un ejercicio constante de pensamiento, valoración de opciones y toma de decisiones.
+Si nos fijamos en la sociedad, posíblemente los sectores con el razonamiento crítico más desarrollado sean los artistas: cineasta, escritores, ... 
+Su actividad creativa les hace "pensar", documentarse, cuestionar y extraer sus propias conclusiones. En este sentido,
 las ciencias humanas han sido mucho más "críticas" que las regidas por el método científico. La inclusión de actividades
 creativas en asignaturas "más científicas" puede ayudar a rellenar esa falta de "espíritu crítico".
 
