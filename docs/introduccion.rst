@@ -2,6 +2,8 @@
 Introducción (Borrador --> TO_DO)
 ============
 
+      :math:`C-A=V+2`
+
 Son muchas las razones que me han llevado a elaborar la siguiente compilación de actividades creativas. 
 La principal razón es la de poder aportarlas a quién esté interesado. Después de varios años pensando
 y trabajando sobre actividades diversas relacionadas con mi día a día como docente me siento en la obligación 
