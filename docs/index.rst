@@ -30,7 +30,6 @@ altruista comparten sus conocimientos en la Red y que me permiten que día a dí
    introduccion
    miscelanea
    funciones
-   geometria
 
 Índices y tablas
 ==================
