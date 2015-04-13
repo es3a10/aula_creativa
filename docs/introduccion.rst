@@ -51,9 +51,15 @@ desarrollar la creatividad. Por eso, también aparecerán adaptaciones de activi
 
 El poder del Conocimiento Libre
 ===============================
-Para poder desarrollar esa creatividad, es necesario dotar al alumnado de entornos y herramientas adecuadas. 
+Para poder desarrollar esa creatividad, es necesario dotar al alumnado de entornos y herramientas adecuadas.
+Sin duda, la tecnología es una de ellas. La democratización de numerosas facetas creativas ha sido posible gracias al desarrollo de la tecnología. Ahora es relativamente sencillo crear un vídeo o una canción con los medios actuales. Sin embargo, no siempre ha sido así.  
 En el paradigma de Conocimiento Libre encontramos un excelente modelo de enseñanza-aprendizaje. 
 La idea clave consiste en compartir el conocimiento, pero no es la única. Intentaré explicarlo mejor:
+
+La filosofía del conocimiento libre se basa en el hecho de permitir a los demás acceder al conocimiento desarrollado. Este concepto no es nuevo, ya en la Edad Media, la clase eclesiástica se dedico a recopilar y plasmar en libros el conocimiento del que se disponía en aquella época. La intención era recopilarla en libros para que el resto de la sociedad tuviera acceso al conocimiento. Ese modelo se traslado luego al concepto de Universidad, que no han dejado de ser centros de difusión del conocimiento. Cualquiera, que cumpliera los requisito, que quisiera podía acceder al conocimiento que en sus diferentes carreras contenían.
+
+ 
+
 
 El modelo universitario
 _______________________

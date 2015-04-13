@@ -1,0 +1,128 @@
+============
+Introducción (Borrador --> TO_DO)
+============
+
+Son muchas las razones que me han llevado a elaborar la siguiente compilación de actividades creativas. 
+La principal razón es la de poder aportarlas a quién esté interesado. Después de varios años pensando
+y trabajando sobre actividades diversas relacionadas con mi día a día como docente me siento en la obligación 
+de ir documentando y organizándolas. 
+
+Como profesor de matemáticas que soy, muchas de estas actividades se han enfocado para complementar dicha asigantura. 
+Sin embargo, estoy convencido que el lector podrá modificarlas para adaptarlas a sus necesidades, y que por tanto 
+su lectura no se reduce únicamente a profesorado de matemáticas. 
+
+.. note::
+	Esta documentación puede ser leida en el orden que se quiera, usted es libre de elegir qué actividades le interesan
+
+Me gustaría empezar esta introducción con una pequeña reflexión personal sobre aspectos sociales, económicos y pedagógicos que
+condicionan y dan sentido a las actividades que en esta compilación aparecen.
+
+Desarrollando la creatividad del alumno
+=======================================
+Pedagógicamente considero que fomentar la creatividad del alumnado es un esfuerzo que merece la pena.
+La observación y la experimentación es la forma natural de aprender de los niños, por lo que conviene facilitar este tipo
+de aprendizajes. 
+
+Algunas ventajas de ser "creativo" son:
+ 
+	- Nos permite seguir siendo "niños"
+	- Ayuda a construir personas proactivas y con iniciativa
+	- Ayuda a desarrollar el pensamiento crítico
+	- Desarrolla una competencia demandada por el sistema productivo actual
+	
+El fomento de la creatividad en el alumnado constituye una potente herramienta de aprendizaje.
+Crear un libro, un dibujo, un canción, una coreografía o un corto pueden ser excelentes maneras de no sólo adquirir conocimiento, sino también de desarrollar el espíritu crítico. 
+Todo proceso creativo comienza con la ideas, pero esas ideas hay que materializarlas, y para eso es necesario documentarse, 
+aprender a hacer y en muchos casos utilizar conocimientos previos. Nos encontramos frente a un ejercicio constante de pensamiento, valoración de opciones y toma de decisiones.
+Si nos fijamos en la sociedad, posíblemente los sectores con el razonamiento crítico más desarrollado sean los artistas: cineasta, escritores, ... 
+Su actividad creativa les hace "pensar", documentarse, cuestionar y extraer sus propias conclusiones. En este sentido,
+las ciencias humanas han sido mucho más "críticas" que las regidas por el método científico. La inclusión de actividades
+creativas en asignaturas "más científicas" puede ayudar a rellenar esa falta de "espíritu crítico".
+
+Hasta ahora la tecnología e Internet nos habían permitido “democratizar” (hacer accesible) la fabricación y el consumo de creaciones escritas, o audiovisuales. 
+Sin embargo, esta democratización del mundo digital se está trasladando también al mundo físico:
+ 
+	- con una impresora 3D, las ideas las podemos materializar en objetos de forma rápida y barata.
+	- con una placa arduino, podemos mediante sensores y actuadores, interactuar con el mundo físico 
+	- con un entorno de programación sencillo, podemos aprender la lógica de la programación, tanto de entornos virtuales como físicos.
+
+Aunque muchas de las actividades propuestas se basan en el uso de la tecnología, es evidente que no es la única forma de 
+desarrollar la creatividad. Por eso, también aparecerán adaptaciones de actividades "menos tecnológicas" como pueda ser la papiroflexia.
+
+El poder del Conocimiento Libre
+===============================
+Para poder desarrollar esa creatividad, es necesario dotar al alumnado de entornos y herramientas adecuadas.
+Sin duda, la tecnología es una de ellas. La democratización de numerosas facetas creativas ha sido posible gracias al desarrollo de la tecnología. Ahora es relativamente sencillo crear un vídeo o una canción con los medios actuales. Sin embargo, no siempre ha sido así.  
+En el paradigma de Conocimiento Libre encontramos un excelente modelo de enseñanza-aprendizaje. 
+La idea clave consiste en compartir el conocimiento, pero no es la única. Intentaré explicarlo mejor:
+
+La filosofía del conocimiento libre se basa en el hecho de permitir a los demás acceder al conocimiento desarrollado. Este concepto no es nuevo, ya en la Edad Media, la clase eclesiástica se dedico a recopilar y plasmar en libros el conocimiento del que se disponía en aquella época. La intención era recopilarla en libros para que el resto de la sociedad tuviera acceso al conocimiento. Ese modelo se traslado luego al concepto de Universidad, que no han dejado de ser centros de difusión del conocimiento. Cualquiera, que cumpliera los requisito, que quisiera podía acceder al conocimiento que en sus diferentes carreras contenían.
+
+Las bibliotecas son otro ejemplo de conocimiento libre, herencia del modelo monacal medieval.
+
+Ese afán por compartir y explicar el conocimiento generado constituye una herramienta 
+
+
+El modelo universitario
+_______________________
+
+El ejemplo más claro de Conocimiento Libre lo encontramos en las universidades. Si nos paramos a pensar, 
+la Universidades se han dedicado a distribuir y divulgar el conocimiento durante siglos.
+Ese conocimiento está a disposición de quién quiera recibirlo. Veamos como se ha venido desarrollando la creatividad, 
+innovación le llaman algunos, en la investigació universitaria: Los investigadores publican sus trabajos para
+que el resto de la comunidad se beneficie de esos resultados. Además se reunen en congresos donde exponen resultados
+y aportan nuevas ideas para futuras investigaciones.
+En definitiva, se buscan sinergias entre todos los miembros de la comunidad educativa consiguiendo que la suma
+colectiva se superior a la suma de las individualidades.
+
+El Software Libre
+_________________
+Del entorno universitario, y a través de Internet, surge 
+
+El Hardware Libre
+_________________
+
+La amenanza de las patentes
+
+
+Aula creativa
+_____________
+Este modelo podemos reproducirlo en el aula, con estas ventajas:
+
+    - Tener de dónde aprender
+    - Aportar
+    - Aprender explicando y documentando
+    - Aportar nuevas ideas 
+    - Vuelta al primer punto en forma de espiral
+
+Evolución del sistema educativo (De la Sociedad Industrial a la Sociedad Creativa)
+===============================
+Para entender el momento actual del sistema educativo, es importante saber de dónde venimos, qué evolución social ha habido.
+
+El sistema educativo tiene dos funciones principales: formar personas y dotar al sistema productivo
+de personas formadas. Para analizar cada una de las funciones, deberemos por tanto analizar los modelos sociales 
+y los modelos productivos que se han venido dando.
+
+
+	.. figure:: ./images/sociedades.png
+		:width: 400px
+		:align: center
+		:alt: esquema de sociedades
+		
+		(evolución de las sociedades)
+
+En la última reforma del sistema educativo español, se establecen las siguientes competencias clave:
+
+    - Comunicación lingüística.
+    - Competencia matemática y competencias básicas en ciencia y tecnología.
+    - Competencia digital.
+    - Aprender a aprender.
+    - Competencias sociales y cívicas.
+    - Sentido de iniciativa y espíritu emprendedor.
+    - Conciencia y expresiones culturales.
+    
+Un enfoque creativo a la hora de realizar las actividades permite desarrollar integralmente esas compentencias
+
+http://www.eduteka.org/modulos.php?catx=9&idSubX=277&ida=914&art=1
+
+
