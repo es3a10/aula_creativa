@@ -35,17 +35,17 @@ El proyecto intenta potenciar la creatividad del alumnado a partir de la tecnolo
 el conocimiento libre. Las principales razones son las siguientes:
 
 	- La creatividad es una forma natural de aprendizaje. 
-Si observamos a los niños veremos que de
-manera natural crean sus juguetes, sus disfraces, les encanta desmontar las cosas para
-volver a montarlas. Por tanto, es conveniente recuperar esa forma de aprender
+	Si observamos a los niños veremos que de
+	manera natural crean sus juguetes, sus disfraces, les encanta desmontar las cosas para
+	volver a montarlas. Por tanto, es conveniente recuperar esa forma de aprender
 
 	- El conocimiento libre se basa en compartir el conocimiento, en difundirlo.
-Por una parte el propio proceso de documentar, explicar y compartir lo que se ha hecho
-constituye una excelente forma de aprender
+	Por una parte el propio proceso de documentar, explicar y compartir lo que se ha hecho
+	constituye una excelente forma de aprender
 
 	- Nuestra sociedad se caracteriza por el alto nivel tecnológico, por tanto es
-conveniente que nuestro alumnado conocza y domine la tecnología, que sepa cómo está
-hecha
+	conveniente que nuestro alumnado conocza y domine la tecnología, que sepa cómo está
+	hecha
 
 	- La creatividad como revulsivo a la crisis
 
