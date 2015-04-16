@@ -29,9 +29,9 @@ se fomenten, además de las relaciones sociales, aspectos como
 la creatividad del alumnado, el conocimiento libre, el trabajo colectivo,
 el consumo responsable, etc.
 
-#. Creatividad y conocimiento libre
-El proyecto intenta potenciar la creatividad del alumnado a partir de la tecnología y
-el conocimiento libre. Las principales razones son las siguientes:
+#. Creatividad y conocimiento libre.
+	El proyecto intenta potenciar la creatividad del alumnado a partir de la tecnología y
+	el conocimiento libre. Las principales razones son las siguientes:
 
 	- La creatividad es una forma natural de aprendizaje. 
 	Si observamos a los niños veremos que de
