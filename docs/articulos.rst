@@ -25,8 +25,31 @@ tecnológicos, se considera "maker" a todo el que construye cosas por sus propio
 sean muebles, vestidos, alimentos, etc.
 
 La idea de este proyecto es construir un espacio "maker" en el instituto. Un espacio donde
-se fomente, además de las relaciones sociales,
-la creatividad del alumnado, el trabajo colectivo, y el conocimiento libre.
+se fomenten, además de las relaciones sociales, aspectos como
+la creatividad del alumnado, el conocimiento libre, el trabajo colectivo,
+el consumo responsable, etc.
+
+#. Creatividad y conocimiento libre
+
+El proyecto intenta potenciar la creatividad del alumnado a partir de la tecnología y
+el conocimiento libre. Las principales razones son las siguientes:
+
+	- La creatividad es una forma natural de aprendizaje. 
+Si observamos a los niños veremos que de
+manera natural crean sus juguetes, sus disfraces, les encanta desmontar las cosas para
+volver a montarlas. Por tanto, es conveniente recuperar esa forma de aprender
+
+	- El conocimiento libre se basa en compartir el conocimiento, en difundirlo.
+Por una parte el propio proceso de documentar, explicar y compartir lo que se ha hecho
+constituye una excelente forma de aprender
+
+	- Nuestra sociedad se caracteriza por el alto nivel tecnológico, por tanto es
+conveniente que nuestro alumnado conocza y domine la tecnología, que sepa cómo está
+hecha
+
+	- La creatividad como revulsivo a la crisis
+
+#. Líneas de actuación 
 
 El origen del proyecto está en tratar de corregir los principales "errores" 
 del proyecto impresora, y en lo que se ha aprendido
