@@ -1,0 +1,39 @@
+Artículos
+=========
+
+Imagina, crea, difunde: Makespace Cortes
+________________________________________
+Abril, 2015
+
+La democratización de los medios de producción digitales, y últimamente
+la extensión de este fenómeno al mundo físico ha hecho que hayan proliferado en diferentes ciudades
+centros espontáneos donde se reunen entusiastas de la fabricación DIY (do it yourself):
+Hablamos de los FabLabs, Makespaces u otras denominaciones que vienen a ser
+lo mismo.
+
+En este tipo de centros se reunen entusiastas del "hacer" (makers en inglés)
+como forma de aprender
+y de emplear su tiempo de ocio. Este tipo de reuniones suelen ser informales, y
+aparte de fomentar los encuentros sociales, se .Es como una "peña" de frikis donde las 
+inquietudes no son las típicas que nuestros jóvenes estudiantes tienen
+, sino crear y hacer. 
+La organización de los mismos se basa en meritocracia, es decir
+cada uno es "libre" de entrar y salir cuando quiera, y de aportar o recibir lo que le interese.
+Aunque el perfil de "maker" es eminentemente tecnológico, porque ésta es la que ha propiciado la
+democratización de los medios de autoproducción, la "creación" de objetos no se limita a objetos
+tecnológicos, se considera "maker" a todo el que construye cosas por sus propios medios, 
+sean muebles, vestidos, alimentos, etc.
+
+La idea de este proyecto es construir un espacio "maker" en el instituto. Un espacio donde
+se fomente, además de las relaciones sociales,
+la creatividad del alumnado, el trabajo colectivo, y el conocimiento libre.
+
+El origen del proyecto está en tratar de corregir los principales "errores" 
+del proyecto impresora, y en lo que se ha aprendido
+
+
+
+De hecho la elaboración de este documento constituye en sí mismo un ejercicio de creación.
+ 
+
+ 
