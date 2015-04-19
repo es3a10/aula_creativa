@@ -9,18 +9,20 @@ Abril, 2015
 	
 	Como resultado de la creación de una impresora 3d en el centro, se ha descubierto
 	un tipo de aprendizaje informal que constituye la base de este proyecto y que si bien
-	ya se ha exploró se pretende trabajar con mayor profundidad. Si la construcción de la impresora
+	ya se ha trabajado se pretende explorar en mayor profundidad. Si la construcción de la impresora
 	3d surgió como una evolución al trabajo realizado hace dos años en el campo de la  robótica, 
 	la propuesta actual surge como evolución del de la impresora.
 	
 	La democratización de los medios de producción digitales, y últimamente
-	la extensión de este fenómeno al mundo físico ha hecho que hayan proliferado en diferentes ciudades
+	la extensión de este fenómeno al mundo físico a través de impresoras 3d y máquinas de control
+	numérico genéricas
+	ha hecho que hayan proliferado en diferentes ciudades
 	centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY (do it yourself):
 	Hablamos de los FabLabs, Makespaces u otras denominaciones que vienen a ser
 	lo mismo.
 	
-	En este tipo de centros se reunen entusiastas del "hacer" (makers en inglés)
-	como forma de aprender
+	En este tipo de centros se reunen entusiastas que ven en el "hacer cosas" (makers en inglés)
+	una forma de aprender
 	y de emplear su tiempo de ocio. Este tipo de reuniones suelen ser informales, y
 	aparte de fomentar los encuentros sociales, pretenden compartir y difundir al resto
 	los trabajos realizados. De esta forma se entra en una especia de espiral creativa donde
@@ -29,15 +31,15 @@ Abril, 2015
 	sea requísito indispensable, estos "inventores" del s.xxi se caracterizan 
 	por la pasión por la tecnología, la promoción del conocimiento libre y colectivo.
 	 
-	La organización de los mismos se basa en meritocracia, es decir
+	La organización de estos centros se basa en la meritocracia, y por tanto
 	cada uno es "libre" de entrar y salir cuando quiera, y de aportar o recibir lo que le interese.
 	Aunque el perfil de "maker" es eminentemente tecnológico, porque ésta es la que ha propiciado la
 	democratización de los medios de autoproducción, la "creación" de objetos no se limita a objetos
 	tecnológicos, se considera "maker" a todo el que construye cosas por sus propios medios, 
 	sean muebles, vestidos, alimentos, etc.
 	
-	De acuerdo con todo lo anterior se propone construir un espacio en el centros donde
-	se fomenten, además de las relaciones sociales, aspectos como
+	De acuerdo con todo lo anterior se propone construir un espacio en el centro donde se puedan
+	crear cosas fomentando, además de las relaciones sociales, aspectos como
 	la creatividad del alumnado, el conocimiento libre, el trabajo colectivo,
 	el consumo responsable, etc.
 	
@@ -61,7 +63,7 @@ Abril, 2015
 		con la producción desde paises en 
 		
 		- Consumidor frente a productor-consumidor. Por un lado la tecnología nos facilita lo
-		"producción" y/o fabricación de 
+		"producción" y/o fabricación de objetos. Frente a épocas anteriores donde 
 	
 	#. Líneas de actuación
 		Para elaborar el espacio maker se pretende:
@@ -74,16 +76,11 @@ Abril, 2015
 		
 		- Impresión 3D
 		
-		- Hardware libre: Arduino 
+		- Hardware libre: Arduino y Raspberry Pi
 
 #. Objetivos 
 
-El origen del proyecto está en tratar de corregir los principales "errores" 
-del proyecto impresora, y en lo que se ha aprendido
 
-
-
-De hecho la elaboración de este documento constituye en sí mismo un ejercicio de creación.
  
 
  
