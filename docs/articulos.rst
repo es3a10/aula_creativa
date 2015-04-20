@@ -53,30 +53,41 @@ Abril, 2015
 		- El conocimiento libre se basa en compartir el conocimiento, en difundirlo.
 		Por una parte el propio proceso de documentar, explicar y compartir lo que se ha hecho
 		constituye una excelente forma de aprender, pero por otra, el hacerlo público permite que 
-		otras personas puedan aprender y mejorar.
+		otras personas puedan aprender e incluso mejorar ese conocimiento.
 	
 		- Nuestra sociedad se caracteriza por el alto nivel tecnológico. Por tanto es
 		conveniente que nuestro alumnado conocza y domine la tecnología, que sepa cómo está
-		hecha
+		hecha.
 	
 		- La creatividad como revulsivo a la crisis. Los paises occidentales no pueden competir
-		con la producción desde paises en 
+		con la producción desde países emergentes. Los costes de producción siempre serán menores
+		y por lo tanto estamos condenados a que en un mercado globalizado como el actual, la
+		producción acabará realizándose en aquellos países con salarios más bajos. Como posible
+		alternativa, no nos queda más remedio que en quedarnos en la parte de generar ideas nuevas,
+		de crear, en definitiva de innovar.
 		
-		- Consumidor frente a productor-consumidor. Por un lado la tecnología nos facilita lo
-		"producción" y/o fabricación de objetos. Frente a épocas anteriores donde 
+		- Consumidor frente a productor-consumidor. La tecnología nos permite acceder a la
+		"producción" y/o fabricación de objetos. Durante épocas anteriores la sociedad
+		se ha caracterizado por el elevado consumo. La disminución de la capacidad adquisitiva 
+		de nuestra sociedad en crisis, el medio ambiente, e incluso la ética y respeto hacia esa parte 
+		del mundo 
+		, son solo algunas de las razones por las que es hora de tomar conciencia de que el consumo ha
+		de ser responsable. En ese sentido, el reciclaje y 
+		la autofabricación pueden ayudar a "controlar" los impulsos consumistas.
 	
 	#. Líneas de actuación
-		Para elaborar el espacio maker se pretende:
+		Para elaborar el espacio maker se pretende trabajar desde diferentes ámbitos pero que
+		en realidad están interrelacionados:
 		
-		- espacio maker --> Ordenadores, Cañones, Equipos de soldadura, Equipos de comunicación
+		- Espacio maker --> Ordenadores, Cañones, Equipos de soldadura, Equipos de comunicación, ...
 		
-		- programación
+		- Programación --> Introducción a la programación con Scratch
 		
-		- robótica
+		- Robótica --> Participar el First Lego League y replicar el trabajo con Printbots (robots imprimibles de bajo coste)
 		
-		- Impresión 3D
+		- Impresión 3D --> Mejorar la impresora 3D y profundizar en el modelado y diseño en 3D
 		
-		- Hardware libre: Arduino y Raspberry Pi
+		- Hardware libre --> Diferentes proyectos con Arduino y Raspberry Pi
 
 #. Objetivos 
 
