@@ -90,7 +90,9 @@ Abril, 2015
 		- Hardware libre --> Diferentes proyectos con Arduino y Raspberry Pi
 
 #. Objetivos
+	
 	Podemos enumerar los siguientes objetivos a largo plazo:
+	
 		- Dotar al centro de un espacio "maker"
 		- Promocionar en el centro la creatividad como forma de aprendizaje informal
 		- Promocionar en el centro el uso de la tecnoloǵia y el conocimiento libre como herramientas para desarrollar la creatividad
