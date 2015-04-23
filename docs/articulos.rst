@@ -6,7 +6,6 @@ ________________________________________
 Abril, 2015
 
 #. Introducción
-	
 	Como resultado de la creación de una impresora 3d en el centro, se ha descubierto
 	un tipo de aprendizaje informal que constituye la base de este proyecto y que si bien
 	ya se ha trabajado se pretende explorar en mayor profundidad. Si la construcción de la impresora
@@ -76,6 +75,7 @@ Abril, 2015
 		la autofabricación pueden ayudar a "controlar" los impulsos consumistas.
 	
 	#. Líneas de actuación
+	
 		Para elaborar el espacio maker se pretende trabajar desde diferentes ámbitos pero que
 		en realidad están interrelacionados:
 		
@@ -90,15 +90,17 @@ Abril, 2015
 		- Hardware libre --> Diferentes proyectos con Arduino y Raspberry Pi
 
 #. Objetivos
-	
 	Podemos enumerar los siguientes objetivos a largo plazo:
 	
 		- Dotar al centro de un espacio "maker"
 		- Promocionar en el centro la creatividad como forma de aprendizaje informal
 		- Promocionar en el centro el uso de la tecnoloǵia y el conocimiento libre como herramientas para desarrollar la creatividad
-		- Fomentar, mediante el espacio maker, las relaciones sociales, la difusión de experiencias y la consecución de objetivos colectivos
+		- Fomentar, mediante el espacio maker, las relaciones sociales, la difusión de experiencias creativas y la consecución de objetivos colectivos
 		- Abrir el espacio "maker" al exterior mediante la celebración de eventos como Scratch Day, Arduino Day o una específica de tecnología 3D
-		- Aprender a construir
+		- Evolucionar la Impresora 3D y los conocimientos en modelado 3D
+		- Ampliar los conocimientos de programación Scratch y extenderlos al mundo físico mediante arduino
+		- Desarrollar desafíos de robótica tanto de robots comerciales Lego como robots "imprimibles" con arduino
+		- Extender el concepto de creatividad a otras áreas: El huerto, muebles diy, cocina, canal de noticias del centro, papiroflexia, creaciones literarias, plásticas, musicales, ..
 		
 
 
