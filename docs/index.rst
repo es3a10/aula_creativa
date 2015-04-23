@@ -31,6 +31,8 @@ altruista comparten sus conocimientos en la Red y que me permiten que día a dí
    miscelanea
    funciones
    geometria
+   articulos
+   articulos2
 
 Índices y tablas
 ==================
