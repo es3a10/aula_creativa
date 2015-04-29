@@ -70,7 +70,7 @@ Abril, 2015
 		de nuestra sociedad en crisis, el medio ambiente, e incluso la ética y respeto hacia esa parte 
 		del mundo, son solo algunas de las razones por las que es hora de tomar conciencia de que el consumo ha
 		de ser responsable. En ese sentido, el reciclaje y 
-		la autofabricación pueden ayudar a "controlar" los impulsos consumistas.
+		la autofabricación pueden servir de ayuda.
 	
 	#. Líneas de actuación
 	
@@ -133,7 +133,8 @@ Abril, 2015
 	- Instalación de sistema operativo en Raspberry Pi
 	- Acceso Remoto a Raspberry Pi
 	- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D
-
+#. Metodología
+	La metodología a aplicar aparece resumida en el título del proyecto
 	   
 
 
