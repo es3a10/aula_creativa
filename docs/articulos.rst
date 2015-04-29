@@ -39,15 +39,14 @@ Abril, 2015
 	
 	De acuerdo con todo lo anterior se propone construir un espacio en el centro donde se puedan
 	crear cosas fomentando, además de las relaciones sociales, aspectos como
-	la creatividad del alumnado, el conocimiento libre, el trabajo colectivo,
+	la creatividad y proactividad del alumnado, el conocimiento libre, el trabajo colectivo,
 	el consumo responsable, etc.
 	
 	#. Principales ideas sobre las que subyace el proyecto
 	
-		- La creatividad es una forma natural de aprendizaje. 
-		Si observamos a los niños veremos que de
+		- La creatividad es una forma natural de aprendizaje. Si observamos a los niños veremos que de
 		manera natural crean sus juguetes, sus disfraces, les encanta desmontar las cosas para
-		volver a montarlas. Por tanto, es conveniente recuperar esa forma de aprender.
+		volver a montarlas. Por diferentes circunstancias vemos que los adultos hemos perdido esa capacidad de aprendizaje
 	
 		- El conocimiento libre se basa en compartir el conocimiento, en difundirlo.
 		Por una parte el propio proceso de documentar, explicar y compartir lo que se ha hecho
@@ -69,8 +68,7 @@ Abril, 2015
 		"producción" y/o fabricación de objetos. Durante épocas anteriores la sociedad
 		se ha caracterizado por el elevado consumo. La disminución de la capacidad adquisitiva 
 		de nuestra sociedad en crisis, el medio ambiente, e incluso la ética y respeto hacia esa parte 
-		del mundo 
-		, son solo algunas de las razones por las que es hora de tomar conciencia de que el consumo ha
+		del mundo, son solo algunas de las razones por las que es hora de tomar conciencia de que el consumo ha
 		de ser responsable. En ese sentido, el reciclaje y 
 		la autofabricación pueden ayudar a "controlar" los impulsos consumistas.
 	
@@ -94,14 +92,50 @@ Abril, 2015
 	
 		- Dotar al centro de un espacio "maker"
 		- Promocionar en el centro la creatividad como forma de aprendizaje informal
+		- Desarrollar en el alumnado la proactividad, la autonomía y la responsbilidad en la gestión de un espacio propio 
 		- Promocionar en el centro el uso de la tecnoloǵia y el conocimiento libre como herramientas para desarrollar la creatividad
 		- Fomentar, mediante el espacio maker, las relaciones sociales, la difusión de experiencias creativas y la consecución de objetivos colectivos
 		- Abrir el espacio "maker" al exterior mediante la celebración de eventos como Scratch Day, Arduino Day o una específica de tecnología 3D
 		- Evolucionar la Impresora 3D y los conocimientos en modelado 3D
-		- Ampliar los conocimientos de programación Scratch y extenderlos al mundo físico mediante arduino
-		- Desarrollar desafíos de robótica tanto de robots comerciales Lego como robots "imprimibles" con arduino
+		- Ampliar los conocimientos de programación Scratch y extenderlos al mundo físico mediante el uso de Arduino
+		- Desarrollar desafíos de robótica tanto de robots comerciales Lego como robots "imprimibles" con Arduino
 		- Extender el concepto de creatividad a otras áreas: El huerto, muebles diy, cocina, canal de noticias del centro, papiroflexia, creaciones literarias, plásticas, musicales, ..
 		
+		
+#. Contenidos y Actividades
+    
+    Contenidos curriculares básicos:
+        - Mecánica física --> Velocidades lineales, angulares, engranajes
+        - Ley de Ohm --> Corriente eléctrica
+        - Componentes electrónicos --> Resistencias, Tipos de Motores, ...
+        - Arquitectura de Ordenadores
+        - Redes de ordenadores
+        - Lenguajes de Programación
+    Contenidos específicos del Espacio Maker:
+        - Montaje de equipos con Raspberry Pi 
+        - Reciclaje de equipos
+        - Router o Punto de Acceso: Configuración de un Punto de Acceso o de un Repetidor con el firmware libre "Openwrt"
+        - Protocolo de seguridad en el uso del Espacio MakerC
+    Contenidos específicos de la Impresora 3D:
+	   - Servidor de Impresión Remoto con Octoprint
+	   - Pantalla lcd para impresión desde tarjeta SD
+	   - Modelado de Objetos 3D
+    Contenidos de Robótica:
+	   - First Lego LEague
+	   - Desarrollo de un Printbot
+    Contenidos de Programación con Scratch:    
+	   - Programación de animaciones
+	   - Programación de videojuego
+	   - Programación de figuras geométricas
+    Contenidos de Hardware Libre:
+	   - IDE de Arduino
+	   - Principales componentes en proyectos electrónicos
+	   - Programación de los principales componentes en Arduino
+	   - Instalación de sistema operativo en Raspberry Pi
+	   - Acceso Remoto a Raspberry Pi
+	   - Instalación del Software Octoprint para controlar la Impresora 3D
+	   
+
 
 
  
