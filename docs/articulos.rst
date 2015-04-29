@@ -24,11 +24,10 @@ Abril, 2015
 	una forma de aprender
 	y de emplear su tiempo de ocio. Este tipo de reuniones suelen ser informales, y
 	aparte de fomentar los encuentros sociales, pretenden compartir y difundir al resto
-	los trabajos realizados. De esta forma se entra en una especia de espiral creativa donde
-	no parece haber final, ya que unos proyectos sirven de inspiración a otros. 
+	los trabajos realizados.  
 	Aparte de esas ganas por crear cosas y difundirlas, aunque no
 	sea requísito indispensable, estos "inventores" del s.xxi se caracterizan 
-	por la pasión por la tecnología, la promoción del conocimiento libre y colectivo.
+	por la pasión por la tecnología y por promover el conocimiento libre como un bien público y colectivo.
 	 
 	La organización de estos centros se basa en la meritocracia, y por tanto
 	cada uno es "libre" de entrar y salir cuando quiera, y de aportar o recibir lo que le interese.
@@ -134,7 +133,30 @@ Abril, 2015
 	- Acceso Remoto a Raspberry Pi
 	- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D
 #. Metodología
-	La metodología a aplicar aparece resumida en el título del proyecto
+	La metodología principal a aplicar aparece resumida en el título del proyecto: Imagina, crea y difunde. 
+	
+	*Imagina:*
+	Aunque
+	en los contenidos ya aparece qué se quiere hacer, esto no cierra la puerta a que en cualquier momento, se
+	acepten propuestas o ideas diferentes a realizar. De hecho, epistemológicamente es importante que aquellos que quieran participar
+	en el proyecto se involucren en la toma de decisiones. A su vez, dentro de cada línea de trabajo, las actividades
+	serán lo más abiertas posibles para que sean lo propios "makers" los que decidan qué hacer -Por ejemplo, si
+	estamos trabajando con Scratch, las actividades propuestas serán del tipo: Invéntate una historia que ...-
+	
+	*Crea:*
+	Se trata de aprender haciendo, que los participantes se sientan responsables de los productos finales. La experiencia
+	de haber montado un Impresora 3D nos ha demostrado que cuando uno crea algo, aparte de aprender, durante ese
+	proceso en muchas ocasiones aparecen nuevas ideas para desarrollar, entrando en una especia de espiral creativa y por
+	tanto de aprendizaje que parece no tener fin -Por ejemplo, durante la construcción de la impresora, vimos que podíamos modificarla para
+	convertirla en un plotter. Eso nos hizo plantearnos dibujos geométricos, que a su vez nos hicieron investigar 
+	las coordenadas polares que para pasar cartesianas, nos hizo también introducir conocimientos de trigonometría-
+	
+	*Difunde:*
+	Esta es la idea principal del conocimiento libre: se trata de compartir el conocimiento adquirido. Básicamente por tres razones:
+		- Al documentar y explicar lo construido, reforzamos los conocimientos adquiridos
+		- Permitimos que otras personas aprendan de lo que hemos hecho
+		- Nos permite aprender del trabajo de los demás y mejorarlo
+	
 	   
 
 
