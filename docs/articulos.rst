@@ -115,28 +115,28 @@ Abril, 2015
         	- Arquitectura y redes de Ordenadores
         	- Fundamentos de Programación a través de Scratch
    	Contenidos específicos del Espacio Maker:
-        - Montaje de equipos con Raspberry Pi 
-        - Reciclaje de equipos
-        - Router o Punto de Acceso: Configuración de un Punto de Acceso o de un Repetidor con el firmware libre "Openwrt"
-        - Protocolo de seguridad en el uso del Espacio Maker
-	- Desarrollo de talleres abiertos al público: Scratch Day, Arduino Day y Taller 3D
+	        - Montaje de equipos con Raspberry Pi 
+	        - Reciclaje de equipos
+        	- Router o Punto de Acceso: Configuración de un Punto de Acceso o de un Repetidor con el firmware libre "Openwrt"
+        	- Protocolo de seguridad en el uso del Espacio Maker
+		- Desarrollo de talleres abiertos al público: Scratch Day, Arduino Day y Taller 3D
     	Contenidos específicos de la Impresora 3D:
-	- Servicio de Impresión Remoto con Octoprint
-	- Pantalla lcd para impresión desde tarjeta SD
-	- Modelado de Objetos 3D
+		- Servicio de Impresión Remoto con Octoprint
+		- Pantalla lcd para impresión desde tarjeta SD
+		- Modelado de Objetos 3D
     	Contenidos de Robótica:
-	- Desafío de la First Lego League
-	- Desarrollo de un Printbot que emule el desafío FLF
+		- Desafío de la First Lego League
+		- Desarrollo de un Printbot que emule el desafío FLF
     	Contenidos de Programación con Scratch:
-	- Animaciones
-	- Videojuego
-	- Problemas geométricos
+		- Animaciones
+		- Videojuego
+		- Problemas geométricos
     	Contenidos de Hardware Libre:
-	- Iniciación a Arduino con el programa online 123d Circuits (http://123d.circuits.io/)
-	- Control desde Arduino de los principales componentes electrónicos. 
-	- Instalación de sistema operativo en Raspberry Pi
-	- Acceso Remoto a Raspberry Pi
-	- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D (http://octoprint.org/)E
+		- Iniciación a Arduino con el programa online 123d Circuits (http://123d.circuits.io/)
+		- Control desde Arduino de los principales componentes electrónicos. 
+		- Instalación de sistema operativo en Raspberry Pi
+		- Acceso Remoto a Raspberry Pi
+		- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D (http://octoprint.org/)E
 	
 	En todo caso, los contenidos vendrán determinados por documentación libre que puedas ser aprovechada.
 	Algunos ejemplos de entornos de documentación sobre los que se podría trabajar serían:
