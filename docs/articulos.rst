@@ -17,8 +17,8 @@ Abril, 2015
 	numérico genéricas
 	ha hecho que hayan proliferado en diferentes ciudades
 	centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY (do it yourself):
-	Hablamos de los FabLabs, Makespaces u otras denominaciones que vienen a ser
-	lo mismo.
+	Hablamos de los Fab Labs, Makespaces u otras denominaciones que vienen a ser
+	lo mismo. Referencias: http://fab.cba.mit.edu/about/faq/ http://edition.cnn.com/videos/bestoftv/2013/07/17/exp-gps-gershenfeld-3d-printing.cnn
 	
 	En este tipo de centros se reunen entusiastas que ven en el "hacer cosas" (makers en inglés)
 	una forma de aprender
@@ -33,7 +33,7 @@ Abril, 2015
 	cada uno es "libre" de entrar y salir cuando quiera, y de aportar o recibir lo que le interese.
 	Aunque el perfil de "maker" es eminentemente tecnológico, porque ésta es la que ha propiciado la
 	democratización de los medios de autoproducción, la "creación" de objetos no se limita a objetos
-	tecnológicos, se considera "maker" a todo el que construye cosas por sus propios medios, 
+	tecnológicos. Se considera "maker" a todo el que construye cosas por sus propios medios, 
 	sean muebles, vestidos, alimentos, etc.
 	
 	De acuerdo con todo lo anterior se propone construir un espacio en el centro donde se puedan
@@ -60,7 +60,7 @@ Abril, 2015
 		con la producción desde países emergentes. Los costes de producción siempre serán menores
 		y por lo tanto estamos condenados a que en un mercado globalizado como el actual, la
 		producción acabará realizándose en aquellos países con salarios más bajos. Como posible
-		alternativa, no nos queda más remedio que en quedarnos en la parte de generar ideas nuevas,
+		alternativa a esta falta de competitividad estaría en la parte de generar ideas nuevas,
 		de crear, en definitiva de innovar.
 		
 		- Consumidor frente a productor-consumidor. La tecnología nos permite acceder a la
