@@ -132,11 +132,11 @@ Abril, 2015
 	- Videojuego
 	- Problemas geométricos
     Contenidos de Hardware Libre:
-	- Iniciación a Arduino con el programa online 123circuits
-	- Control desde Arduino de los principales componentes electrónicos. Ex
+	- Iniciación a Arduino con el programa online 123d Circuits (http://123d.circuits.io/)
+	- Control desde Arduino de los principales componentes electrónicos. 
 	- Instalación de sistema operativo en Raspberry Pi
 	- Acceso Remoto a Raspberry Pi
-	- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D
+	- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D (http://octoprint.org/)
 	
 	En todo caso, los contenidos vendrán determinados por documentación libre que puedas ser aprovechada.
 	Algunos ejemplos de entornos de documentación sobre los que se podría trabajar serían:
@@ -177,9 +177,9 @@ Abril, 2015
 	comentar lo que se había hecho durante esa semana, se propone seguir con 
 	esa dinámica: Todos lo viernes en el segundo recreo se quedará para compartir
 	experiencias.
-	Además como los protagonistas se va a intentar que sean los alumnos, la idea es que 
-	el alumnado pueda ir a este espacio a trabajar durante los segundos recreos de manera
-	autónoma y responsable, por lo que deberán organizarse ellos y velar por el buen funcionamiento. 
+	Además, como los protagonistas debes ser los alumnos se va a intentar que 
+	puedan ir a este espacio a trabajar durante los segundos recreos de manera
+	autónoma y responsable, por lo que deberán organizarse ellos y velar por el buen funcionamiento del espacio. 
 
 	Cualquier otro aspecto quedaría pendiente de definir, ya que se desconocen los
 	grupos, horarios y profesores con los que se va a contar. Pero es indudable, que
@@ -189,18 +189,19 @@ Abril, 2015
 
 	Desde el Departamento de Educación del Gobierno de Navarra aparece una clara intención
 	de potenciar aspectos como la programación y la robótica, tal como aparece en el portal
-	codigo21. Algunos de los contenidos que aparecen en este proyecto sí que aparecen
+	Código21 (http://codigo21.educacion.navarra.es/). Algunos de los contenidos que aparecen en este proyecto 
+	sí que aparecen
 	concretados en el currículo de Primaria, sin embargo, a fecha de elaboración de este 
-	documento, en Secundaria no se sabe, o no he sabido encontra, dónde se concretarán. 
+	documento, en Secundaria no se sabe dónde se concretarán. 
 	Por tanto es posible que para el próximo curso haya algo más definido para asignaturas
-	como matemáticas o tecnología, y entonces se podrían modificar las programaciones para 
-	que se adaptaran al proyecto
+	como matemáticas o tecnología, y en ese caso se podrían modificar las programaciones para 
+	adaptarlas al proyecto.
 
 	En cualquier caso, bajo mi punto de vista, no todo el alumnado estará lo 
 	suficientemente motivado
-	para desarrollar estas capacidades, por lo que la creación de un espacio flexible dentro
+	para desarrollar estas capacidades, por lo que la creación de un espacio específico dentro
 	del centro permitirá potenciar la creatividad de aquellos alumnos que sientan inquietud
-	por el mundo "maker" puede ser algo positivo.
+	por el mundo "maker".
 	  
 	
 	     
