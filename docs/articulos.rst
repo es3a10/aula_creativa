@@ -18,7 +18,7 @@ Abril, 2015
 	ha hecho que hayan proliferado en diferentes ciudades
 	centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY (do it yourself):
 	Hablamos de los Fab Labs, Makespaces u otras denominaciones que vienen a ser
-	lo mismo. Referencias: http://fab.cba.mit.edu/about/faq/ http://edition.cnn.com/videos/bestoftv/2013/07/17/exp-gps-gershenfeld-3d-printing.cnn
+	lo mismo. Referencias: http://makespacemadrid.org/que-es-el-makespace/ http://es.wikipedia.org/wiki/Fab_lab
 	
 	En este tipo de centros se reunen entusiastas que ven en el "hacer cosas" (makers en inglés)
 	una forma de aprender
