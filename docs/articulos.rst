@@ -18,7 +18,7 @@ Abril, 2015
 	ha hecho que hayan proliferado en diferentes ciudades
 	centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY (do it yourself):
 	Hablamos de los Fab Labs, Makespaces u otras denominaciones que vienen a ser
-	lo mismo. Referencias: http://makespacemadrid.org/que-es-el-makespace/ http://es.wikipedia.org/wiki/Fab_lab
+	lo mismo. 
 	
 	En este tipo de centros se reunen entusiastas que ven en el "hacer cosas" (makers en inglés)
 	una forma de aprender
@@ -35,6 +35,8 @@ Abril, 2015
 	democratización de los medios de autoproducción, la "creación" de objetos no se limita a objetos
 	tecnológicos. Se considera "maker" a todo el que construye cosas por sus propios medios, 
 	sean muebles, vestidos, alimentos, etc.
+	
+	(Referencias: http://makespacemadrid.org/que-es-el-makespace/ http://es.wikipedia.org/wiki/Fab_lab)
 	
 	De acuerdo con todo lo anterior se propone construir un espacio en el centro donde se puedan
 	crear cosas fomentando, además de las relaciones sociales, aspectos como
@@ -59,9 +61,10 @@ Abril, 2015
 		- La creatividad como revulsivo a la crisis. Los paises occidentales no pueden competir
 		con la producción desde países emergentes. Los costes de producción siempre serán menores
 		y por lo tanto estamos condenados a que en un mercado globalizado como el actual, la
-		producción acabará realizándose en aquellos países con salarios más bajos. Como posible
-		alternativa a esta falta de competitividad estaría en la parte de generar ideas nuevas,
-		de crear, en definitiva de innovar.
+		producción acabará realizándose en aquellos países con salarios más bajos. Es por ello que
+		una alternativa puede estar en dirigir los esfuerzos hacia la innovación y desarrollo de nuevas
+		ideas que se puedan materializar en nuevos modelos de negocio. Fomentando la creatividad se fomenta
+		la proactividad y el emprendimiento personal.
 		
 		- Consumidor frente a productor-consumidor. La tecnología nos permite acceder a la
 		"producción" y/o fabricación de objetos. Durante épocas anteriores la sociedad
@@ -102,12 +105,14 @@ Abril, 2015
 		
 		
 #. Contenidos y Actividades
+    Por la naturaleza del proyecto, el listado de contenidos depende de las propuestas de los propios componentes
+    del proyecto, y por tanto la lista que aparece a continuación podría ser orientativa.
     
     Contenidos curriculares básicos:
         - Mecánica física --> Velocidades lineales, angulares, engranajes
         - Ley de Ohm --> Corriente eléctrica
         - Componentes electrónicos --> Resistencias, Tipos de Motores, ...
-        - Arquitectura y resde de Ordenadores
+        - Arquitectura y redes de Ordenadores
         - Fundamentos de Programación a través de Scratch
     Contenidos específicos del Espacio Maker:
         - Montaje de equipos con Raspberry Pi 
@@ -128,14 +133,23 @@ Abril, 2015
 	- Problemas geométricos
     Contenidos de Hardware Libre:
 	- Iniciación a Arduino con el programa online 123circuits
-	- Control desde Arduino de los principales componentes electrónicos
+	- Control desde Arduino de los principales componentes electrónicos. Ex
 	- Instalación de sistema operativo en Raspberry Pi
 	- Acceso Remoto a Raspberry Pi
 	- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D
+	
+	En todo caso, los contenidos vendrán determinados por documentación libre que puedas ser aprovechada.
+	Algunos ejemplos de entornos de documentación sobre los que se podría trabajar serían:
+	- Portal Código21 del Gobierno de Navarra sobre tecnologías creativas: http://codigo21.educacion.navarra.es/alumnado/recursos/
+	- Escuela Maker de bq http://diwo.bq.com/
+	- Revista libre sobre el ecosistema Raspberry Pi: https://www.raspberrypi.org/magpi/
+	- Portal de la comunidad de Arduino: http://www.arduino.cc/#
+		
+
 #. Metodología
 	La metodología principal a aplicar aparece resumida en el título del proyecto: Imagina, crea y difunde. 
 	
-	*Imagina:*
+	**Imagina:**
 	Aunque
 	en los contenidos ya aparece qué se quiere hacer, esto no cierra la puerta a que en cualquier momento, se
 	acepten propuestas o ideas diferentes a realizar. De hecho, epistemológicamente es importante que aquellos que quieran participar
@@ -143,7 +157,7 @@ Abril, 2015
 	serán lo más abiertas posibles para que sean lo propios "makers" los que decidan qué hacer -Por ejemplo, si
 	estamos trabajando con Scratch, las actividades propuestas serán del tipo: Invéntate una historia que ...-
 	
-	*Crea:*
+	**Crea:**
 	Se trata de aprender haciendo, que los participantes se sientan responsables de los productos finales. La experiencia
 	de haber montado un Impresora 3D nos ha demostrado que cuando uno crea algo, aparte de aprender, durante ese
 	proceso en muchas ocasiones aparecen nuevas ideas para desarrollar, entrando en una especia de espiral creativa y por
@@ -151,7 +165,7 @@ Abril, 2015
 	convertirla en un plotter. Eso nos hizo plantearnos dibujos geométricos, que a su vez nos hicieron investigar 
 	las coordenadas polares que para pasar cartesianas, nos hizo también introducir conocimientos de trigonometría-
 	
-	*Difunde:*
+	**Difunde:**
 	Esta es la idea principal del conocimiento libre: se trata de compartir el conocimiento adquirido. Básicamente por tres razones:
 		- Al documentar y explicar lo construido, reforzamos los conocimientos adquiridos
 		- Permitimos que otras personas aprendan de lo que hemos hecho
