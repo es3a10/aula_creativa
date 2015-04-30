@@ -157,7 +157,39 @@ Abril, 2015
 		- Permitimos que otras personas aprendan de lo que hemos hecho
 		- Nos permite aprender del trabajo de los demás y mejorarlo
 	
-	   
+	A nivel organizativo, la característica principal estará en la flexibilidad. 
+	Basándonos en la experiencia de la construcción de la Impresora 3d, donde
+	todos los viernes en el segundo recreo se hacía una reunión informal para
+	comentar lo que se había hecho durante esa semana, se propone seguir con 
+	esa dinámica: Todos lo viernes en el segundo recreo se quedará para compartir
+	experiencias.
+	Además como los protagonistas se va a intentar que sean los alumnos, la idea es que 
+	el alumnado pueda ir a este espacio a trabajar durante los segundos recreos de manera
+	autónoma y responsable, por lo que deberán organizarse ellos y velar por el buen funcionamiento. 
+
+	Cualquier otro aspecto quedaría pendiente de definir, ya que se desconocen los
+	grupos, horarios y profesores con los que se va a contar. Pero es indudable, que
+	siempre se va a poder adaptar tiempos y programaciones para poder contribuir al
+	proyecto -Por ejemplo, emplear alguna hora de tutoría para diseñar y crear carteles
+	para promocionar el Scratch Day-
+
+	Desde el Departamento de Educación del Gobierno de Navarra aparece una clara intención
+	de potenciar aspectos como la programación y la robótica, tal como aparece en el portal
+	codigo21. Algunos de los contenidos que aparecen en este proyecto sí que aparecen
+	concretados en el currículo de Primaria, sin embargo, a fecha de elaboración de este 
+	documento, en Secundaria no se sabe, o no he sabido encontra, dónde se concretarán. 
+	Por tanto es posible que para el próximo curso haya algo más definido para asignaturas
+	como matemáticas o tecnología, y entonces se podrían modificar las programaciones para 
+	que se adaptaran al proyecto
+
+	En cualquier caso, bajo mi punto de vista, no todo el alumnado estará lo 
+	suficientemente motivado
+	para desarrollar estas capacidades, por lo que la creación de un espacio flexible dentro
+	del centro permitirá potenciar la creatividad de aquellos alumnos que sientan inquietud
+	por el mundo "maker" puede ser algo positivo.
+	  
+	
+	     
 
 
 
