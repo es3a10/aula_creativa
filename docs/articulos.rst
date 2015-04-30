@@ -1,7 +1,7 @@
 Artículos
 =========
 
-Imagina, crea, difunde: Makespace Cortes
+Imagina, crea, difunde: Makespace Cortes  (BORRADOR)
 ________________________________________
 Abril, 2015
 
