@@ -136,7 +136,7 @@ Abril, 2015
 		- Control desde Arduino de los principales componentes electrónicos. 
 		- Instalación de sistema operativo en Raspberry Pi
 		- Acceso Remoto a Raspberry Pi
-		- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D (http://octoprint.org/)E
+		- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D (http://octoprint.org/)
 	
 	En todo caso, los contenidos vendrán determinados por documentación libre que puedas ser aprovechada.
 	Algunos ejemplos de entornos de documentación sobre los que se podría trabajar serían:
@@ -219,8 +219,9 @@ Abril, 2015
 	recursos que tiene y reciclar en la medida de lo posible. Este tipo de actitud, como hemos dicho, se intentará transmitir dentro del espacio "maker".
 	A pesar de ello, el acceso a una serie de recursos facilitaría su implantación
 	Podemos enumerar los recursos por línea de actuación:
-		- Espacio Maker: Dotar de tres ordenadores de bajo coste para aprender primero y  poder trabajar después. Montarlos a partir de placas Raspberry Pi puede ser una buena alternativa. La impresora 3D ya está en el centro, por lo que pasaría a ubicarse en este espacio.
-		Dotar de un punto de acceso con Firmware Libre (OpenWrt), y que el alumnado configure y gestione el punto de acceso. Potenciar el uso de sus propios dispositivos en este entorno puede ser una experiencia piloto para adoptar metodologías BYOD (Bring yout own device)	
+		- Espacio Maker: Dotar de tres ordenadores de bajo coste para aprender primero y  poder trabajar 
+		después. Montarlos a partir de placas Raspberry Pi puede ser una buena alternativa. La impresora 3D ya está en el centro, por lo que pasaría a ubicarse en este espacio.Dotar de un punto de acceso con Firmware Libre (OpenWrt), y que el alumnado configure y gestione el punto de acceso. Potenciar el uso de sus propios dispositivos en este entorno puede ser una experiencia piloto para adoptar metodologías BYOD (Bring yout own device)	
+		
 		- Tecnología 3D: La impresora 3D ya está operativa, pero puede evolucionarse y mejorar. También sería necesario adquirir bobinas de filamento para imprimir. El hardware para montar el servidor de impresión remoto se haría sobre uno de los ordenadores del punto anterior
 		- Robótica: La electrónica de los robots se puede hacer con placas Arduino. Sin embargo, para simplificar los cableados posteriores sería más conveniente utilizar las placas adaptadas que comercializa la empresa bq. Algo similar pasaría 
 		
