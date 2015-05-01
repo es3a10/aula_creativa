@@ -215,16 +215,29 @@ Abril, 2015
 	- Resto de la sociedad
 	     
 #. Recursos materiales
-	Muchas personas creativas (y sobre todo "hacedoras DIY")  se caracterizan en saber adaptarse a los
+	Muchas personas creativas (y sobre todo "hacedoras DIY")  se caracterizan por saber adaptarse a los
 	recursos que tiene y reciclar en la medida de lo posible. Este tipo de actitud, como hemos dicho, se intentará transmitir dentro del espacio "maker".
-	A pesar de ello, el acceso a una serie de recursos facilitaría su implantación
+	A pesar de ello, el acceso a una serie de recursos facilitaría su implantación.
 	Podemos enumerar los recursos por línea de actuación:
-		- Espacio Maker: Dotar de tres ordenadores de bajo coste para aprender primero y  poder trabajar 
+		- Espacio Maker: Se necesitarían tres ordenadores de bajo coste para aprender primero y  poder trabajar 
 		  después. Montarlos a partir de placas Raspberry Pi puede ser una buena alternativa. 
 		  La impresora 3D ya está en el centro, por lo que pasaría a ubicarse en este espacio.
-		  Dotar de un punto de acceso con Firmware Libre (OpenWrt), y que el alumnado configure y gestione el punto de acceso. Potenciar el uso de sus propios dispositivos en este entorno puede ser una experiencia piloto para adoptar metodologías BYOD (Bring yout own device)	
-		- Tecnología 3D: La impresora 3D ya está operativa, pero puede evolucionarse y mejorar. También sería necesario adquirir bobinas de filamento para imprimir. El hardware para montar el servidor de impresión remoto se haría sobre uno de los ordenadores del punto anterior
-		- Robótica: La electrónica de los robots se puede hacer con placas Arduino. Sin embargo, para simplificar los cableados posteriores sería más conveniente utilizar las placas adaptadas que comercializa la empresa bq. Algo similar pasaría 
+		  Se intentaría dotar al espacio de un punto de acceso con Firmware Libre (OpenWrt), y que el alumnado 
+		  configure y gestione el punto de acceso. Potenciar el uso de sus propios dispositivos en este entorno 
+		  puede ser una experiencia piloto para acercar el concepto BYOD (Bring yout own device) al centro.
+		  Puesto que el apartado de explicar y difundir lo realizado tiene especial relevancia, no
+		  estaría de más dotar al espacio de un proyector y un equipo de sonido inalámbrico.
+		- Tecnología 3D: La impresora 3D ya está operativa, pero puede evolucionarse y mejorar.
+		  Entre estas mejoras estaría añadir una pantalla lcd, para imprimir sin ordenador, y
+		  también montar un servidor de impresión remoto para poder mandar a imprimir desde cualquier
+		  ordenador.
+		  El hardware para montar el servidor de impresión remoto se haría sobre uno de los ordenadores del punto anterior.
+		  También sería necesario adquirir bobinas de filamento para imprimir.
+		- Robótica: La electrónica de los robots se puede hacer con placas Arduino. Sin embargo, para simplificar 
+		  los cableados posteriores sería más conveniente utilizar las placas adaptadas que comercializa la empresa bq. 
+		  El resto de componentes electrónicos (servomotores, resistencias, ...) también se pordrían solicitar a bq o 
+		- Hardware Libre: Tanto los Arduinos como las Raspberry Pi serían los mismo que los utilizados en los puntos anteriores
+		
 		
 		 
 
