@@ -17,13 +17,13 @@ Abril, 2015
 	ha hecho que hayan proliferado en diferentes ciudades
 	centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY (do it yourself):
 	Hablamos de los Fab Labs, Makespaces u otras denominaciones que vienen a ser
-	lo mismo. 
+	parecidas. 
 	
 	En este tipo de centros se reunen entusiastas que ven en el "hacer cosas" (makers en inglés)
 	una forma de aprender
 	y de emplear su tiempo de ocio. Este tipo de reuniones suelen ser informales, y
 	aparte de fomentar los encuentros sociales, pretenden compartir y difundir al resto de integrantes
-	los trabajos y proyectos realizados o en proceso.  
+	los proyectos realizados o en proceso.  
 	Aparte de esas ganas por crear cosas y difundirlas, aunque no
 	sea requísito indispensable, estos "inventores" del s.xxi se caracterizan 
 	por la pasión por la tecnología y por promover el conocimiento libre como un bien público y colectivo.
@@ -40,7 +40,8 @@ Abril, 2015
 	De acuerdo con todo lo anterior se propone construir un espacio en el centro donde se puedan
 	crear cosas fomentando, además de las relaciones sociales, aspectos como
 	la creatividad y proactividad del alumnado, el conocimiento libre, el trabajo colectivo,
-	el consumo responsable, etc.
+	el consumo responsable, etc y transmitirlos al resto de la comunidad educativa como una
+	forma de aprendizaje significativo e informal.
 	
 	#. Principales ideas sobre las que subyace el proyecto
 	
