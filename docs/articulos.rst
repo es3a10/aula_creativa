@@ -13,8 +13,7 @@ Abril, 2015
 	la propuesta actual surge como evolución del de la impresora.
 	
 	La democratización de los medios de producción digitales, y últimamente
-	la extensión de este fenómeno al mundo físico a través de impresoras 3d y máquinas de control
-	numérico genéricas
+	la extensión de este fenómeno al mundo físico a través de impresoras 3d y máquinas de fabricación digital
 	ha hecho que hayan proliferado en diferentes ciudades
 	centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY (do it yourself):
 	Hablamos de los Fab Labs, Makespaces u otras denominaciones que vienen a ser
@@ -23,8 +22,8 @@ Abril, 2015
 	En este tipo de centros se reunen entusiastas que ven en el "hacer cosas" (makers en inglés)
 	una forma de aprender
 	y de emplear su tiempo de ocio. Este tipo de reuniones suelen ser informales, y
-	aparte de fomentar los encuentros sociales, pretenden compartir y difundir al resto
-	los trabajos realizados.  
+	aparte de fomentar los encuentros sociales, pretenden compartir y difundir al resto de integrantes
+	los trabajos y proyectos realizados o en proceso.  
 	Aparte de esas ganas por crear cosas y difundirlas, aunque no
 	sea requísito indispensable, estos "inventores" del s.xxi se caracterizan 
 	por la pasión por la tecnología y por promover el conocimiento libre como un bien público y colectivo.
@@ -47,12 +46,14 @@ Abril, 2015
 	
 		- La creatividad es una forma natural de aprendizaje. Si observamos a los niños veremos que de
 		manera natural crean sus juguetes, sus disfraces, les encanta desmontar las cosas para
-		volver a montarlas. Por diferentes circunstancias vemos que los adultos hemos perdido esa capacidad de aprendizaje
+		volver a montarlas. Por diferentes circunstancias vemos que muchos adultos hemos perdido esa 
+		capacidad de aprendizaje, y por lo tanto es hora de recuperar 
 	
 		- El conocimiento libre se basa en compartir el conocimiento, en difundirlo.
 		Por una parte el propio proceso de documentar, explicar y compartir lo que se ha hecho
-		constituye una excelente forma de aprender, pero por otra, el hacerlo público permite que 
-		otras personas puedan aprender e incluso mejorar ese conocimiento.
+		constituye una excelente forma de aprender y reforzar contenidos, pero por otra, 
+		el hacerlo público permite que 
+		otras personas puedan aprender e incluso mejorar ese conocimiento aportado.
 	
 		- Nuestra sociedad se caracteriza por el alto nivel tecnológico. Por tanto es
 		conveniente que nuestro alumnado conocza y domine la tecnología, que sepa cómo está
@@ -63,8 +64,10 @@ Abril, 2015
 		y por lo tanto estamos condenados a que en un mercado globalizado como el actual, la
 		producción acabará realizándose en aquellos países con salarios más bajos. Es por ello que
 		una alternativa puede estar en dirigir los esfuerzos hacia la innovación y desarrollo de nuevas
-		ideas que se puedan materializar en nuevos modelos de negocio. Fomentando la creatividad se fomenta
-		la proactividad y el emprendimiento personal.
+		ideas que se puedan materializar en nuevos modelos de negocio. Fomentando la creatividad ayudamos
+		a desarrollar
+		la proactividad y el emprendimiento personal del alumnado. Por tanto lo estamos preparando para ese, más que probable,
+		requerimiento del sistema productivo.
 		
 		- Consumidor frente a productor-consumidor. La tecnología nos permite acceder a la
 		"producción" y/o fabricación de objetos. Durante épocas anteriores la sociedad
