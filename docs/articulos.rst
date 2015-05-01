@@ -129,7 +129,7 @@ e intercambiamos las ideas, entonces ambos tendremos dos ideas" - Bernard Shaw*
    	Contenidos específicos del Espacio Maker:
 	        - Montaje de equipos con Raspberry Pi 
 	        - Reciclaje de equipos
-        	- Router o Punto de Acceso: Configuración de un Punto de Acceso o de un Repetidor con el firmware libre "Openwrt"
+        	- Router o Punto de Acceso: Configuración de un Punto de Acceso a Internet
         	- Protocolo de seguridad en el uso del Espacio Maker
 		- Desarrollo de talleres abiertos al público: Scratch Day, Arduino Day y Taller 3D
     	Contenidos específicos de la Impresora 3D:
