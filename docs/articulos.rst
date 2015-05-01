@@ -72,12 +72,12 @@ Abril, 2015
 		  la proactividad y el emprendimiento personal del alumnado. Por tanto lo estamos preparando para ese, más que probable,
 		  requerimiento del sistema productivo.
 		
-		- Consumidor frente a productor-consumidor. La tecnología nos permite acceder a la
+		- Productor-Consumidor frente a Consumidor. La tecnología nos permite acceder a la
 		  "producción" y/o fabricación de objetos. Durante épocas anteriores la sociedad
 		  se ha caracterizado por el elevado consumo. La disminución de la capacidad adquisitiva 
 		  de nuestra sociedad en crisis, el medio ambiente, e incluso la ética y respeto hacia esa parte 
-		  del mundo, son solo algunas de las razones por las que es hora de tomar conciencia de que el consumo ha
-		  de ser responsable. En ese sentido, el reciclaje y la autofabricación pueden servir de ayuda.
+		  del mundo sin recursos, son solo algunas de las razones por las que es hora de tomar conciencia de que el 
+		  consumo ha de ser responsable. En ese sentido, el reciclaje y la autofabricación pueden servir de ayuda.
 	
 	#. Líneas de actuación
 	
@@ -86,13 +86,13 @@ Abril, 2015
 		
 		- Espacio maker: Dotar al espacio de ordenadores, proyector, equipos de soldadura, equipos de comunicación, ...
 		
-		- Programación: Introducir al alumnado en el mundo de la programación a través de Scratch
+		- Programación: Introducir al alumnado en el mundo de la programación a través de Scratch (https://scratch.mit.edu/about/)
 		
-		- Robótica: Participar el First Lego League y replicar el trabajo con Printbots (robots imprimibles de bajo coste)
+		- Robótica: Participar el First Lego League (http://www.firstlegoleague.es/) y replicar el trabajo con Printbots (robots imprimibles de bajo coste)
 		
 		- Impresión 3D: Mejorar la impresora 3D y profundizar en el modelado y diseño en 3D
 		
-		- Hardware libre: Realizar diferentes proyectos de iniciación con Arduino y Raspberry Pi
+		- Hardware libre: Realizar diferentes proyectos de iniciación con Arduino (http://www.arduino.cc/) y Raspberry Pi (https://www.raspberrypi.org/help/what-is-a-raspberry-pi/)
 
 #. Objetivos
 	Podemos enumerar los siguientes objetivos a largo plazo:
@@ -106,7 +106,9 @@ Abril, 2015
 		- Evolucionar la Impresora 3D y los conocimientos en modelado 3D
 		- Ampliar los conocimientos de programación Scratch y extenderlos al mundo físico mediante el uso de Arduino
 		- Desarrollar desafíos de robótica tanto de robots comerciales Lego como robots "imprimibles" con Arduino
-		- Extender el concepto de creatividad a otras áreas: El huerto, muebles diy, cocina, canal de noticias del centro, papiroflexia, creaciones literarias, plásticas, musicales, ..
+		- Extender el concepto de creatividad a otros ámbitos y áreas: Por ejemplo el huerto, muebles DIY , 
+		  cocina creativa, canal de youtube con noticias del centro, papiroflexia, 
+		  creaciones literarias, plásticas, musicales, ..
 		- Fomentar hábitos de consumo responsable a través de la autofabricación y el reciclaje
 		
 #. Contenidos y Actividades
@@ -147,7 +149,7 @@ Abril, 2015
 	En todo caso, los contenidos vendrán determinados por documentación libre que puedas ser aprovechada.
 	Algunos ejemplos de entornos de documentación sobre los que se podría trabajar serían:
 		- Portal Código21 del Gobierno de Navarra sobre tecnologías creativas: http://codigo21.educacion.navarra.es/alumnado/recursos/
-		- Escuela Maker de bq http://diwo.bq.com/
+		- Escuela Maker de bq: http://diwo.bq.com/
 		- Revista libre sobre el ecosistema Raspberry Pi: https://www.raspberrypi.org/magpi/
 		- Portal de la comunidad de Arduino: http://www.arduino.cc/#
 		
@@ -158,7 +160,7 @@ Abril, 2015
 	**Imagina:**
 	Aunque
 	en los contenidos ya aparece qué se quiere hacer, esto no cierra la puerta a que en cualquier momento, se
-	acepten propuestas o ideas diferentes a realizar. De hecho, epistemológicamente es importante que aquellos que quieran participar
+	acepten propuestas o ideas diferentes a realizar. De hecho, es importante que aquellos que quieran participar
 	en el proyecto se involucren en la toma de decisiones. A su vez, dentro de cada línea de trabajo, las actividades
 	serán lo más abiertas posibles para que sean lo propios "makers" los que decidan qué hacer -Por ejemplo, si
 	estamos trabajando con Scratch, las actividades propuestas serán del tipo: Invéntate una historia que ...-
@@ -199,14 +201,14 @@ Abril, 2015
 	Código21 (http://codigo21.educacion.navarra.es/). Algunos de los contenidos que aparecen en este proyecto 
 	sí que aparecen
 	concretados en el currículo de Primaria, sin embargo, a fecha de elaboración de este 
-	documento, en Secundaria no se sabe dónde se concretarán. 
+	documento, en Secundaria no se sabe dónde y si se concretarán. 
 	Por tanto es posible que para el próximo curso haya algo más definido para asignaturas
 	como matemáticas o tecnología, y en ese caso se podrían modificar las programaciones para 
 	adaptarlas al proyecto.
 
 	En cualquier caso, bajo mi punto de vista, no todo el alumnado estará lo 
 	suficientemente motivado
-	para desarrollar estas capacidades, por lo que la creación de un espacio específico dentro
+	para desarrollar estas capacidades, por lo que la creación de un espacio específico de uso voluntario dentro
 	del centro permitirá potenciar la creatividad de aquellos alumnos que sientan inquietud
 	por el mundo "maker".
 	  
