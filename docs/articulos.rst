@@ -40,8 +40,8 @@ Abril, 2015
 	De acuerdo con todo lo anterior se propone construir un espacio en el centro donde se puedan
 	crear cosas fomentando, además de las relaciones sociales, aspectos como
 	la creatividad y proactividad del alumnado, el conocimiento libre, el trabajo colectivo,
-	el consumo responsable, etc y transmitirlos al resto de la comunidad educativa como una
-	forma de aprendizaje significativo e informal.
+	el consumo responsable, etc. Pero sobre todo, transmitirlos al resto de la comunidad educativa como una
+	forma de aprendizaje significativo e informal y de conciencia social.
 	
 	#. Principales ideas sobre las que subyace el proyecto
 	
@@ -54,7 +54,9 @@ Abril, 2015
 		  Por una parte el propio proceso de documentar, explicar y compartir lo que se ha hecho
 		  constituye una excelente forma de aprender y reforzar contenidos, pero por otra, 
 		  el hacerlo público permite que 
-		  otras personas puedan aprender e incluso mejorar ese conocimiento aportado.
+		  otras personas puedan aprender e incluso mejorar ese conocimiento aportado. En definitiva,
+		  en la construcción de un conocimiento colectivo donde la suma total es mayor que
+		  la suma individual si no se pusieran al servicio del resto.
 	
 		- Nuestra sociedad se caracteriza por el alto nivel tecnológico. Por tanto es
 		  conveniente que nuestro alumnado conocza y domine la tecnología, que sepa cómo está
@@ -112,11 +114,11 @@ Abril, 2015
 	del proyecto, y por tanto la lista que aparece a continuación podría ser orientativa.
     
     	Contenidos curriculares básicos:
-        	- Mecánica física --> Velocidades lineales, angulares, engranajes
-        	- Ley de Ohm --> Corriente eléctrica
-        	- Componentes electrónicos --> Resistencias, Tipos de Motores, ...
+        	- Mecánica física: Conceptos como velocidades lineales, angulares, engranajes, ...
+        	- Ley de Ohm y Corriente eléctrica
+        	- Componentes electrónicos básicos: Resistencias, Tipos de Motores, ...
         	- Arquitectura y redes de Ordenadores
-        	- Fundamentos de Programación a través de Scratch
+        	- Fundamentos de Programación a través de Scratch (si finalmente aparece en el currículo de Secundaria, como en Primaria)
    	Contenidos específicos del Espacio Maker:
 	        - Montaje de equipos con Raspberry Pi 
 	        - Reciclaje de equipos
@@ -134,6 +136,7 @@ Abril, 2015
 		- Animaciones
 		- Videojuego
 		- Problemas geométricos
+		- Simulaciones virtuales de Robots
     	Contenidos de Hardware Libre:
 		- Iniciación a Arduino con el programa online 123d Circuits (http://123d.circuits.io/)
 		- Control desde Arduino de los principales componentes electrónicos. 
