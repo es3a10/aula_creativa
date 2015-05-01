@@ -3,7 +3,12 @@ Artículos
 
 Imagina, crea, difunde: Makespace Cortes  (BORRADOR)
 ________________________________________
-Abril, 2015
+Mayo, 2015
+
+*"Si tú tienes una manzana y yo tengo una manzana e intercambiamos las manzanas, entonces tanto tú como
+yo seguiremos teniendo una manzana cada uno. Pero si tú tienes una idea y yo tengo una idea, 
+e intercambiamos las ideas, entonces ambos tendremos dos ideas" - Bernard Shaw*
+
 
 #. Introducción
 	Como resultado de la creación de una impresora 3d en el centro, se ha descubierto
