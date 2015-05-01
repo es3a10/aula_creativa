@@ -160,7 +160,10 @@ e intercambiamos las ideas, entonces ambos tendremos dos ideas" - Bernard Shaw*
 		
 
 #. Metodología
-	La metodología principal a aplicar aparece resumida en el título del proyecto: Imagina, crea y difunde. 
+	La metodología principal a aplicar aparece resumida en el título del proyecto: Imagina, crea y difunde. Y está
+	inspirada, entre otras, en la que promueve Mitch Resnick, responsable del proyecto Scratch y que se resume en 
+	la siguiente sentencia de pseudocódigo: 
+	*forever(imagine, program, share);*
 	
 	**Imagina:**
 	Aunque
