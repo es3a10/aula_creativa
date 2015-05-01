@@ -170,7 +170,8 @@ Abril, 2015
 		- Al documentar y explicar lo construido, reforzamos los conocimientos adquiridos
 		- Permitimos que otras personas aprendan de lo que hemos hecho
 		- Nos permite aprender del trabajo de los demás y mejorarlo
-	
+	Este punto es el que más suele costar al alumnado, sin embargo constituye la clave del éxito del proyecto por lo que se pretende darle especial relevancia. 	
+
 	A nivel organizativo, la característica principal estará en la flexibilidad. 
 	Basándonos en la experiencia de la construcción de la Impresora 3d, donde
 	todos los viernes en el segundo recreo se hacía una reunión informal para
@@ -203,9 +204,27 @@ Abril, 2015
 	del centro permitirá potenciar la creatividad de aquellos alumnos que sientan inquietud
 	por el mundo "maker".
 	  
-	
-	     
+#. Competencias clave y materias o asignaturas relacionadas con el proyecto
 
+#. Alumnado y comunidad educativa implicada
+
+	- Alumnos
+	- Docentes
+	- Antiguos docentes
+	- Padres
+	- Resto de la sociedad
+	     
+#. Recursos materiales
+	Muchas personas creativas (y sobre todo "hacedoras DIY")  se caracterizan en saber adaptarse a los
+	recursos que tiene y reciclar en la medida de lo posible. Este tipo de actitud, como hemos dicho, se intentará transmitir dentro del espacio "maker".
+	A pesar de ello, el acceso a una serie de recursos facilitaría su implantación
+	Podemos enumerar los recursos por línea de actuación:
+		- Espacio Maker: Dotar de tres ordenadores de bajo coste para aprender primero y  poder trabajar después. Montarlos a partir de placas Raspberry Pi puede ser una buena alternativa. La impresora 3D ya está en el centro, por lo que pasaría a ubicarse en este espacio.
+		Dotar de un punto de acceso con Firmware Libre (OpenWrt), y que el alumnado configure y gestione el punto de acceso. Potenciar el uso de sus propios dispositivos en este entorno puede ser una experiencia piloto para adoptar metodologías BYOD (Bring yout own device)	
+		- Tecnología 3D: La impresora 3D ya está operativa, pero puede evolucionarse y mejorar. También sería necesario adquirir bobinas de filamento para imprimir. El hardware para montar el servidor de impresión remoto se haría sobre uno de los ordenadores del punto anterior
+		- Robótica: La electrónica de los robots se puede hacer con placas Arduino. Sin embargo, para simplificar los cableados posteriores sería más conveniente utilizar las placas adaptadas que comercializa la empresa bq. Algo similar pasaría 
+		
+		 
 
 
  
