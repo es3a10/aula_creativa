@@ -46,59 +46,58 @@ Abril, 2015
 	#. Principales ideas sobre las que subyace el proyecto
 	
 		- La creatividad es una forma natural de aprendizaje. Si observamos a los niños veremos que de
-		manera natural crean sus juguetes, sus disfraces, les encanta desmontar las cosas para
-		volver a montarlas. Por diferentes circunstancias vemos que muchos adultos hemos perdido esa 
-		capacidad de aprendizaje, y por lo tanto es hora de recuperar 
+		  manera natural crean sus juguetes, sus disfraces, les encanta desmontar las cosas para
+		  volver a montarlas. Por diferentes circunstancias vemos que muchos adultos hemos perdido esa 
+		  capacidad de aprendizaje, y por lo tanto es hora de recuperar 
 	
 		- El conocimiento libre se basa en compartir el conocimiento, en difundirlo.
-		Por una parte el propio proceso de documentar, explicar y compartir lo que se ha hecho
-		constituye una excelente forma de aprender y reforzar contenidos, pero por otra, 
-		el hacerlo público permite que 
-		otras personas puedan aprender e incluso mejorar ese conocimiento aportado.
+		  Por una parte el propio proceso de documentar, explicar y compartir lo que se ha hecho
+		  constituye una excelente forma de aprender y reforzar contenidos, pero por otra, 
+		  el hacerlo público permite que 
+		  otras personas puedan aprender e incluso mejorar ese conocimiento aportado.
 	
 		- Nuestra sociedad se caracteriza por el alto nivel tecnológico. Por tanto es
-		conveniente que nuestro alumnado conocza y domine la tecnología, que sepa cómo está
-		hecha.
+		  conveniente que nuestro alumnado conocza y domine la tecnología, que sepa cómo está
+		  hecha.
 	
 		- La creatividad como revulsivo a la crisis. Los paises occidentales no pueden competir
-		con la producción desde países emergentes. Los costes de producción siempre serán menores
-		y por lo tanto estamos condenados a que en un mercado globalizado como el actual, la
-		producción acabará realizándose en aquellos países con salarios más bajos. Es por ello que
-		una alternativa puede estar en dirigir los esfuerzos hacia la innovación y desarrollo de nuevas
-		ideas que se puedan materializar en nuevos modelos de negocio. Fomentando la creatividad ayudamos
-		a desarrollar
-		la proactividad y el emprendimiento personal del alumnado. Por tanto lo estamos preparando para ese, más que probable,
-		requerimiento del sistema productivo.
+		  con la producción desde países emergentes. Los costes de producción siempre serán menores
+		  y por lo tanto estamos condenados a que en un mercado globalizado como el actual, la
+		  producción acabará realizándose en aquellos países con salarios más bajos. Es por ello que
+		  una alternativa puede estar en dirigir los esfuerzos hacia la innovación y desarrollo de nuevas
+		  ideas que se puedan materializar en nuevos modelos de negocio. Fomentando la creatividad ayudamos
+		  a desarrollar
+		  la proactividad y el emprendimiento personal del alumnado. Por tanto lo estamos preparando para ese, más que probable,
+		  requerimiento del sistema productivo.
 		
 		- Consumidor frente a productor-consumidor. La tecnología nos permite acceder a la
-		"producción" y/o fabricación de objetos. Durante épocas anteriores la sociedad
-		se ha caracterizado por el elevado consumo. La disminución de la capacidad adquisitiva 
-		de nuestra sociedad en crisis, el medio ambiente, e incluso la ética y respeto hacia esa parte 
-		del mundo, son solo algunas de las razones por las que es hora de tomar conciencia de que el consumo ha
-		de ser responsable. En ese sentido, el reciclaje y 
-		la autofabricación pueden servir de ayuda.
+		  "producción" y/o fabricación de objetos. Durante épocas anteriores la sociedad
+		  se ha caracterizado por el elevado consumo. La disminución de la capacidad adquisitiva 
+		  de nuestra sociedad en crisis, el medio ambiente, e incluso la ética y respeto hacia esa parte 
+		  del mundo, son solo algunas de las razones por las que es hora de tomar conciencia de que el consumo ha
+		  de ser responsable. En ese sentido, el reciclaje y la autofabricación pueden servir de ayuda.
 	
 	#. Líneas de actuación
 	
 		Para elaborar el espacio maker se pretende trabajar desde diferentes ámbitos pero que
 		en realidad están interrelacionados:
 		
-		- Espacio maker --> Ordenadores, Cañones, Equipos de soldadura, Equipos de comunicación, ...
+		- Espacio maker: Dotar al espacio de ordenadores, proyector, equipos de soldadura, equipos de comunicación, ...
 		
-		- Programación --> Introducción a la programación con Scratch
+		- Programación: Introducir al alumnado en el mundo de la programación a través de Scratch
 		
-		- Robótica --> Participar el First Lego League y replicar el trabajo con Printbots (robots imprimibles de bajo coste)
+		- Robótica: Participar el First Lego League y replicar el trabajo con Printbots (robots imprimibles de bajo coste)
 		
-		- Impresión 3D --> Mejorar la impresora 3D y profundizar en el modelado y diseño en 3D
+		- Impresión 3D: Mejorar la impresora 3D y profundizar en el modelado y diseño en 3D
 		
-		- Hardware libre --> Diferentes proyectos con Arduino y Raspberry Pi
+		- Hardware libre: Realizar diferentes proyectos de iniciación con Arduino y Raspberry Pi
 
 #. Objetivos
 	Podemos enumerar los siguientes objetivos a largo plazo:
 	
 		- Dotar al centro de un espacio "maker"
 		- Promocionar en el centro la creatividad como forma de aprendizaje informal
-		- Desarrollar en el alumnado la proactividad, la autonomía y la responsbilidad en la gestión de un espacio propio 
+		- Desarrollar en el alumnado la proactividad, la autonomía y la responsabilidad en la gestión de un espacio propio 
 		- Promocionar en el centro el uso de la tecnoloǵia y el conocimiento libre como herramientas para desarrollar la creatividad
 		- Fomentar, mediante el espacio maker, las relaciones sociales, la difusión de experiencias creativas y la consecución de objetivos colectivos
 		- Abrir el espacio "maker" al exterior mediante la celebración de eventos como Scratch Day, Arduino Day o una específica de tecnología 3D
@@ -106,7 +105,7 @@ Abril, 2015
 		- Ampliar los conocimientos de programación Scratch y extenderlos al mundo físico mediante el uso de Arduino
 		- Desarrollar desafíos de robótica tanto de robots comerciales Lego como robots "imprimibles" con Arduino
 		- Extender el concepto de creatividad a otras áreas: El huerto, muebles diy, cocina, canal de noticias del centro, papiroflexia, creaciones literarias, plásticas, musicales, ..
-		
+		- Fomentar hábitos de consumo responsable a través de la autofabricación y el reciclaje
 		
 #. Contenidos y Actividades
     	Por la naturaleza del proyecto, el listado de contenidos depende de las propuestas de los propios componentes
