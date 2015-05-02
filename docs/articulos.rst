@@ -132,6 +132,10 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		  cocina creativa, canal de youtube con noticias del centro, papiroflexia, 
 		  creaciones literarias, plásticas, musicales, ..
 		- Fomentar hábitos de consumo responsable a través de la autofabricación y el reciclaje
+		- Acercar al alumnado experiencias creativas relacionadas con diferentes familias profesionales 
+		  como pueda ser diseño, electrónica, mecanizado o informática, 
+		  de manera que puedan servir de orientación de cara a estudios posteriores (bien de formación
+		  profesional o de grados)
 		
 #. Contenidos y Actividades
     	Por la naturaleza del proyecto, el listado de contenidos depende de las propuestas de los propios componentes
@@ -205,7 +209,9 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		- Permitimos que otras personas aprendan de lo que hemos hecho
 		- Nos permite aprender del trabajo de los demás y mejorarlo
 	Este punto es el que más suele costar al alumnado, sin embargo constituye la clave del éxito del proyecto por lo que se pretende darle especial relevancia. 	
-
+	En este apartado de difusión, se pretende además, abrir las puertas del centro con una
+	serie de actividades abiertas al público: Padres, niños, etc.
+	
 	A nivel organizativo, la característica principal estará en la flexibilidad. 
 	Basándonos en la experiencia de la construcción de la Impresora 3d, donde
 	todos los viernes en el segundo recreo se hacía una reunión informal para
@@ -221,9 +227,8 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	al alumnado para determinar qué se quiere crear y en qué quiere participar.
 	En todo proceso creativo aparecerán tareas o actividades de diferente dificultad
 	permitiendo a cada alumno elegir en que contribuye al éxito colectivo. En los últimos años
-	hemos observado una gran polaridad en el alumnado, encontrando o muy buenos o simplemente
-	"menos" buenos. 
-	Si además a esto añadimos que 
+	hemos observado una gran heterogeneidad en el alumnado, encontrando o muy buenos o simplemente
+	"menos" buenos y este tipo de propuestas pueden ser positivas
 
 	Cualquier otro aspecto quedaría pendiente de definir, ya que se desconocen los
 	grupos, horarios y profesores con los que se va a contar. Pero es indudable, que
