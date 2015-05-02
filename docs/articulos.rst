@@ -1,6 +1,24 @@
 Artículos
 =========
 
+1. Título del proyecto.
+2. Palabras clave (tres)
+3. Nombre del centro o centros donde se desarrollará el proyecto.
+4. Nombre y apellidos del coordinador o coordinadora.
+5. Breve descripción del proyecto (30-40 palabras)
+6. Índice.
+7. Justificación: (Contenido innovador que justifica el proyecto y aportación de nuevas posibilidades educativas que se pretenden con el mismo, así como su relación con el desarrollo de las competencias clave).
+8. Objetivos.
+9. Contenidos y actividades.
+10. Metodología.
+11. Competencias clave y materias o asignaturas relacionadas.
+12. Equipo docente implicado.
+13. Alumnado.
+14. Participación de la Comunidad Educativa.
+15. Recursos humanos y materiales y alianzas con otras instituciones.
+16. TIC que se van a incorporar.
+17. Fases y temporalización.
+
 Imagina, crea, difunde: "Makespace" Cortes  (BORRADOR)
 ________________________________________
 Mayo, 2015
