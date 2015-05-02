@@ -151,7 +151,8 @@ e intercambiamos las ideas, entonces ambos tendremos dos ideas" - Bernard Shaw*
 		- Acceso Remoto a Raspberry Pi
 		- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D (http://octoprint.org/)
 	
-	En todo caso, los contenidos vendrán determinados por documentación libre que puedas ser aprovechada.
+	En todo caso, las actividades vendrán determinados por documentación libre que puedas ser aprovechada y siguiendo
+	la metodología del proyectos.
 	Algunos ejemplos de entornos de documentación sobre los que se podría trabajar serían:
 		- Portal Código21 del Gobierno de Navarra sobre tecnologías creativas: http://codigo21.educacion.navarra.es/alumnado/recursos/
 		- Escuela Maker de bq: http://diwo.bq.com/
@@ -221,6 +222,15 @@ e intercambiamos las ideas, entonces ambos tendremos dos ideas" - Bernard Shaw*
 	por el mundo "maker".
 	  
 #. Competencias clave y materias o asignaturas relacionadas con el proyecto
+El escenario planteado supone un excelente marco para desarrollar las competencias claves. 
+La adquisición de las mismas irá ligada al mayor o menor éxito en el desarrollo del proyecto:
+	- **Comunicación lingüística:**
+	- **Competencia matemática y competencias básicas en ciencia y tecnología.**
+	- **Competencia digital:**
+	- **Aprender a aprender:**
+	- **Competencias sociales y cívicas:**
+	- **Sentido de iniciativa y espiritu emprendedor:**
+	- **Conciencia y expresiones culturales:**
 
 #. Alumnado y comunidad educativa implicada
 
