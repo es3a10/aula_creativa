@@ -1,13 +1,13 @@
 Artículos
 =========
 
-Imagina, crea, difunde: Makespace Cortes  (BORRADOR)
+Imagina, crea, difunde: "Makespace" Cortes  (BORRADOR)
 ________________________________________
 Mayo, 2015
 
-*"Si tú tienes una manzana y yo tengo una manzana e intercambiamos las manzanas, entonces tanto tú como
-yo seguiremos teniendo una manzana cada uno. Pero si tú tienes una idea y yo tengo una idea, 
-e intercambiamos las ideas, entonces ambos tendremos dos ideas" - Bernard Shaw*
+*"George Bernard Shaw	
+If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. 
+But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas." - George Bernard Shaw*
 
 
 #. Introducción
