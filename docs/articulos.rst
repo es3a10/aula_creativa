@@ -268,12 +268,23 @@ La adquisición de las mismas irá ligada al mayor o menor éxito en el desarrol
 	  destacar que algunas de las propuestas suponen la digitalización del mundo físico:
 	  impresión de objetos reales mediante el modelado digital de objetos 3D, la interacción
 	  con el mundo físico mediante la programación de Arduino mediante sensores y
-	  actuadores , etc. 	  
+	  actuadores, etc. 	  
 	- **Aprender a aprender:**
-	  
+	  Si algo tiene este tipo de aprendizaje informal es la necesidad de obtener la
+	  la documentación de lo que se quiere hacer de fuentes externas, por lo que
+	  se está en realidad transmitiendo una forma de aprender por uno mismo.
 	- **Competencias sociales y cívicas:**
+	  El espacio "maker" en realidad es un punto de encuentro para trabajar y compartir
+	  experiencias, por lo que continuamente se desarrollarán las habilidades sociales.
+	  Además la responsabilidad de la gestión del espacio recaerá sobre todo el colectivo
+	  participante.
 	- **Sentido de iniciativa y espiritu emprendedor:**
+	  La creatividad fomenta la generación de ideas y la proactividad, cualidades imprescindibles
+	  para la iniciativa y emprendimiento. Por no extender el alcance del proyecto,
+	  no se desarrollarán estas competencias desde el punto de vista de la gestión empresarial
 	- **Conciencia y expresiones culturales:**
+	  La creatividad, de nuevo, permite la expresión más artística del alumando. Hay que resaltar como en los
+	  verdaderos "makespaces" y "fablabs" son también centros de creación de arte digital.
 
 #. Alumnado y comunidad educativa implicada
 
