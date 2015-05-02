@@ -196,7 +196,16 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	experiencias.
 	Además, como los protagonistas debes ser los alumnos se va a intentar que 
 	puedan ir a este espacio a trabajar durante los segundos recreos de manera
-	autónoma y responsable, por lo que deberán organizarse ellos y velar por el buen funcionamiento del espacio. 
+	autónoma y responsable, por lo que deberán organizarse ellos y velar por el buen funcionamiento 
+	del espacio. 
+	Conviene resaltar que este tipo de metodología y organización permite
+	atender bastante bien a la diversidad, puesto que se cede autonomía
+	al alumnado para determinar qué se quiere crear y en qué quiere participar.
+	En todo proceso creativo aparecerán tareas o actividades de diferente dificultad
+	permitiendo a cada alumno elegir en que contribuye al éxito colectivo. En los últimos años
+	hemos observado una gran polaridad en el alumnado, encontrando o muy buenos o simplemente
+	"menos" buenos. 
+	Si además a esto añadimos que 
 
 	Cualquier otro aspecto quedaría pendiente de definir, ya que se desconocen los
 	grupos, horarios y profesores con los que se va a contar. Pero es indudable, que
