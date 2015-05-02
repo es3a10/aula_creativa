@@ -5,8 +5,7 @@ Imagina, crea, difunde: "Makespace" Cortes  (BORRADOR)
 ________________________________________
 Mayo, 2015
 
-*"George Bernard Shaw	
-If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. 
+*"If you have an apple and I have an apple and we exchange apples then you and I will still each have one apple. 
 But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas." - George Bernard Shaw*
 
 
