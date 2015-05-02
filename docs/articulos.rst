@@ -256,9 +256,21 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 El escenario planteado supone un excelente marco para desarrollar las competencias claves. 
 La adquisición de las mismas irá ligada al mayor o menor éxito en el desarrollo del proyecto:
 	- **Comunicación lingüística:**
+	  Esta competencia se desarrollará durante todo el proyecto: al documentarse para
+	  ver qué se hace, al tomar decisiones y sobre todo al difundir los resultados
 	- **Competencia matemática y competencias básicas en ciencia y tecnología.**
-	- **Competencia digital:**
+	  La mayoría de los contenidos propuestos requieren desarrollar la inteligecia
+	  lógico-matemática y el razonamiento formal. Además se desarrollan conceptos
+	  científicos fundamentalmente de mecánica y electrónica.
+ 	- **Competencia digital:**
+	  El proyecto consiste en la gestión de un espacio de fabricación digital, por lo
+	  que todas las "creaciones" tendrán su componente digital. En ese sentido, conviene
+	  destacar que algunas de las propuestas suponen la digitalización del mundo físico:
+	  impresión de objetos reales mediante el modelado digital de objetos 3D, la interacción
+	  con el mundo físico mediante la programación de Arduino mediante sensores y
+	  actuadores , etc. 	  
 	- **Aprender a aprender:**
+	  
 	- **Competencias sociales y cívicas:**
 	- **Sentido de iniciativa y espiritu emprendedor:**
 	- **Conciencia y expresiones culturales:**
@@ -294,11 +306,4 @@ La adquisición de las mismas irá ligada al mayor o menor éxito en el desarrol
 		  los cableados posteriores sería más conveniente utilizar las placas adaptadas que comercializa la empresa bq. 
 		  El resto de componentes electrónicos (servomotores, resistencias, ...) también se pordrían solicitar a bq o 
 		- Hardware Libre: Tanto los Arduinos como las Raspberry Pi serían los mismo que los utilizados en los puntos anteriores
-		
-		
-		 
 
-
- 
-
- 
