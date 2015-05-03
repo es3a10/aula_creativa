@@ -337,3 +337,6 @@ Si algún profesor quiere contribuir al proyecto
 		- Hardware Libre: Tanto los Arduinos como las Raspberry Pi serían los mismo que los utilizados en los puntos anteriores
 
 #. TIC que se van a incorporar
+	Teniendo en cuenta que la impresora 3D ya se tiene, básicamente se incorporarán las siguientes TIC.
+		- Hardware: Electrónica Arduino y Ordenadores educativos Raspberry PI. Robots imprimibles
+		- Software: Scratch, Variaciones de Scratch para programar Arduinos. Sistemas operativos para Raspberry PI
