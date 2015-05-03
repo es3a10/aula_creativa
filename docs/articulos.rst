@@ -365,15 +365,19 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	- Espacio Maker
 		- Montaje de equipos e instalación de sistemas operativos: De Octubre a Diciembre
 		- Montaje del punto de acceso: De Octubre a Noviembre
-	- Introducción a la programación con Scratch: de Octubre a Junio
-	- Desafío First Lego League: De Octubre a Mayo
-	- Tecnología 3D.
+	- Programación
+		- Introducción a la programación con Scratch: de Octubre a Diciembre
+		- Programación con Scratch y Arduino: de Enero a Junio
+	- Robótica 
+		- Desafío First Lego League: De Octubre a Mayo
+		- Robots imprimibles: De Marzo a Junio
+	- Tecnología 3D
 		- Introducción al Modelado de Objetos en 3D: De Octubre a Diciembre
 		- Modelado avanzado de Objetos en 3D: De Diciembre a Junio
 		- Instación del servidor de impresión remoto Octoprint y pantalla LCD: Enero
-	- Hardware Libre:
+	- Hardware Libre
 		- Proyectos sencillos con Arduino y Raspberry Pi: De Enero a Marzo
-		- Robots imprimibles de bajo cose: De Marzo a Junio 
+		- Proyectos de robótica con Arduino: De Marzo a Junio 
 		
 	
 #. Formas de evaluación
