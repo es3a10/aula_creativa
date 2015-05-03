@@ -152,6 +152,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	        - Reciclaje de equipos
         	- Router o Punto de Acceso: Configuración de un Punto de Acceso a Internet
         	- Protocolo de seguridad en el uso del Espacio Maker
+        	- Mantenimiento de un portal o blog, en el que se documenten los trabajos realizados
 		- Desarrollo de talleres abiertos al público: Scratch Day, Arduino Day y Taller 3D
     	Contenidos específicos de la Impresora 3D:
 		- Servicio de Impresión Remoto con Octoprint
@@ -292,9 +293,15 @@ profesores de matemáticas que realizaron el curso de robótica educativa. Sin e
 del proyecto, también podrá participar aquel profesorado con inquietudes y propuestas creativas.
 
 #. Alumnado
-Se propondrá la participación voluntaria a todo el alumnado del centro.
+Se propondrá la participación voluntaria a todo el alumnado del centro, que tendrá libertad para 
+acudir al espacio maker durante los segundos recreso.
 En el caso de que algún profesor implicado pueda realizar alguna adaptación de la programación en alguno de 
-sus grupos, dicho alumnado también participará en algún trabajo concreto
+sus grupos, dicho alumnado también participará en los trabajos que correspondan.
+
+#. Participación de la Comunidad Educativa
+Durante las tres jornadas de apertura del espacio, con sus talleres correspondientes, el resto de la comunidad
+educativa -padres, alumnos y profesores de otros centros, antiguos profesores, etc.- y no educativa 
+-la entrada será libre- podrá participar junto al alumnado del centro
 
 
 Si algún profesor quiere contribuir al proyecto
@@ -305,7 +312,7 @@ Si algún profesor quiere contribuir al proyecto
 	- Padres
 	- Resto de la sociedad
 	     
-#. Recursos materiales
+#. Recursos humanos y materiales y alianzas con otras instituciones
 	Muchas personas creativas (y sobre todo "hacedoras DIY")  se caracterizan por saber adaptarse a los
 	recursos que tiene y reciclar en la medida de lo posible. Este tipo de actitud, como hemos dicho, se intentará transmitir dentro del espacio "maker".
 	A pesar de ello, el acceso a una serie de recursos facilitaría su implantación.
@@ -329,3 +336,4 @@ Si algún profesor quiere contribuir al proyecto
 		  El resto de componentes electrónicos (servomotores, resistencias, ...) también se pordrían solicitar a bq o 
 		- Hardware Libre: Tanto los Arduinos como las Raspberry Pi serían los mismo que los utilizados en los puntos anteriores
 
+#. TIC que se van a incorporar
