@@ -28,23 +28,26 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	la tecnología actual nos proporciona: Arduino, Scratch, Raspberry Pi e Impresión 3D (entre otras)
 
 #. Índice
-	1. Título del proyecto.
-	2. Palabras clave (tres)
-	3. Nombre del centro o centros donde se desarrollará el proyecto.
-	4. Nombre y apellidos del coordinador o coordinadora.
+	1. Título del proyecto
+	2. Palabras clave
+	3. Nombre del centro o centros donde se desarrollará el proyecto
+	4. Nombre y apellidos del coordinador o coordinadora
 	5. Breve descripción del proyecto
-	6. Índice.
-	7. Justificación. 
-	8. Objetivos.
-	9. Contenidos y actividades.
-	10. Metodología.
-	11. Competencias clave y materias o asignaturas relacionadas.
-	12. Equipo docente implicado.
-	13. Alumnado.
-	14. Participación de la Comunidad Educativa.
-	15. Recursos humanos y materiales y alianzas con otras instituciones.
-	16. TIC que se van a incorporar.
-	17. Fases y temporalización.
+	6. Índice
+	7. Justificación 
+	8. Objetivos
+	9. Contenidos y actividades
+	10. Metodología
+	11. Competencias clave y materias o asignaturas relacionadas
+	12. Equipo docente implicado
+	13. Alumnado
+	14. Participación de la Comunidad Educativa
+	15. Recursos humanos y materiales y alianzas con otras instituciones
+	16. TIC que se van a incorporar
+	17. Fases y temporalización
+	18. Formas de evaluación
+	19. Formación.
+	20. Presupuesto.
 
 #. Justificación
 	Como resultado de la creación de una impresora 3d en el centro, se ha descubierto
