@@ -274,8 +274,8 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	por el mundo "maker".
 	  
 #. Competencias clave y materias o asignaturas relacionadas con el proyecto
-El escenario planteado supone un excelente marco para desarrollar las competencias claves. 
-La adquisición de las mismas irá ligada al mayor o menor éxito en el desarrollo del proyecto:
+	El escenario planteado supone un excelente marco para desarrollar las competencias claves. 
+	La adquisición de las mismas irá ligada al mayor o menor éxito en el desarrollo del proyecto:
 	- **Comunicación lingüística:**
 	  Esta competencia se desarrollará durante todo el proyecto: al documentarse para
 	  ver qué se hace, al tomar decisiones y sobre todo al difundir los resultados
@@ -308,30 +308,21 @@ La adquisición de las mismas irá ligada al mayor o menor éxito en el desarrol
 	  verdaderos "makespaces" y "fablabs" son también centros de creación de arte digital.
 
 #. Equipo docente implicado
-Por las características de los contenidos el perfil de profesorado que más se ajusta es el de tecnología, y los
-profesores de matemáticas que realizaron el curso de robótica educativa. Sin embargo, dada la naturaleza flexible
-del proyecto, también podrá participar aquel profesorado con inquietudes y propuestas creativas.
+	Por las características de los contenidos el perfil de profesorado que más se ajusta es el de tecnología, y los
+	profesores de matemáticas que realizaron el curso de robótica educativa. Sin embargo, dada la naturaleza flexible
+	del proyecto, también podrá participar aquel profesorado con inquietudes y propuestas creativas.
 
 #. Alumnado
-Se propondrá la participación voluntaria a todo el alumnado del centro, que tendrá libertad para 
-acudir al espacio maker durante los segundos recreso.
-En el caso de que algún profesor implicado pueda realizar alguna adaptación de la programación en alguno de 
-sus grupos, dicho alumnado también participará en los trabajos que correspondan.
+	Se propondrá la participación voluntaria a todo el alumnado del centro, que tendrá libertad para 
+	acudir al espacio maker durante los segundos recreos.
+	En el caso de que algún profesor implicado pueda realizar alguna adaptación de la programación en alguno de 
+	sus grupos, dicho alumnado también participará en los trabajos que correspondan.
 
 #. Participación de la Comunidad Educativa
-Durante las tres jornadas de apertura del espacio, con sus talleres correspondientes, el resto de la comunidad
-educativa -padres, alumnos y profesores de otros centros, antiguos profesores, etc.- y no educativa 
--la entrada será libre- podrá participar junto al alumnado del centro
+	Durante las tres jornadas de apertura del espacio, con sus talleres correspondientes, el resto de la comunidad
+	educativa -padres, alumnos y profesores de otros centros, antiguos profesores, etc.- y no educativa 
+	-la entrada será libre- podrá participar junto al alumnado del centro
 
-
-Si algún profesor quiere contribuir al proyecto
-
-	- Alumnos
-	- Docentes
-	- Antiguos docentes
-	- Padres
-	- Resto de la sociedad
-	     
 #. Recursos humanos y materiales y alianzas con otras instituciones
 	Muchas personas creativas (y sobre todo "hacedoras DIY")  se caracterizan por saber adaptarse a los
 	recursos que tiene y reciclar en la medida de lo posible. Este tipo de actitud, como hemos dicho, se intentará transmitir dentro del espacio "maker".
@@ -394,7 +385,7 @@ Si algún profesor quiere contribuir al proyecto
 	Debido al esfuerzo que  implica, la creación de un grupo de trabajo en centro facilitaría la formación
 	en las diferentes tecnologías del profesorado que participe en el proyecto.
 	
-20. Presupuesto.
+#. Presupuesto.
 	Arduinos, Raspberry Pis, Monitores y teclados, Punto de acceso, Bobinas de filamento para la impresora,
 	Proyector y equipo de sonido para el espacio "maker", Consumibles, ... son algunos de los materiales o
 	productos que habría que comprar. Establecer un presupuesto exacto resulta complicado porque ni los propios
