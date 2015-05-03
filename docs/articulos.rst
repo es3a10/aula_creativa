@@ -282,6 +282,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 #. Competencias clave y materias o asignaturas relacionadas con el proyecto
 	El escenario planteado supone un excelente marco para desarrollar las competencias claves. 
 	La adquisición de las mismas irá ligada al mayor o menor éxito en el desarrollo del proyecto:
+
 	- **Comunicación lingüística:**
 	  Esta competencia se desarrollará durante todo el proyecto: al documentarse para
 	  ver qué se hace, al tomar decisiones y sobre todo al difundir los resultados
