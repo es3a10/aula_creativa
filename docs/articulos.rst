@@ -319,6 +319,8 @@ Si algún profesor quiere contribuir al proyecto
 	Podemos enumerar los recursos por línea de actuación:
 		- Espacio Maker: Se necesitarían tres ordenadores de bajo coste para aprender primero y  poder trabajar 
 		  después. Montarlos a partir de placas Raspberry Pi puede ser una buena alternativa. 
+		  Las Raspberry solo son placas de , para montar los ordenadores se necesitan periféricos: Monitores,
+		  teclados, etc. Una opción interesante sería reciclar componentes de empresas y entidades de la zona.
 		  La impresora 3D ya está en el centro, por lo que pasaría a ubicarse en este espacio.
 		  Se intentaría dotar al espacio de un punto de acceso con Firmware Libre (OpenWrt), y que el alumnado 
 		  configure y gestione el punto de acceso. Potenciar el uso de sus propios dispositivos en este entorno 
@@ -337,6 +339,45 @@ Si algún profesor quiere contribuir al proyecto
 		- Hardware Libre: Tanto los Arduinos como las Raspberry Pi serían los mismo que los utilizados en los puntos anteriores
 
 #. TIC que se van a incorporar
-	Teniendo en cuenta que la impresora 3D ya se tiene, básicamente se incorporarán las siguientes TIC.
+	Teniendo en cuenta que la impresora 3D ya se tiene y que se han probado herramientas de modelado
+	(FreeCad y TinkerCad), básicamente se incorporarán  como 
+	nuevas las siguientes TIC.
 		- Hardware: Electrónica Arduino y Ordenadores educativos Raspberry PI. Robots imprimibles
 		- Software: Scratch, Variaciones de Scratch para programar Arduinos. Sistemas operativos para Raspberry PI
+
+#. Fases y temporalización
+	Se propone el siguiente calendario orientativo:
+	- Espacio Maker
+		- Montaje de equipos e instalación de sistemas operativos: De Octubre a Diciembre
+		- Montaje del punto de acceso: De Octubre a Noviembre
+	- Introducción a la programación con Scratch: de Octubre a Junio
+	- Desafío First Lego League: De Octubre a Mayo
+	- Tecnología 3D.
+		- Introducción al Modelado de Objetos en 3D: De Octubre a Diciembre
+		- Modelado avanzado de Objetos en 3D: De Diciembre a Junio
+		- Instación del servidor de impresión remoto Octoprint y pantalla LCD: Enero
+	- Hardware Libre:
+		- Proyectos sencillos con Arduino y Raspberry Pi: De Enero a Marzo
+		- Robots imprimibles de bajo cose: De Marzo a Junio 
+		
+	
+#. Formas de evaluación
+	Para evaluar las actividades se propone valorar cada proyecto o trabajo con una encuesta a los integrantes. Se está estudiando
+	hacerlo a través de Twitter como forma adicional de difusión del mismo de forma que, por ejemplo, si
+	valoran positivamente el proyecto hacen un retuit y si no lo valoran lo marcan como favorito.
+	Para evaluar el trabajo, los profesores participantes podrán incluir criterios de calificación en sus 
+	programaciones. En el caso del autor de este documento, valorará el trabajo de aquellos alumnos que
+	pertenezcan a alguno de sus grupo en el apartado de actitud que normalmente incluye en sus programaciones.
+
+#. Formación
+	La formación queda contemplada en la metodología del proyecto: Autoformación a partir de fuentes externas.
+	Debido al esfuerzo que  implica, la creación de un grupo de trabajo en centro facilitaría la formación
+	en las diferentes tecnologías del profesorado que participe en el proyecto.
+	
+20. Presupuesto.
+	Arduinos, Raspberry Pis, Monitores y teclados, Punto de acceso, Bobinas de filamento para la impresora,
+	Proyector y equipo de sonido para el espacio "maker", Consumibles, ... son algunos de los materiales o
+	productos que habría que comprar. Establecer un presupuesto exacto resulta complicado porque ni los propios
+	contenidos del proyecto está concretados al 100%. Sin embargo, la mayoría de los componentes son
+	de bajo coste, por lo que con una cantidad de unos 1000€ creemos que es posible montar un espacio que
+	siente las bases de una verdadero "espacio maker"
