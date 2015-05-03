@@ -57,17 +57,17 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	
 	La democratización de los medios de producción digitales, y últimamente
 	la extensión de este fenómeno al mundo físico a través de impresoras 3d y máquinas de fabricación digital,
-	ha hecho que hayan proliferado centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY -Do it yourself- :
+	ha hecho que hayan proliferado centros espontáneos donde se juntan entusiastas de la fabricación "tecnológica" DIY -Do it yourself- :
 	Hablamos de los Fab Labs, Makespaces u otras denominaciones que vienen a ser
 	parecidas. 
 	
-	En este tipo de centros se reunen entusiastas que ven en el "hacer cosas" (makers en inglés)
+	En este tipo de centros se reúnen personas que ven en el "hacer cosas" (makers en inglés)
 	una forma de aprender
 	y de emplear su tiempo de ocio. Este tipo de reuniones suelen ser informales, y
 	aparte de fomentar los encuentros sociales, pretenden compartir y difundir al resto de integrantes
 	los proyectos realizados o que se encuentran en proceso.  
 	Aparte de esas ganas por crear cosas y difundirlas, aunque no
-	sea requísito indispensable, estos "inventores" del s.xxi se caracterizan 
+	sea requisito indispensable, estos "inventores" del s.xxi se caracterizan 
 	por la pasión por la tecnología y por promover el conocimiento libre como un bien público y colectivo.
 	 
 	La organización de estos centros se basa en la meritocracia, y por tanto
@@ -106,10 +106,10 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		  la suma individual si no se pusieran al servicio del resto.
 	
 		- Nuestra sociedad se caracteriza por el alto nivel tecnológico. Por tanto es
-		  conveniente que nuestro alumnado conocza y domine la tecnología, que sepa cómo está
+		  conveniente que nuestro alumnado conozca y domine la tecnología, que sepa cómo está
 		  hecha.
 	
-		- La creatividad como revulsivo a la crisis. Los paises occidentales no pueden competir
+		- La creatividad como revulsivo a la crisis. Los países occidentales no pueden competir
 		  con la producción desde países emergentes. Los costes de producción siempre serán menores
 		  y por lo tanto estamos condenados a que en un mercado globalizado como el actual, la
 		  producción acabará realizándose en aquellos países con salarios más bajos. Es por ello que
@@ -285,11 +285,11 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 
 	- **Comunicación lingüística:**
 	  Esta competencia se desarrollará durante todo el proyecto: al documentarse para
-	  ver qué se hace, al tomar decisiones y sobre todo al difundir los resultados.1. Se intentará, además, 
+	  ver qué se hace, al tomar decisiones y sobre todo al difundir los resultados. Se intentará, además, 
 	  que algunos resultados se produzcan en otras lenguas para su mayor difusión en 
 	  Internet (euskera, inglés o francés).
 	- **Competencia matemática y competencias básicas en ciencia y tecnología.**
-	  La mayoría de los contenidos propuestos requieren desarrollar la inteligecia
+	  La mayoría de los contenidos propuestos requieren desarrollar la inteligencia
 	  lógico-matemática y el razonamiento formal. Además se desarrollan conceptos
 	  científicos fundamentalmente de mecánica y electrónica.
  	- **Competencia digital:**
@@ -308,12 +308,12 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	  experiencias, por lo que continuamente se desarrollarán las habilidades sociales.
 	  Además la responsabilidad de la gestión del espacio recaerá sobre todo el colectivo
 	  participante.
-	- **Sentido de iniciativa y espiritu emprendedor:**
+	- **Sentido de iniciativa y espíritu emprendedor:**
 	  La creatividad fomenta la generación de ideas y la proactividad, cualidades imprescindibles
 	  para la iniciativa y emprendimiento. Por no extender el alcance del proyecto,
 	  no se desarrollarán estas competencias desde el punto de vista de la gestión empresarial.
 	- **Conciencia y expresiones culturales:**
-	  La creatividad, de nuevo, permite la expresión más artística del alumando. Hay que resaltar que los
+	  La creatividad, de nuevo, permite la expresión más artística del alumnado. Hay que resaltar que los
 	  verdaderos "makespaces" y "fablabs" son también centros de creación de arte digital.
 
 #. Equipo docente implicado
@@ -348,7 +348,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		  La impresora 3D ya está en el centro, por lo que pasaría a ubicarse en este espacio.
 		  Se intentaría dotar al espacio de un punto de acceso, y que el alumnado 
 		  configure y gestione el punto de acceso. Potenciar el uso de sus propios dispositivos en este entorno 
-		  puede ser una experiencia piloto para acercar el concepto BYOD -Bring yout own device- al centro.
+		  puede ser una experiencia piloto para acercar el concepto BYOD -Bring your own device- al centro.
 		  Puesto que el apartado de explicar y difundir lo realizado tiene especial relevancia, no
 		  estaría de más dotar al espacio de un proyector y un equipo de sonido inalámbrico.
 		- Tecnología 3D: La impresora 3D ya está operativa, pero puede evolucionarse y mejorar.
@@ -384,7 +384,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	- Tecnología 3D
 		- Introducción al Modelado de Objetos en 3D: De Octubre a Diciembre
 		- Modelado avanzado de Objetos en 3D: De Diciembre a Junio
-		- Instación del servidor de impresión remoto Octoprint y pantalla LCD: Enero
+		- Instalación del servidor de impresión remoto Octoprint y pantalla LCD: Enero
 	- Hardware Libre
 		- Proyectos sencillos con Arduino y Raspberry Pi: De Enero a Marzo
 		- Proyectos de robótica con Arduino: De Marzo a Junio 
@@ -401,7 +401,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 #. Formación
 	La formación queda contemplada en la metodología del proyecto: Autoformación a partir de fuentes externas.
 	Debido al esfuerzo que implica, la creación de un grupo de trabajo en centro facilitaría la formación
-	del profesorado que participe en el proyecto. De esta forma se adquiría al menos la base tecnológica 
+	del profesorado que participe en el proyecto. De esta forma se adquiriría al menos la base tecnológica 
 	necesaria para asesorar al alumnado.
 	
 #. Presupuesto.
