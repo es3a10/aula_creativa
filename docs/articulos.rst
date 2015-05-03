@@ -11,21 +11,21 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 
 
 #. Título del proyecto
-Imagina, crea, difunde: "Makespace" Cortes
+	Imagina, crea, difunde: "Makespace" Cortes
 
 #. Palabras clave (tres)
-Creatividad, Tecnología y Conocimiento Libre
+	Creatividad, Tecnología y Conocimiento Libre
 
 #. Nombre del centro o centros donde se desarrollará el proyecto.
-IESO Bardenas Reales
+	IESO Bardenas Reales
 
 #. Nombre y apellidos del coordinador o coordinadora.
-El autor del documento es Carlos Rodríguez Jaso, pero siguiendo las ideas que defiende el proyecto
-estaría encantada de que el proyecto fuera liderado por otra persona.
+	El autor del documento es Carlos Rodríguez Jaso, pero siguiendo las ideas que defiende el proyecto
+	estaría encantada de que el proyecto fuera liderado por otra persona.
 
 #. Breve descripción del proyecto
-Se pretende crear un espacio informal de fabricación digital con las herramientas que
-la tecnología actual nos proporciona: Arduino, Scratch, Raspberry Pi e Impresión 3D (entre otras)
+	Se pretende crear un espacio informal de fabricación digital con las herramientas que
+	la tecnología actual nos proporciona: Arduino, Scratch, Raspberry Pi e Impresión 3D (entre otras)
 
 #. Índice
 	1. Título del proyecto.
