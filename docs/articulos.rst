@@ -14,15 +14,13 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	Imagina, crea, difunde: "Makespace" Cortes
 
 #. Palabras clave
-	Creatividad, Tecnología y Conocimiento Libre
+	Creatividad, Tecnología, Conocimiento Libre
 
 #. Nombre del centro o centros donde se desarrollará el proyecto.
 	IESO Bardenas Reales
 
 #. Nombre y apellidos del coordinador o coordinadora.
-	El autor del documento es Carlos Rodríguez Jaso, pero siguiendo las ideas que defiende el proyecto
-	de corresponsabilizar el trabajo y establecer una meritocracia
-	estaría encantado de que el proyecto fuera liderado por otra persona.
+	El autor del documento es Carlos Rodríguez Jaso.
 
 #. Breve descripción del proyecto
 	Se pretende crear un espacio informal de fabricación digital con algunas herramientas que
@@ -53,12 +51,12 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 #. Justificación
 	Como resultado de la creación de una impresora 3d en el centro, se ha descubierto
 	un tipo de aprendizaje informal que constituye la base de este proyecto y que si bien
-	ya se ha trabajado se pretende explorar en mayor profundidad. Si la construcción de la impresora
+	ya se ha trabajado, se pretende explorar en mayor profundidad. Si la construcción de la impresora
 	3d surgió como una evolución al trabajo realizado hace dos años en el campo de la  robótica, 
 	la propuesta actual surge como evolución del de la impresora.
 	
 	La democratización de los medios de producción digitales, y últimamente
-	la extensión de este fenómeno al mundo físico a través de impresoras 3d y máquinas de fabricación digital
+	la extensión de este fenómeno al mundo físico a través de impresoras 3d y máquinas de fabricación digital,
 	ha hecho que hayan proliferado centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY -Do it yourself- :
 	Hablamos de los Fab Labs, Makespaces u otras denominaciones que vienen a ser
 	parecidas. 
@@ -67,7 +65,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	una forma de aprender
 	y de emplear su tiempo de ocio. Este tipo de reuniones suelen ser informales, y
 	aparte de fomentar los encuentros sociales, pretenden compartir y difundir al resto de integrantes
-	los proyectos realizados o en proceso.  
+	los proyectos realizados o que se encuentran en proceso.  
 	Aparte de esas ganas por crear cosas y difundirlas, aunque no
 	sea requísito indispensable, estos "inventores" del s.xxi se caracterizan 
 	por la pasión por la tecnología y por promover el conocimiento libre como un bien público y colectivo.
@@ -92,8 +90,10 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	
 		- La creatividad es una forma natural de aprendizaje. Si observamos a los niños veremos que de
 		  manera natural crean sus juguetes, sus disfraces, les encanta desmontar las cosas para
-		  volver a montarlas. Por diferentes circunstancias vemos que muchos adultos hemos perdido esa 
-		  capacidad de crear, y desde este proyecto se pretende recuperar o potenciar. Por otro lado mediante la 
+		  volver a montarlas. Desde este proyecto se pretende recuperar o potenciar esta 
+		  actividad también en los adolescentes.
+		  
+		- Mediante la 
 		  construcción o manipulación de objetos, normalmente obtenemos un aprendizaje más significativo y duradero
 		  que si la adquisición del conocimiento se hace por otros medios.
 	
@@ -147,7 +147,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		- Dotar al centro de un espacio "maker"
 		- Promocionar en el centro la creatividad como forma de aprendizaje informal
 		- Desarrollar en el alumnado la proactividad, la autonomía y la responsabilidad en la gestión de un espacio propio 
-		- Promocionar en el centro el uso de la tecnoloǵia y el conocimiento libre como herramientas para desarrollar la creatividad
+		- Promocionar en el centro el uso de la tecnología y el conocimiento libre como herramientas para desarrollar la creatividad
 		- Fomentar, mediante el espacio maker, las relaciones sociales, la difusión de experiencias creativas y la consecución de objetivos colectivos
 		- Abrir el espacio "maker" al exterior mediante la celebración de eventos como Scratch Day, Arduino Day o una específica de tecnología 3D
 		- Evolucionar la Impresora 3D y los conocimientos en modelado 3D que ya se hicieron en el centro
@@ -168,7 +168,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	del proyecto, y por tanto la lista que aparece a continuación podría ser orientativa.
     
     	Contenidos curriculares básicos:
-        	- Mecánica física: Conceptos como velocidades lineales, angulares, engranajes, ...
+        	- Mecánica y física: Conceptos como velocidades lineales, angulares, engranajes, ...
         	- Ley de Ohm y Corriente eléctrica
         	- Componentes electrónicos básicos: Resistencias, Tipos de Motores, ...
         	- Arquitectura y redes de Ordenadores
@@ -245,7 +245,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	comentar lo que se había hecho durante esa semana, se propone seguir con 
 	esa dinámica. Todos lo viernes en el segundo recreo se quedará para compartir
 	experiencias.
-	Además, como los protagonistas debes ser los alumnos se va a intentar que 
+	Además, como los protagonistas deben ser los alumnos, se va a intentar que 
 	puedan ir a este espacio a trabajar durante los segundos recreos de manera
 	autónoma y responsable, por lo que deberán organizarse ellos y velar por el buen funcionamiento 
 	del espacio. 
@@ -285,7 +285,9 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 
 	- **Comunicación lingüística:**
 	  Esta competencia se desarrollará durante todo el proyecto: al documentarse para
-	  ver qué se hace, al tomar decisiones y sobre todo al difundir los resultados
+	  ver qué se hace, al tomar decisiones y sobre todo al difundir los resultados.1. Se intentará, además, 
+	  que algunos resultados se produzcan en otras lenguas para su mayor difusión en 
+	  Internet (euskera, inglés o francés).
 	- **Competencia matemática y competencias básicas en ciencia y tecnología.**
 	  La mayoría de los contenidos propuestos requieren desarrollar la inteligecia
 	  lógico-matemática y el razonamiento formal. Además se desarrollan conceptos
@@ -324,7 +326,9 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	Se propondrá la participación voluntaria a todo el alumnado del centro, que tendrá libertad para 
 	acudir al espacio maker durante los segundos recreos.
 	En el caso de que algún profesor implicado pueda realizar alguna adaptación de la programación en alguno de 
-	sus grupos, dicho alumnado también participará en los trabajos que correspondan.
+	sus grupos, dicho alumnado también participará en los trabajos que correspondan. En este sentido, por ejemplo, 
+	para la difusión y documentación 
+	del proyecto se puede contar con el profesorado del Área de Lenguas y de Educación Plástica y Visual.
 
 #. Participación de la Comunidad Educativa
 	Durante las tres jornadas de apertura del espacio, con sus talleres correspondientes, el resto de la comunidad
@@ -397,7 +401,8 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 #. Formación
 	La formación queda contemplada en la metodología del proyecto: Autoformación a partir de fuentes externas.
 	Debido al esfuerzo que implica, la creación de un grupo de trabajo en centro facilitaría la formación
-	en las diferentes tecnologías del profesorado que participe en el proyecto.
+	del profesorado que participe en el proyecto. De esta forma se adquiría al menos la base tecnológica 
+	necesaria para asesorar al alumnado.
 	
 #. Presupuesto.
 	Arduinos, Raspberry Pis, Monitores y teclados, Punto de acceso, Bobinas de filamento para la impresora,
@@ -405,4 +410,6 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	productos que habría que comprar. Establecer un presupuesto exacto resulta complicado porque ni los propios
 	contenidos del proyecto está concretados al 100%. Sin embargo, la mayoría de los componentes son
 	de bajo coste, por lo que con una cantidad de unos 1000€ creemos que es posible montar un espacio que
-	siente las bases de una verdadero "espacio maker"
+	siente las bases de una verdadero "espacio maker". Posiblemente, el primero hasta la fecha en un centro educativo
+	navarro,  
+	y avalado por el trabajo previo del montaje y desarrollo de nuestra impresora 3D.
