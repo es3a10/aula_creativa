@@ -2,7 +2,7 @@ Artículos
 =========
 
 
-Imagina, crea, difunde: "Makespace" Cortes  (BORRADOR)
+Imagina, crea, difunde: "Minimakespace" Cortes  (BORRADOR)
 ________________________________________
 Mayo, 2015
 
@@ -21,7 +21,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 
 #. Nombre y apellidos del coordinador o coordinadora.
 	El autor del documento es Carlos Rodríguez Jaso, pero siguiendo las ideas que defiende el proyecto
-	de corresponsabilizar el trabajo
+	de corresponsabilizar el trabajo y establecer una meritocracia
 	estaría encantado de que el proyecto fuera liderado por otra persona.
 
 #. Breve descripción del proyecto
@@ -59,8 +59,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	
 	La democratización de los medios de producción digitales, y últimamente
 	la extensión de este fenómeno al mundo físico a través de impresoras 3d y máquinas de fabricación digital
-	ha hecho que hayan proliferado en diferentes ciudades
-	centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY -Do it yourself- :
+	ha hecho que hayan proliferado centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY -Do it yourself- :
 	Hablamos de los Fab Labs, Makespaces u otras denominaciones que vienen a ser
 	parecidas. 
 	
@@ -80,7 +79,8 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	tecnológicos. Se considera "maker" a todo el que construye cosas por sus propios medios, 
 	sean muebles, vestidos, alimentos, etc.
 	
-	(Referencias: http://makespacemadrid.org/que-es-el-makespace/ , http://es.wikipedia.org/wiki/Fab_lab)
+	(Referencias: http://makespacemadrid.org/que-es-el-makespace/ , http://es.wikipedia.org/wiki/Fab_lab, 
+	https://www.youtube.com/watch?v=N2apWHiX02c&feature=youtu.be)
 	
 	De acuerdo con todo lo anterior se propone construir un espacio en el centro donde se puedan
 	crear cosas fomentando, además de las relaciones sociales, aspectos como
@@ -93,7 +93,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		- La creatividad es una forma natural de aprendizaje. Si observamos a los niños veremos que de
 		  manera natural crean sus juguetes, sus disfraces, les encanta desmontar las cosas para
 		  volver a montarlas. Por diferentes circunstancias vemos que muchos adultos hemos perdido esa 
-		  capacidad de crear, y desde este proyecot se pretende recuperar. Por otro lado mediante la 
+		  capacidad de crear, y desde este proyecto se pretende recuperar o potenciar. Por otro lado mediante la 
 		  construcción o manipulación de objetos, normalmente obtenemos un aprendizaje más significativo y duradero
 		  que si la adquisición del conocimiento se hace por otros medios.
 	
@@ -123,7 +123,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		  "producción" y/o fabricación de objetos. Durante épocas anteriores la sociedad
 		  se ha caracterizado por el elevado consumo. La disminución de la capacidad adquisitiva 
 		  de nuestra sociedad en crisis, el medio ambiente, e incluso la ética y respeto hacia esa parte 
-		  del mundo sin recursos, son solo algunas de las razones por las que es hora de tomar conciencia de que el 
+		  del mundo sin recursos, son solo algunas de las razones por las que hay tomar conciencia de que el 
 		  consumo ha de ser responsable. En ese sentido, el reciclaje y la autofabricación pueden servir de ayuda.
 	
 	#. Líneas de actuación
@@ -150,7 +150,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		- Promocionar en el centro el uso de la tecnoloǵia y el conocimiento libre como herramientas para desarrollar la creatividad
 		- Fomentar, mediante el espacio maker, las relaciones sociales, la difusión de experiencias creativas y la consecución de objetivos colectivos
 		- Abrir el espacio "maker" al exterior mediante la celebración de eventos como Scratch Day, Arduino Day o una específica de tecnología 3D
-		- Evolucionar la Impresora 3D y los conocimientos en modelado 3D
+		- Evolucionar la Impresora 3D y los conocimientos en modelado 3D que ya se hicieron en el centro
 		- Prestar servicio de impresión 3D a todo aquel que lo requiera con fines educativos
 		- Ampliar los conocimientos de programación Scratch y extenderlos al mundo físico mediante el uso de Arduino
 		- Desarrollar desafíos de robótica tanto de robots comerciales Lego como robots "imprimibles" con Arduino
@@ -181,7 +181,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
         	- Mantenimiento de un portal o blog, en el que se documenten los trabajos realizados
 		- Desarrollo de talleres abiertos al público: Scratch Day, Arduino Day y Taller 3D
     	Contenidos específicos de la Impresora 3D:
-		- Servicio de Impresión Remoto con Octoprint
+		- Servicio de Impresión Remoto con Octoprint (http://octoprint.org/)
 		- Pantalla lcd para impresión desde tarjeta SD
 		- Modelado de Objetos 3D
     	Contenidos de Robótica:
@@ -197,10 +197,10 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		- Control desde Arduino de los principales componentes electrónicos. 
 		- Instalación de sistema operativo en Raspberry Pi
 		- Acceso Remoto a Raspberry Pi
-		- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D (http://octoprint.org/)
+		- Instalación en Raspberry Pi del Software Octoprint para controlar la Impresora 3D 
 	
 	En todo caso, las actividades vendrán determinados por documentación libre que puedas ser aprovechada y siguiendo
-	la metodología del proyectos.
+	la metodología del proyecto.
 	Algunos ejemplos de entornos de documentación sobre los que se podría trabajar serían:
 		- Portal Código21 del Gobierno de Navarra sobre tecnologías creativas: http://codigo21.educacion.navarra.es/alumnado/recursos/
 		- Escuela Maker de bq: http://diwo.bq.com/
@@ -225,10 +225,10 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	**Crea:**
 	Se trata de aprender haciendo, que los participantes se sientan responsables de los productos finales. La experiencia
 	de haber montado un Impresora 3D nos ha demostrado que cuando uno crea algo, aparte de aprender, durante ese
-	proceso en muchas ocasiones aparecen nuevas ideas para desarrollar, entrando en una especia de espiral creativa y por
+	proceso en muchas ocasiones aparecen nuevas ideas para desarrollar, entrando en una especie de espiral creativa y por
 	tanto de aprendizaje que parece no tener fin -Por ejemplo, durante la construcción de la impresora, vimos que podíamos modificarla para
 	convertirla en un plotter. Eso nos hizo plantearnos dibujos geométricos, que a su vez nos hicieron investigar 
-	las coordenadas polares que para pasar cartesianas, nos hizo también introducir conocimientos de trigonometría-
+	las coordenadas polares. Pero para pasarlas a cartesianas, nos hizo también introducir conocimientos de trigonometría-
 	
 	**Difunde:**
 	Esta es la idea principal del conocimiento libre: se trata de compartir el conocimiento adquirido. Básicamente por tres razones:
@@ -237,13 +237,13 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		- Nos permite aprender del trabajo de los demás y mejorarlo
 	Este punto es el que más suele costar al alumnado, sin embargo constituye la clave del éxito del proyecto por lo que se pretende darle especial relevancia. 	
 	En este apartado de difusión, se pretende además, abrir las puertas del centro con una
-	serie de actividades abiertas al público: Padres, niños, etc.
+	serie de actividades abiertas al público: Padres, niños, otros centros, etc.
 	
 	A nivel organizativo, la característica principal estará en la flexibilidad. 
 	Basándonos en la experiencia de la construcción de la Impresora 3d, donde
 	todos los viernes en el segundo recreo se hacía una reunión informal para
 	comentar lo que se había hecho durante esa semana, se propone seguir con 
-	esa dinámica: Todos lo viernes en el segundo recreo se quedará para compartir
+	esa dinámica. Todos lo viernes en el segundo recreo se quedará para compartir
 	experiencias.
 	Además, como los protagonistas debes ser los alumnos se va a intentar que 
 	puedan ir a este espacio a trabajar durante los segundos recreos de manera
@@ -255,12 +255,12 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	En todo proceso creativo aparecerán tareas o actividades de diferente dificultad
 	permitiendo a cada alumno elegir en que contribuye al éxito colectivo. En los últimos años
 	hemos observado una gran heterogeneidad en el alumnado, encontrando o muy buenos o simplemente
-	"menos" buenos y este tipo de propuestas pueden ser positivas
+	"menos" buenos y este tipo de propuestas pueden ser positivas.
 
 	Cualquier otro aspecto quedaría pendiente de definir, ya que se desconocen los
 	grupos, horarios y profesores con los que se va a contar. Pero es indudable, que
 	siempre se va a poder adaptar tiempos y programaciones para poder contribuir al
-	proyecto -Por ejemplo, emplear alguna hora de tutoría para diseñar y crear carteles
+	proyecto -Un ejemplo: emplear alguna hora de tutoría para diseñar y crear carteles
 	para promocionar el Scratch Day-
 
 	Desde el Departamento de Educación del Gobierno de Navarra aparece una clara intención
@@ -277,7 +277,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	suficientemente motivado
 	para desarrollar estas capacidades, por lo que la creación de un espacio específico de uso voluntario dentro
 	del centro permitirá potenciar la creatividad de aquellos alumnos que sientan inquietud
-	por el mundo "maker".
+	por el mundo "maker" sin necesidad de obligar al resto.
 	  
 #. Competencias clave y materias o asignaturas relacionadas con el proyecto
 	El escenario planteado supone un excelente marco para desarrollar las competencias claves. 
@@ -299,7 +299,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	- **Aprender a aprender:**
 	  Si algo tiene este tipo de aprendizaje informal es la necesidad de obtener la
 	  la documentación de lo que se quiere hacer de fuentes externas, por lo que
-	  se está en realidad transmitiendo una forma de aprender por uno mismo.
+	  se está, en realidad, transmitiendo una forma de aprender por uno mismo.
 	- **Competencias sociales y cívicas:**
 	  El espacio "maker" en realidad es un punto de encuentro para trabajar y compartir
 	  experiencias, por lo que continuamente se desarrollarán las habilidades sociales.
@@ -308,14 +308,15 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	- **Sentido de iniciativa y espiritu emprendedor:**
 	  La creatividad fomenta la generación de ideas y la proactividad, cualidades imprescindibles
 	  para la iniciativa y emprendimiento. Por no extender el alcance del proyecto,
-	  no se desarrollarán estas competencias desde el punto de vista de la gestión empresarial
+	  no se desarrollarán estas competencias desde el punto de vista de la gestión empresarial.
 	- **Conciencia y expresiones culturales:**
-	  La creatividad, de nuevo, permite la expresión más artística del alumando. Hay que resaltar como en los
+	  La creatividad, de nuevo, permite la expresión más artística del alumando. Hay que resaltar que los
 	  verdaderos "makespaces" y "fablabs" son también centros de creación de arte digital.
 
 #. Equipo docente implicado
 	Por las características de los contenidos el perfil de profesorado que más se ajusta es el de tecnología, y los
-	profesores de matemáticas que realizaron el curso de robótica educativa. Sin embargo, dada la naturaleza flexible
+	profesores de matemáticas que realizaron el curso de robótica educativa hace un par de años. 
+	Sin embargo, dada la naturaleza flexible
 	del proyecto, también podrá participar aquel profesorado con inquietudes y propuestas creativas.
 
 #. Alumnado
@@ -327,21 +328,22 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 #. Participación de la Comunidad Educativa
 	Durante las tres jornadas de apertura del espacio, con sus talleres correspondientes, el resto de la comunidad
 	educativa -padres, alumnos y profesores de otros centros, antiguos profesores, etc.- y no educativa 
-	-la entrada será libre- podrá participar junto al alumnado del centro
+	-la entrada será libre- podrá participar junto al alumnado del centro.
 
 #. Recursos humanos y materiales y alianzas con otras instituciones
 	Muchas personas creativas (y sobre todo "hacedoras DIY")  se caracterizan por saber adaptarse a los
 	recursos que tiene y reciclar en la medida de lo posible. Este tipo de actitud, como hemos dicho, se intentará transmitir dentro del espacio "maker".
 	A pesar de ello, el acceso a una serie de recursos facilitaría su implantación.
 	Podemos enumerar los recursos por línea de actuación:
-		- Espacio Maker: Se necesitarían tres ordenadores de bajo coste para aprender primero y  poder trabajar 
+		- Espacio Maker: Se necesitarían tres ordenadores de bajo coste para aprender primero, y poder trabajar 
 		  después. Montarlos a partir de placas Raspberry Pi puede ser una buena alternativa. 
-		  Las Raspberry solo son placas de , para montar los ordenadores se necesitan periféricos: Monitores,
+		  Las Raspberry solo son placas de procesamiento, para montar los ordenadores completos se necesitan además
+		  periféricos: Monitores,
 		  teclados, etc. Una opción interesante sería reciclar componentes de empresas y entidades de la zona.
 		  La impresora 3D ya está en el centro, por lo que pasaría a ubicarse en este espacio.
-		  Se intentaría dotar al espacio de un punto de acceso con Firmware Libre (OpenWrt), y que el alumnado 
+		  Se intentaría dotar al espacio de un punto de acceso, y que el alumnado 
 		  configure y gestione el punto de acceso. Potenciar el uso de sus propios dispositivos en este entorno 
-		  puede ser una experiencia piloto para acercar el concepto BYOD (Bring yout own device) al centro.
+		  puede ser una experiencia piloto para acercar el concepto BYOD -Bring yout own device- al centro.
 		  Puesto que el apartado de explicar y difundir lo realizado tiene especial relevancia, no
 		  estaría de más dotar al espacio de un proyector y un equipo de sonido inalámbrico.
 		- Tecnología 3D: La impresora 3D ya está operativa, pero puede evolucionarse y mejorar.
@@ -351,12 +353,12 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		  El hardware para montar el servidor de impresión remoto se haría sobre uno de los ordenadores del punto anterior.
 		  También sería necesario adquirir bobinas de filamento para imprimir.
 		- Robótica: La electrónica de los robots se puede hacer con placas Arduino. Sin embargo, para simplificar 
-		  los cableados posteriores sería más conveniente utilizar las placas adaptadas que comercializa la empresa bq. 
-		  El resto de componentes electrónicos (servomotores, resistencias, ...) también se pordrían solicitar a bq o 
+		  los cableados posteriores sería más conveniente utilizar unas placas adaptadas que comercializa, por ejemplo, la empresa bq. 
+		  El resto de componentes electrónicos (servomotores, resistencias, ...) también se pordrían solicitar a bq.
 		- Hardware Libre: Tanto los Arduinos como las Raspberry Pi serían los mismo que los utilizados en los puntos anteriores
 
 #. TIC que se van a incorporar
-	Teniendo en cuenta que la impresora 3D ya se tiene y que se han probado herramientas de modelado
+	Teniendo en cuenta que la impresora 3D ya se tiene y que se han probado herramientas de modelado 3D
 	(FreeCad y TinkerCad), básicamente se incorporarán  como 
 	nuevas las siguientes TIC.
 		- Hardware: Electrónica Arduino y Ordenadores educativos Raspberry PI. Robots imprimibles
@@ -384,16 +386,16 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		
 	
 #. Formas de evaluación
-	Para evaluar las actividades se propone valorar cada proyecto o trabajo con una encuesta a los integrantes. Se está estudiando
-	hacerlo a través de Twitter como forma adicional de difusión del mismo de forma que, por ejemplo, si
+	Para evaluar las actividades se propone valorar cada proyecto o trabajo con una encuesta a los integrantes. 
+	Se podría hacer, además, a través de Twitter como forma adicional de difusión del mismo de forma que, por ejemplo, si
 	valoran positivamente el proyecto hacen un retuit y si no lo valoran lo marcan como favorito.
 	Para evaluar el trabajo, los profesores participantes podrán incluir criterios de calificación en sus 
 	programaciones. En el caso del autor de este documento, valorará el trabajo de aquellos alumnos que
-	pertenezcan a alguno de sus grupo en el apartado de actitud que normalmente incluye en sus programaciones.
+	pertenezcan a alguno de sus grupos dentro del apartado de actitud que normalmente incluye en sus programaciones.
 
 #. Formación
 	La formación queda contemplada en la metodología del proyecto: Autoformación a partir de fuentes externas.
-	Debido al esfuerzo que  implica, la creación de un grupo de trabajo en centro facilitaría la formación
+	Debido al esfuerzo que implica, la creación de un grupo de trabajo en centro facilitaría la formación
 	en las diferentes tecnologías del profesorado que participe en el proyecto.
 	
 #. Presupuesto.
