@@ -361,6 +361,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 
 #. Fases y temporalización
 	Se propone el siguiente calendario orientativo:
+	
 	- Espacio Maker
 		- Montaje de equipos e instalación de sistemas operativos: De Octubre a Diciembre
 		- Montaje del punto de acceso: De Octubre a Noviembre
