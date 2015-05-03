@@ -13,7 +13,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 #. Título del proyecto
 	Imagina, crea, difunde: "Makespace" Cortes
 
-#. Palabras clave (tres)
+#. Palabras clave
 	Creatividad, Tecnología y Conocimiento Libre
 
 #. Nombre del centro o centros donde se desarrollará el proyecto.
