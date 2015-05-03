@@ -286,7 +286,18 @@ La adquisición de las mismas irá ligada al mayor o menor éxito en el desarrol
 	  La creatividad, de nuevo, permite la expresión más artística del alumando. Hay que resaltar como en los
 	  verdaderos "makespaces" y "fablabs" son también centros de creación de arte digital.
 
-#. Alumnado y comunidad educativa implicada
+#. Equipo docente implicado
+Por las características de los contenidos el perfil de profesorado que más se ajusta es el de tecnología, y los
+profesores de matemáticas que realizaron el curso de robótica educativa. Sin embargo, dada la naturaleza flexible
+del proyecto, también podrá participar aquel profesorado con inquietudes y propuestas creativas.
+
+#. Alumnado
+Se propondrá la participación voluntaria a todo el alumnado del centro.
+En el caso de que algún profesor implicado pueda realizar alguna adaptación de la programación en alguno de 
+sus grupos, dicho alumnado también participará en algún trabajo concreto
+
+
+Si algún profesor quiere contribuir al proyecto
 
 	- Alumnos
 	- Docentes
