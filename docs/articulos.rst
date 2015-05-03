@@ -2,7 +2,7 @@ Artículos
 =========
 
 
-Imagina, crea, difunde: "Makespace" Cortes  (BORRADOR)
+Imagina, crea, difunde: "Makespace" Bardenas  
 ________________________________________
 Mayo, 2015
 
@@ -11,7 +11,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 
 
 #. Título del proyecto
-	Imagina, crea, difunde: "Makespace" Cortes
+	Imagina, crea, difunde: "Makespace" Bardenas
 
 #. Palabras clave
 	Creatividad, Tecnología, Conocimiento Libre
