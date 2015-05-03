@@ -27,7 +27,43 @@ Mayo, 2015
 But if you have an idea and I have an idea and we exchange these ideas, then each of us will have two ideas." - George Bernard Shaw*
 
 
-#. Introducción
+#. Título del proyecto
+Imagina, crea, difunde: "Makespace" Cortes
+
+#. Palabras clave (tres)
+Creatividad, Tecnología y Conocimiento Libre
+
+#. Nombre del centro o centros donde se desarrollará el proyecto.
+IESO Bardenas Reales
+
+#. Nombre y apellidos del coordinador o coordinadora.
+El autor del documento es Carlos Rodríguez Jaso, pero siguiendo las ideas que defiende el proyecto
+estaría encantada de que el proyecto fuera liderado por otra persona.
+
+#. Breve descripción del proyecto
+Se pretende crear un espacio informal de fabricación digital con las herramientas que
+la tecnología actual nos proporciona: Arduino, Scratch, Raspberry Pi e Impresión 3D (entre otras)
+
+#. Índice.
+	1. Título del proyecto.
+	2. Palabras clave (tres)
+	3. Nombre del centro o centros donde se desarrollará el proyecto.
+	4. Nombre y apellidos del coordinador o coordinadora.
+	5. Breve descripción del proyecto
+	6. Índice.
+	7. Justificación. 
+	8. Objetivos.
+	9. Contenidos y actividades.
+	10. Metodología.
+	11. Competencias clave y materias o asignaturas relacionadas.
+	12. Equipo docente implicado.
+	13. Alumnado.
+	14. Participación de la Comunidad Educativa.
+	15. Recursos humanos y materiales y alianzas con otras instituciones.
+	16. TIC que se van a incorporar.
+	17. Fases y temporalización.
+
+#. Justificación
 	Como resultado de la creación de una impresora 3d en el centro, se ha descubierto
 	un tipo de aprendizaje informal que constituye la base de este proyecto y que si bien
 	ya se ha trabajado se pretende explorar en mayor profundidad. Si la construcción de la impresora
@@ -126,6 +162,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		- Fomentar, mediante el espacio maker, las relaciones sociales, la difusión de experiencias creativas y la consecución de objetivos colectivos
 		- Abrir el espacio "maker" al exterior mediante la celebración de eventos como Scratch Day, Arduino Day o una específica de tecnología 3D
 		- Evolucionar la Impresora 3D y los conocimientos en modelado 3D
+		- Prestar servicio de impresión 3D a todo aquel que lo requiera con fines educativos
 		- Ampliar los conocimientos de programación Scratch y extenderlos al mundo físico mediante el uso de Arduino
 		- Desarrollar desafíos de robótica tanto de robots comerciales Lego como robots "imprimibles" con Arduino
 		- Extender el concepto de creatividad a otros ámbitos y áreas: Por ejemplo el huerto, muebles DIY , 
