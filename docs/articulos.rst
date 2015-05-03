@@ -21,10 +21,11 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 
 #. Nombre y apellidos del coordinador o coordinadora.
 	El autor del documento es Carlos Rodríguez Jaso, pero siguiendo las ideas que defiende el proyecto
-	estaría encantada de que el proyecto fuera liderado por otra persona.
+	de corresponsabilizar el trabajo
+	estaría encantado de que el proyecto fuera liderado por otra persona.
 
 #. Breve descripción del proyecto
-	Se pretende crear un espacio informal de fabricación digital con las herramientas que
+	Se pretende crear un espacio informal de fabricación digital con algunas herramientas que
 	la tecnología actual nos proporciona: Arduino, Scratch, Raspberry Pi e Impresión 3D (entre otras)
 
 #. Índice
@@ -59,7 +60,7 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	La democratización de los medios de producción digitales, y últimamente
 	la extensión de este fenómeno al mundo físico a través de impresoras 3d y máquinas de fabricación digital
 	ha hecho que hayan proliferado en diferentes ciudades
-	centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY (do it yourself):
+	centros espontáneos donde se reunen entusiastas de la fabricación "tecnológica" DIY -Do it yourself- :
 	Hablamos de los Fab Labs, Makespaces u otras denominaciones que vienen a ser
 	parecidas. 
 	
@@ -74,12 +75,12 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 	 
 	La organización de estos centros se basa en la meritocracia, y por tanto
 	cada uno es "libre" de entrar y salir cuando quiera, y de aportar o recibir lo que le interese.
-	Aunque el perfil de "maker" es eminentemente tecnológico, porque ésta es la que ha propiciado la
+	Aunque el perfil de "maker" es eminentemente tecnológico, ya que ésta es la que ha propiciado la
 	democratización de los medios de autoproducción, la "creación" de objetos no se limita a objetos
 	tecnológicos. Se considera "maker" a todo el que construye cosas por sus propios medios, 
 	sean muebles, vestidos, alimentos, etc.
 	
-	(Referencias: http://makespacemadrid.org/que-es-el-makespace/ http://es.wikipedia.org/wiki/Fab_lab)
+	(Referencias: http://makespacemadrid.org/que-es-el-makespace/ , http://es.wikipedia.org/wiki/Fab_lab)
 	
 	De acuerdo con todo lo anterior se propone construir un espacio en el centro donde se puedan
 	crear cosas fomentando, además de las relaciones sociales, aspectos como
@@ -92,7 +93,9 @@ But if you have an idea and I have an idea and we exchange these ideas, then eac
 		- La creatividad es una forma natural de aprendizaje. Si observamos a los niños veremos que de
 		  manera natural crean sus juguetes, sus disfraces, les encanta desmontar las cosas para
 		  volver a montarlas. Por diferentes circunstancias vemos que muchos adultos hemos perdido esa 
-		  capacidad de aprendizaje, y por lo tanto es hora de recuperar 
+		  capacidad de crear, y desde este proyecot se pretende recuperar. Por otro lado mediante la 
+		  construcción o manipulación de objetos, normalmente obtenemos un aprendizaje más significativo y duradero
+		  que si la adquisición del conocimiento se hace por otros medios.
 	
 		- El conocimiento libre se basa en compartir el conocimiento, en difundirlo.
 		  Por una parte el propio proceso de documentar, explicar y compartir lo que se ha hecho
