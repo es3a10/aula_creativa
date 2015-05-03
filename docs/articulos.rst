@@ -2,7 +2,7 @@ Artículos
 =========
 
 
-Imagina, crea, difunde: "Minimakespace" Cortes  (BORRADOR)
+Imagina, crea, difunde: "Makespace" Cortes  (BORRADOR)
 ________________________________________
 Mayo, 2015
 
